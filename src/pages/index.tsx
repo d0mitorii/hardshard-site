@@ -26,7 +26,7 @@ function HomepageHeader() {
           <div className={styles.buttons}>
             <Link
               className="button button--primary button--lg"
-              to="/about"
+              to="https://docs.google.com/forms/d/e/1FAIpQLSd439lToKD3iWyeyhokr8FDmnviJtvespjAiwM_0_tl2tLbHw/viewform"
             >
               Подать заявку
             </Link>
