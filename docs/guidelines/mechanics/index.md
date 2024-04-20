@@ -16,4 +16,10 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     preview="/img/mechanics/ziprails-banner.png"
     to="/docs/mechanics/ziprails"
   />
+  <Card 
+    title="Новая еда"
+    description="Более 50 новых рецептов блюд, выпечки и напитков."
+    preview="/img/mechanics/joshs-more-foods.png"
+    to="/docs/mechanics/joshs-more-foods"
+  />
 </CardSection>
