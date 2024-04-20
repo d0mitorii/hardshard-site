@@ -28,3 +28,18 @@
   --ifm-color-primary-lightest: #afd3f1;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.img-card {
+  border-radius: 0.5rem;
+  height: 12rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.img-card img {
+  flex: 1;
+  height: auto;
+  object-fit: cover;
+}
