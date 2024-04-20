@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
@@ -15,8 +15,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'd0mitorii', // Usually your GitHub org/user name.
+  projectName: 'hardshard-site', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -35,17 +35,9 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -63,11 +55,11 @@ const config: Config = {
         src: 'img/hardshard-logo-full.png',
       },
       items: [
-        {to: '/about', label: 'О проекте', position: 'right'},
-        {to: '/docs/rules', label: 'Правила', position: 'right'},
-        {to: '/docs/guidelines', label: 'Руководства', position: 'right'},
-        {to: '/blog', label: 'Новости', position: 'right'},
-        {to: 'https://docs.google.com/forms/d/e/1FAIpQLSd439lToKD3iWyeyhokr8FDmnviJtvespjAiwM_0_tl2tLbHw/viewform', label: 'Начать играть', position: 'right'},
+        { to: '/about', label: 'О проекте', position: 'right' },
+        { to: '/docs/rules', label: 'Правила', position: 'right' },
+        { to: '/docs/guidelines', label: 'Руководства', position: 'right' },
+        { to: '/blog', label: 'Новости', position: 'right' },
+        { to: 'https://docs.google.com/forms/d/e/1FAIpQLSd439lToKD3iWyeyhokr8FDmnviJtvespjAiwM_0_tl2tLbHw/viewform', label: 'Начать играть', position: 'right' },
       ],
     },
     // footer: {
