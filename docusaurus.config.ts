@@ -6,24 +6,12 @@ const config: Config = {
   title: 'Hardshard',
   tagline: 'Ламповый Vanilla+ бесплатный сервер без приватов, с улучшенным геймплеем и элементами ролевой игры',
   favicon: 'img/favicon.ico',
-
-  // Set the production url of your site here
   url: 'https://d0mitorii.github.io/hardshard-site/',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'd0mitorii', // Usually your GitHub org/user name.
-  projectName: 'hardshard-site', // Usually your repo name.
-
+  organizationName: 'd0mitorii',
+  projectName: 'hardshard-site',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'ru',
     locales: ['ru'],
