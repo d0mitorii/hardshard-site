@@ -16,7 +16,7 @@ const config: Config = {
     defaultLocale: 'ru',
     locales: ['ru'],
   },
-
+  plugins: ['docusaurus-plugin-image-zoom'],
   presets: [
     [
       'classic',
@@ -35,7 +35,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       logo: {
@@ -72,6 +71,13 @@ const config: Config = {
     //   ],
     //   copyright: `Hardshard © ${new Date().getFullYear()}`,
     // },
+    zoom: {
+      selector: '.imageContainer img',
+      background: {
+        light: 'rgb(255, 255, 255)',
+        dark: 'rgb(25, 25, 25)'
+      },
+    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
