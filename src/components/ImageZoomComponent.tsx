@@ -8,7 +8,7 @@ export function ImageZoom(props) {
         marginBottom: "1rem"
       }}
     >
-      <img src={props.src} alt={props.alt} />
+      <img src={props.src} alt={props.alt} style={{maxWidth: props.maxWidth}}/>
     </div>
   );
 }
