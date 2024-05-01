@@ -42,9 +42,15 @@ const config: Config = {
         src: 'img/hardshard-logo-full.png',
       },
       items: [
-        { to: '/about', label: 'О проекте', position: 'right' },
-        { to: '/docs/rules', label: 'Правила', position: 'right' },
+        { to: '/docs/rules', label: 'Правила', position: 'right'},
+        // {
+        //   type: 'doc',
+        //   position: 'right',
+        //   docId: 'rules',
+        //   label: 'Правила',
+        // },
         { to: '/docs/guidelines', label: 'Руководства', position: 'right' },
+        { to: '/docs/roleplay', label: 'Ролевая игра', position: 'right' },
         { to: '/blog', label: 'Новости', position: 'right' },
         { to: 'https://docs.google.com/forms/d/e/1FAIpQLSd439lToKD3iWyeyhokr8FDmnviJtvespjAiwM_0_tl2tLbHw/viewform', label: 'Начать играть', position: 'right' },
       ],
