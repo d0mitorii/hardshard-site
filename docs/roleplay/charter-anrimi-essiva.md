@@ -1,7 +1,7 @@
 ---
 title: Устав Анрими-Эссива
 description: Устав Вольного города-спавна Анрими-Эссива.
-sidebar_posítion: 0
+sidebar_posítion: 1
 slug: /charter-anrimi-essiva
 ---
 
