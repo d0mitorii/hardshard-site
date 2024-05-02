@@ -5,6 +5,8 @@ sidebar_posítion: 1
 slug: /charter-anrimi-essiva
 ---
 
+import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
+
 # Устав Вольного города-спавна Анрими-Эссива
 
 Настоящий Устав является автономной частью Правил HardShard, а также государствообразующим учредительным документом города-спавна Анрими-Эссива.
@@ -48,11 +50,12 @@ slug: /charter-anrimi-essiva
 
 - **10.1. Состав Наблюдательного совета**
 В состав Наблюдательного совета входят следующие лица:
-
-  - Gottor — Председатель
-  - Kemerfund
-  - Flammablelion
-  - Himer_Fatal
-  - Monteny
+<div>
+  <PhotoNamePlayer nickname="Gottor"/> — Председатель
+  <PhotoNamePlayer nickname="Kemerfund"/>
+  <PhotoNamePlayer nickname="Flammablelion"/>
+  <PhotoNamePlayer nickname="Himer_Fatal"/>
+  <PhotoNamePlayer nickname="Monteny" style={{marginBottom: "var(--ifm-leading)"}}/>
+</div>
 
 **11.** За нарушение положений настоящего Устава, за совершение действий, подрывающих основы строя Анрими-Эссивы, наказание назначается по решению Наблюдательного совета либо Губернатора Анрими-Эссивы в отдельных случаях и по своему усмотрению.

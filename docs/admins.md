@@ -5,6 +5,8 @@ title: Администрация
 description: Список должностных лиц, их функций и обязанностей.
 ---
 
+import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
+
 # Администрация
 
 ## Департамент технического обслуживания и надзора {#maintenance-and-supervision-department}
@@ -30,27 +32,27 @@ description: Список должностных лиц, их функций и 
   <tbody>
     <tr>
       <td>Технический администратор</td>
-      <td>Gottor</td>
+      <td><PhotoNamePlayer nickname="Gottor" skin="steve"/></td>
       <td>Разработка и настройка серверов, поддержание их работоспособности, обновление и улучшение игровых сборок, исправление технических ошибок</td>
     </tr>
     <tr>
       <td>Заместитель технического администратора</td>
-      <td>Monteny</td>
+      <td><PhotoNamePlayer nickname="Monteny"/></td>
       <td>Разработка и настройка серверов, поддержание их работоспособности, обновление и улучшение игровых сборок, исправление технических ошибок</td>
     </tr>
     <tr>
       <td>Администратор веб-сайта</td>
-      <td>Monteny</td>
+      <td><PhotoNamePlayer nickname="Monteny"/></td>
       <td>Управление технической частью, содержимым и структурой веб-сайта проекта, разработка и внедрение новых функции</td>
     </tr>
     <tr>
       <td>Надзорный инспектор</td>
-      <td>yantar1k</td>
+      <td><PhotoNamePlayer nickname="yantar1k"/></td>
       <td>Выявление нарушителей, использующих программное обеспечение, предоставляющее нечестную выгоду</td>
     </tr>
     <tr>
       <td>Технический специалист</td>
-      <td>mulciber_<br />notfoundname</td>
+      <td><PhotoNamePlayer nickname="notfoundname" skin="steve"/></td>
       <td>Разработка контента, исправление технических недостатков сборки сервера, тестирование нововведений</td>
     </tr>
   </tbody>
@@ -79,42 +81,49 @@ description: Список должностных лиц, их функций и 
   <tbody>
     <tr>
       <td>Комьюнити-менеджер</td>
-      <td>Flammablelion</td>
+      <td><PhotoNamePlayer nickname="Flammablelion"/></td>
       <td>Сбор обратной связи от игроков, организация мероприятий, работа с рекламой</td>
     </tr>
     <tr>
       <td>Специалист по обработке заявок</td>
-      <td>yantar1k<br />Flammablelion</td>
+      <td>
+        <PhotoNamePlayer nickname="yantar1k"/>
+        <PhotoNamePlayer nickname="Flammablelion"/>
+      </td>
       <td>Рассмотрение заявок по добавлению игроков в вайтлист серверов</td>
     </tr>
     <tr>
       <td>Внутриигровой модератор</td>
-      <td>yantar1k<br />Flammablelion<br />Kemerfund</td>
+      <td>
+        <PhotoNamePlayer nickname="yantar1k"/>
+        <PhotoNamePlayer nickname="Flammablelion"/>
+        <PhotoNamePlayer nickname="Kemerfund"/>
+      </td>
       <td>Модерация внутриигрового текствого и голосового чатов, прочих аспектов игры</td>
     </tr>
     <tr>
       <td>Администратор Telegram-канала HS</td>
-      <td>Flammablelion</td>
+      <td><PhotoNamePlayer nickname="Flammablelion"/></td>
       <td>Размещение офциальных сообщений Администратор в основном Telegram-канале проекта</td>
     </tr>
     <tr>
       <td>Администратор Telegram-канала объявлений</td>
-      <td>Flammablelion</td>
+      <td><PhotoNamePlayer nickname="Flammablelion"/></td>
       <td>Редакция и размещение сообщений игроков в канале объявлений Hardshard</td>
     </tr>
     <tr>
       <td>Администратор Telegram-чата HS</td>
-      <td>Kemerfund</td>
+      <td><PhotoNamePlayer nickname="Kemerfund"/></td>
       <td>Конфигурация основных параметров Telegram-чата, набор и курирование модераторов</td>
     </tr>
     <tr>
       <td>Администратор Discord-сервера HS</td>
-      <td>Monteny</td>
+      <td><PhotoNamePlayer nickname="Monteny"/></td>
       <td>Конфигурация основных настоек Discord-сервера HS, набор и курирование модераторов</td>
     </tr>
     <tr>
       <td>Модератор Discord-сервера HS</td>
-      <td>Nerkid</td>
+      <td><PhotoNamePlayer nickname="Nerkid"/></td>
       <td>Модерация сообщений игроков в рамках Discord-сервера</td>
     </tr>
   </tbody>
@@ -144,7 +153,10 @@ description: Список должностных лиц, их функций и 
   <tbody>
     <tr>
       <td>Законодатель</td>
-      <td>Kemerfund<be />yantar1k</td>
+      <td>
+        <PhotoNamePlayer nickname="yantar1k"/>
+        <PhotoNamePlayer nickname="Kemerfund"/>
+      </td>
       <td>Исполнение функций правотворчества и нормоконтроля</td>
     </tr>
   </tbody>
@@ -173,12 +185,12 @@ description: Список должностных лиц, их функций и 
   <tbody>
     <tr>
       <td>Советник Администрации Hardshard по общим вопросам</td>
-      <td>KerkSweet</td>
+      <td><PhotoNamePlayer nickname="KerkSweet"/></td>
       <td>Представление советов и рекомендаций Админстрации Hardshard в вопросах, связанных с обеспечением полноценной работы основного проекта</td>
     </tr>
     <tr>
       <td>Советник Администрации Hardshard по вопросам проекта Vintage Story</td>
-      <td>Himer_Fatal</td>
+      <td><PhotoNamePlayer nickname="Himer_Fatal" skin="steve"/></td>
       <td>Представление советов и рекомендаций Админстрации Hardshard в вопросах, связанных с обеспечением полноценной работы проекта Vintage Story</td>
     </tr>
   </tbody>

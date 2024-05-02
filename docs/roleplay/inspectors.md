@@ -5,6 +5,8 @@ sidebar_position: 3
 slug: /inspectors
 ---
 
+import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
+
 # Инспекторы
 
 ## Уникальные предметы
@@ -21,9 +23,49 @@ slug: /inspectors
 
 ## Состав Палаты инспекторов
 
-- ViMiR — Глава Палаты Инспекторов
-- \_AUZER\_
-- Terriuawara
-- MurlocProger
-- mulciber_
-- Flammablelion
+<table>
+  <thead>
+    <tr>
+      <th>Никнейм</th>
+      <th>Должность</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <PhotoNamePlayer nickname="ViMiR"/>
+      </td>
+      <td>Глава Палаты Инспекторов</td>
+    </tr>
+    <tr>
+      <td>
+        <PhotoNamePlayer nickname="_AUZER_"/>
+      </td>
+      <td>Рядовой сотрудник</td>
+    </tr>
+    <tr>
+      <td>
+        <PhotoNamePlayer nickname="Terriuawara"/>
+      </td>
+      <td>Рядовой сотрудник</td>
+    </tr>
+    <tr>
+      <td>
+        <PhotoNamePlayer nickname="MurlocProger"/>
+      </td>
+      <td>Рядовой сотрудник</td>
+    </tr>
+    <tr>
+      <td>
+        <PhotoNamePlayer nickname="mulciber_"/>
+      </td>
+      <td>Рядовой сотрудник</td>
+    </tr>
+    <tr>
+      <td>
+        <PhotoNamePlayer nickname="Flammablelion"/>
+      </td>
+      <td>Рядовой сотрудник</td>
+    </tr>
+  </tbody>
+</table>
