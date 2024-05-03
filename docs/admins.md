@@ -87,7 +87,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     <tr>
       <td>Специалист по обработке заявок</td>
       <td>
-        <PhotoNamePlayer nickname="yantar1k"/>
+        <PhotoNamePlayer nickname="yantar1k"/><br />
         <PhotoNamePlayer nickname="Flammablelion"/>
       </td>
       <td>Рассмотрение заявок по добавлению игроков в вайтлист серверов</td>
@@ -95,8 +95,8 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     <tr>
       <td>Внутриигровой модератор</td>
       <td>
-        <PhotoNamePlayer nickname="yantar1k"/>
-        <PhotoNamePlayer nickname="Flammablelion"/>
+        <PhotoNamePlayer nickname="yantar1k"/><br />
+        <PhotoNamePlayer nickname="Flammablelion"/><br />
         <PhotoNamePlayer nickname="Kemerfund"/>
       </td>
       <td>Модерация внутриигрового текствого и голосового чатов, прочих аспектов игры</td>
@@ -154,7 +154,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     <tr>
       <td>Законодатель</td>
       <td>
-        <PhotoNamePlayer nickname="yantar1k"/>
+        <PhotoNamePlayer nickname="yantar1k"/><br />
         <PhotoNamePlayer nickname="Kemerfund"/>
       </td>
       <td>Исполнение функций правотворчества и нормоконтроля</td>

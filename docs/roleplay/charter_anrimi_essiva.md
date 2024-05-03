@@ -50,12 +50,12 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 - **10.1. Состав Наблюдательного совета**
 В состав Наблюдательного совета входят следующие лица:
-<div>
-  <PhotoNamePlayer nickname="Gottor"/> — Председатель
-  <PhotoNamePlayer nickname="Kemerfund"/>
-  <PhotoNamePlayer nickname="Flammablelion"/>
-  <PhotoNamePlayer nickname="Himer_Fatal"/>
-  <PhotoNamePlayer nickname="Monteny" style={{marginBottom: "var(--ifm-leading)"}}/>
-</div>
+<ul style={{listStyleType: "none"}}>
+  <li className="liForPlayer"><PhotoNamePlayer nickname="Gottor" skin="steve"/> — Председатель</li>
+  <li className="liForPlayer"><PhotoNamePlayer nickname="Kemerfund"/></li>
+  <li className="liForPlayer"><PhotoNamePlayer nickname="Flammablelion"/></li>
+  <li className="liForPlayer"><PhotoNamePlayer nickname="Himer_Fatal" skin="steve"/></li>
+  <li className="liForPlayer"><PhotoNamePlayer nickname="Monteny"/></li>
+</ul>
 
 **11.** За нарушение положений настоящего Устава, за совершение действий, подрывающих основы строя Анрими-Эссивы, наказание назначается по решению Наблюдательного совета либо Губернатора Анрими-Эссивы в отдельных случаях и по своему усмотрению.

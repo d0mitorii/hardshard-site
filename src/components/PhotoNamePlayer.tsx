@@ -2,9 +2,9 @@ export const PhotoNamePlayer = (props) => {
   const url = `https://cravatar.eu/avatar/${props.skin ? props.skin : props.nickname}/160`;
   return (
     <div
-      className="padding--sm"
+      className="padding--sm pills__item"
       style={{
-        display: "flex",
+        display: "inline-flex",
         flexDirection: "row",
         alignItems: "center",
         ...props.style}}
@@ -28,8 +28,10 @@ export const PhotoNamePlayer = (props) => {
           }}/>
       </div>
       <p 
+        className="text--no-decoration"
         style={{
           margin: 0,
+          fontWeight: "var(--ifm-font-weight-semibold)"
         }}
       >
         {props.nickname}
