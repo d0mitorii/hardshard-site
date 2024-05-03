@@ -13,14 +13,20 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
 <CardSection>
   <Card 
     title="Зип-рельсы"
-    description="Описание и руководство по использованию зип-рельсов для путешествий на вагонетке."
+    description="Разнообразьте свой опыт путешествия на вагонетке."
     preview="/img/mechanics/ziprails/ziprails-banner.png"
     to="/docs/mechanics/ziprails"
   />
   <Card 
-    title="Новая еда"
+    title="Новые еда"
     description="Более 50 новых рецептов блюд, выпечки и напитков."
     preview="/img/mechanics/joshs-more-food/joshs-more-foods.png"
     to="/docs/mechanics/joshs-more-foods"
+  />
+  <Card 
+    title="Настольные игры"
+    description="Карты, шахматы, шашки, домино и другие предметы для игры с друзьями."
+    preview="/img/mechanics/table-games/table-games-banner.webp"
+    to="/docs/mechanics/table-games"
   />
 </CardSection>
