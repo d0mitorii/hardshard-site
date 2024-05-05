@@ -26,6 +26,7 @@ const config: Config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: "Последние новости",
         },
         theme: {
           customCss: './src/css/custom.css',
