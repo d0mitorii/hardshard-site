@@ -6,9 +6,41 @@ import Layout from '@theme/Layout';
 
 import styles from './index.module.css';
 import Heading from '@theme/Heading';
+import { useEffect, useLayoutEffect, useState } from 'react';
+import { PhotoNamePlayer } from '../components/PhotoNamePlayer';
+
+//todo: loader
+const fetchPlayerList = async () => {
+  try {
+    const response = await fetch("https://api.mcsrvstat.us/3/mc.hardshard.ru");
+    if (!response.ok) {
+      throw new Error("Error in request or response.");
+    }
+    const data = await response.json();
+    return [data.players.online, data.players.max, data.players.list] || []; // Возвращаем массив игроков или пустой массив, если данные не найдены
+  } catch (error) {
+    console.error("Error:", error);
+    return []; // Возвращаем пустой массив в случае ошибки
+  }
+};
+
+const PlayersList = ({ online, maxPlayers, playerNames }) => {
+  return (
+    <div className="row">
+      <div className="col col--8 col--offset-2 text--center">
+        <h2>Сейчас на сервере {online-1} / {maxPlayers}</h2>
+        {
+          playerNames.map((player, index) => (
+            <PhotoNamePlayer nickname={player.name} key={index}/>
+          ))
+        }
+      </div>
+    </div>
+  );
+};
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
@@ -45,12 +77,28 @@ function HomepageHeader() {
 }
 
 export default function Home(): JSX.Element {
+  const [playersList, setPlayersList] = useState([]);
+  const [online, setOnline] = useState<number>(0);
+  const [maxPlayers, setMaxPlayers] = useState<number>(0);
+
+  useLayoutEffect(() => {
+    const fetchData = async () => {
+      const playerList = await fetchPlayerList();
+      setOnline(playerList[0]);
+      setMaxPlayers(playerList[1]);
+      setPlayersList(playerList[2]);
+    };
+    fetchData();
+  }, []);
   return (
     <Layout
-      title="Приватный Vanila+ сервер"
-      description="Ламповый Vanilla+ бесплатный сервер без приватов, с улучшенным геймплеем и элементами ролевой игры.">
+    title="Приватный Vanila+ сервер"
+    description="Ламповый Vanilla+ бесплатный сервер без приватов, с улучшенным геймплеем и элементами ролевой игры.">
       <HomepageHeader />
       <main>
+        <div className="container">
+          <PlayersList online={online} maxPlayers={maxPlayers} playerNames={playersList} />
+        </div>
         {/* <HomepageFeatures /> */}
       </main>
     </Layout>
