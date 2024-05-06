@@ -24,16 +24,31 @@ const fetchPlayerList = async () => {
   }
 };
 
-const PlayersList = ({ online, maxPlayers, playerNames }) => {
+const PlayersList = () => {
+  const [playersList, setPlayersList] = useState([]);
+  const [online, setOnline] = useState<number>(0);
+  const [maxPlayers, setMaxPlayers] = useState<number>(0);
+
+  useLayoutEffect(() => {
+    const fetchData = async () => {
+      const playerList = await fetchPlayerList();
+      setOnline(playerList[0]);
+      setMaxPlayers(playerList[1]);
+      setPlayersList(playerList[2]);
+    };
+    fetchData();
+  }, []);
   return (
     <div className="row">
       <div className="col col--8 col--offset-2 text--center">
         <h2>Сейчас на сервере {online-1} / {maxPlayers}</h2>
-        {
-          playerNames.map((player, index) => (
-            <PhotoNamePlayer nickname={player.name} key={index}/>
-          ))
-        }
+        <div style={{alignContent: "center"}}>
+          {
+            playersList.map((player, index) => (
+              <PhotoNamePlayer nickname={player.name} key={index}/>
+            ))
+          }
+        </div>
       </div>
     </div>
   );
@@ -77,19 +92,6 @@ const {siteConfig} = useDocusaurusContext();
 }
 
 export default function Home(): JSX.Element {
-  const [playersList, setPlayersList] = useState([]);
-  const [online, setOnline] = useState<number>(0);
-  const [maxPlayers, setMaxPlayers] = useState<number>(0);
-
-  useLayoutEffect(() => {
-    const fetchData = async () => {
-      const playerList = await fetchPlayerList();
-      setOnline(playerList[0]);
-      setMaxPlayers(playerList[1]);
-      setPlayersList(playerList[2]);
-    };
-    fetchData();
-  }, []);
   return (
     <Layout
     title="Приватный Vanila+ сервер"
@@ -97,7 +99,7 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <div className="container">
-          <PlayersList online={online} maxPlayers={maxPlayers} playerNames={playersList} />
+          <PlayersList />
         </div>
         {/* <HomepageFeatures /> */}
       </main>
