@@ -29,7 +29,7 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 
 :::danger Баг
 
-Колода сожержит двух красных джокеров.
+Колода содержит двух красных джокеров.
 
 :::
 

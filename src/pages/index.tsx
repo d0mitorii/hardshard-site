@@ -6,7 +6,7 @@ import Layout from '@theme/Layout';
 
 import styles from './index.module.css';
 import Heading from '@theme/Heading';
-import { useEffect, useLayoutEffect, useState } from 'react';
+import { useLayoutEffect, useState } from 'react';
 import { PhotoNamePlayer } from '../components/PhotoNamePlayer';
 
 //todo: loader
@@ -39,9 +39,15 @@ const PlayersList = () => {
     fetchData();
   }, []);
   return (
-    <div className="row">
-      <div className="col col--8 col--offset-2 text--center">
-        <h2>Сейчас на сервере {online-1} / {maxPlayers}</h2>
+    <div className="row margin-top--lg margin-bottom--lg">
+      <div 
+        className="col col--8 col--offset-2 text--center padding--lg "
+        style={{
+          backgroundColor: "var(--ifm-card-background-color)",
+          borderRadius: "var(--ifm-card-border-radius)",
+        }}
+      >
+        <h2>Игроков на сервере {online} / {maxPlayers}</h2>
         <div style={{alignContent: "center"}}>
           {
             playersList.map((player, index) => (
