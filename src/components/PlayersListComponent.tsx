@@ -43,6 +43,7 @@ export const PlayersList = () => {
         <h2>Игроков на сервере {online} / {maxPlayers}</h2>
         <div style={{alignContent: "center"}}>
           {
+            playersList &&
             playersList.map((player, index) => (
             <PhotoNamePlayer nickname={player.name} key={index}/>
             ))
