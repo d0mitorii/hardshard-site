@@ -32,7 +32,7 @@ import { Item } from "@site/src/components/PhotoNamePlayer"
 :::
 
 1. Откройте внутриигровое меню Системы голосования при помощи команды `/vote` или `/votegui`.
-2. Выберите пункт — <Item.sm item="clock" name="Проголосовать"/>.
+2. Выберите пункт — <Item.sm item="clock" name="Проголосовать" extension=".webp"/>.
 3. Выберите мониторинг.
 4. Перейдите по ссылке из внутриигрового чата.
 
@@ -48,7 +48,7 @@ import { Item } from "@site/src/components/PhotoNamePlayer"
 Заработанные очки (монеты) вы можете потратить в разделе Магазин.
 
 1. Откройте внутриигровое меню Системы голосования при помощи команды `/vote` или `/votegui`.
-2. Выберите пункт — Магазин (Алмаз).
+2. Выберите пункт — <Item.sm item="diamond" name="Магазин"/>.
 3. Выберите необходимую награду.
 
 :::warning Внимание
@@ -99,7 +99,7 @@ import { Item } from "@site/src/components/PhotoNamePlayer"
       <td>Позволяет добавить на сервер кастомного моба с особыми функциями.</td>
     </tr>
     <tr>
-      <td><Item.lg item="enchanted_book" name="Загадочное писание (модель)" color="#FCA800" /></td>
+      <td><Item.lg item="enchanted_book" name="Загадочное писание (модель)" color="#FCA800" extension=".gif"/></td>
       <td>25</td>
       <td>Позволяет добавить на сервер кастомную 3D модель под заказ.</td>
     </tr>

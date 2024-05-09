@@ -25,7 +25,8 @@ export const PhotoNamePlayer = (props) => {
           style={{
             width: "100%",
             alignItems: "center",
-            justifyContent: "center"
+            justifyContent: "center",
+            verticalAlign: "top",
           }} />
       </div>
       <p
@@ -55,7 +56,7 @@ export class Item {
   static sm = (porps) => {
     return (
       <ItemTextureNameComponent 
-        size="2rem"
+        size="1.75rem"
         fontSize="1rem"
         gap="0.5rem"
         {...porps}
@@ -65,7 +66,7 @@ export class Item {
 }
 
 export const ItemTextureNameComponent = (props) => {
-  const src = `/img/textures/item/${props.item}.png`;
+  const src = `/img/textures/item/${props.item}${props.extension ? props.extension : ".png"}`;
 
   return (
     <div
@@ -83,20 +84,16 @@ export const ItemTextureNameComponent = (props) => {
       <div
         style={{
           minWidth: props.size,
-          height: props.size,
           borderRadius: "0.25rem",
           overflow: "hidden",
-          imageRendering: "pixelated",
-          boxSizing: "border-box",
         }}
       >
         <img
           src={src}
           alt={`Текстура ${props.name}`}
           style={{
-            width: "100%",
-            alignItems: "center",
-            justifyContent: "center",
+            verticalAlign: "top",
+            width: props.size,
           }} />
       </div>
       {
