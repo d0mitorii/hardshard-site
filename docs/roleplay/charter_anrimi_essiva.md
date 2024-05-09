@@ -12,7 +12,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 Настоящий Устав является автономной частью Правил HardShard, а также государствообразующим учредительным документом города-спавна Анрими-Эссива.
 
 
-**1.** Вольный город Анрими-Эссива (далее — Анрими-Эссива) — нейтральное государственное образование, находящееся в ведении [Администрации HardShard](../admins).
+**1.** Вольный город Анрими-Эссива (далее — Анрими-Эссива) — нейтральное государственное образование, находящееся в ведении [Администрации HardShard](../docs/admins).
 
 **2.** Анрими-Эссива не может находиться под каким бы то ни было влиянием извне, в том числе государственным, корпоративным и частным.
 
@@ -50,12 +50,10 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 - **10.1. Состав Наблюдательного совета**
 В состав Наблюдательного совета входят следующие лица:
-<ul style={{listStyleType: "none"}}>
-  <li className="liForPlayer"><PhotoNamePlayer nickname="Gottor" skin="steve"/> — Председатель</li>
-  <li className="liForPlayer"><PhotoNamePlayer nickname="Kemerfund"/></li>
-  <li className="liForPlayer"><PhotoNamePlayer nickname="Flammablelion"/></li>
-  <li className="liForPlayer"><PhotoNamePlayer nickname="Himer_Fatal" skin="steve"/></li>
-  <li className="liForPlayer"><PhotoNamePlayer nickname="Monteny"/></li>
-</ul>
+  - <PhotoNamePlayer nickname="Gottor" skin="steve"/> — Председатель
+  - <PhotoNamePlayer nickname="Kemerfund"/>
+  - <PhotoNamePlayer nickname="Flammablelion"/>
+  - <PhotoNamePlayer nickname="Himer_Fatal" skin="steve"/>
+  - <PhotoNamePlayer nickname="Monteny"/>
 
 **11.** За нарушение положений настоящего Устава, за совершение действий, подрывающих основы строя Анрими-Эссивы, наказание назначается по решению Наблюдательного совета либо Губернатора Анрими-Эссивы в отдельных случаях и по своему усмотрению.

@@ -2,13 +2,13 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-// import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
-import styles from './index.module.css';
 import Heading from '@theme/Heading';
 
+import styles from './index.module.css';
+import { PlayersList } from '../components/PlayersListComponent';
+
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
@@ -48,10 +48,13 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title="Приватный Vanila+ сервер"
-      description="Ламповый Vanilla+ бесплатный сервер без приватов, с улучшенным геймплеем и элементами ролевой игры.">
+      description="Ламповый Vanilla+ бесплатный сервер без приватов, с улучшенным геймплеем и элементами ролевой игры."
+    >
       <HomepageHeader />
       <main>
-        {/* <HomepageFeatures /> */}
+        <div className="container">
+          <PlayersList />
+        </div>
       </main>
     </Layout>
   );
