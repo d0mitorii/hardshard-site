@@ -94,6 +94,7 @@ export const ItemTextureNameComponent = (props) => {
           style={{
             verticalAlign: "top",
             width: props.size,
+            imageRendering: "pixelated",
           }} />
       </div>
       {
