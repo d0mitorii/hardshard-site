@@ -15,7 +15,8 @@ const fetchPlayerList = async () => {
     return [];
   }
 };
-  
+
+// todo: playersOnlineByListLength
 export const PlayersList = () => {
   const [playersList, setPlayersList] = useState([]);
   const [online, setOnline] = useState<number>(0);
