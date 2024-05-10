@@ -20,18 +20,19 @@ export const Hunger = (props) => {
     return fullHungerImages;
   };
   return (
-    <div
+    <span
       style={{
-        position: "relative",
         display: "inline-flex",
-        flexDirection: "row",
-        alignItems: "center",
         justifyContent: "center",
         gap: "0.5rem",
+        margin: 0,
+        fontSize: props.fontSize,
+        fontWeight: "var(--ifm-font-weight-semibold)",
+        color: props.color,
         ...props.style
       }}
     >
-      <div
+      <span
         style={{
           display: "inline",
           minWidth: "1.75rem",
@@ -43,25 +44,15 @@ export const Hunger = (props) => {
           <img
           src="/img/textures/item/half_hunger.png"
           style={{
-            verticalAlign: "top",
+            verticalAlign: "middle",
             width: "1.75rem",
             imageRendering: "pixelated",
           }}
           />
         )}
         {renderFullHunger()}
-      </div>
-      <p
-        style={{
-          margin: 0,
-          fontSize: props.fontSize,
-          lineHeight: props.fontSize,
-          fontWeight: "var(--ifm-font-weight-semibold)",
-          color: props.color,
-        }}
-      >
-        {props.value}
-      </p>
-    </div>
+      </span>
+      {props.value}
+    </span>
   );
 }
