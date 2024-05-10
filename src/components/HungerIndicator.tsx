@@ -9,6 +9,7 @@ export const Hunger = (props) => {
         <img
           key={`full_hunger_${i}`}
           src="/img/textures/item/full_hunger.png"
+          alt="Текстура full_hunger"
           style={{
             verticalAlign: "top",
             width: "1.75rem",
@@ -22,9 +23,7 @@ export const Hunger = (props) => {
   return (
     <span
       style={{
-        display: "inline-flex",
         justifyContent: "center",
-        gap: "0.5rem",
         margin: 0,
         fontSize: props.fontSize,
         fontWeight: "var(--ifm-font-weight-semibold)",
@@ -32,6 +31,8 @@ export const Hunger = (props) => {
         ...props.style
       }}
     >
+      {props.value}
+      &nbsp;—&nbsp;
       <span
         style={{
           display: "inline",
@@ -43,6 +44,7 @@ export const Hunger = (props) => {
         {halfHungerVisible && (
           <img
           src="/img/textures/item/half_hunger.png"
+          alt="Текстура half_hunger"
           style={{
             verticalAlign: "middle",
             width: "1.75rem",
@@ -52,7 +54,6 @@ export const Hunger = (props) => {
         )}
         {renderFullHunger()}
       </span>
-      {props.value}
     </span>
   );
 }

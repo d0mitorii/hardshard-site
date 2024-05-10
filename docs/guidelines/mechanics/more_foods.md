@@ -19,7 +19,7 @@ import { Hunger } from "@site/src/components/HungerIndicator"
 
 ## Описание
 
-Утоление голода: <Hunger value={4.5} />
+Утоление голода: <Hunger value={10.5} />
 
 **Josh's More Foods** расширяет ассортимент Minecraft более чем на 50 новых видов блюд и рецептов, включая кухонную плиту и различные кухонные принадлежности.
 
