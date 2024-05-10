@@ -6,6 +6,7 @@ description: Более 50 новых рецептов блюд, выпечки 
 
 import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 import { Item } from "@site/src/components/PhotoNamePlayer"
+import { Hunger } from "@site/src/components/HungerIndicator"
 
 # Новая еда
 
@@ -17,6 +18,8 @@ import { Item } from "@site/src/components/PhotoNamePlayer"
 > Партия выдать одна миска риса
 
 ## Описание
+
+<Hunger value={3.5} /> asDasdad asdasd
 
 **Josh's More Foods** расширяет ассортимент Minecraft более чем на 50 новых видов блюд и рецептов, включая кухонную плиту и различные кухонные принадлежности.
 
