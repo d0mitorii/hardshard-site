@@ -1,7 +1,24 @@
 export const Hunger = (props) => {
-  if (props.value > Math.round(props.value)) {
-    console.log();
-  }
+  const value = parseFloat(props.value);
+  const fullHungerCount = Math.floor(value)
+  const halfHungerVisible = value - fullHungerCount >= 0.5; 
+  const renderFullHunger = () => {
+    const fullHungerImages = [];
+    for (let i = 0; i < fullHungerCount; i++) {
+      fullHungerImages.push(
+        <img
+          key={`full_hunger_${i}`}
+          src="/img/textures/item/full_hunger.png"
+          style={{
+            verticalAlign: "top",
+            width: "1.75rem",
+            imageRendering: "pixelated",
+          }}
+        />
+      );
+    }
+    return fullHungerImages;
+  };
   return (
     <div
       style={{
@@ -10,33 +27,29 @@ export const Hunger = (props) => {
         flexDirection: "row",
         alignItems: "center",
         justifyContent: "center",
+        gap: "0.5rem",
         ...props.style
       }}
     >
       <div
         style={{
+          display: "inline",
           minWidth: "1.75rem",
           borderRadius: "0.25rem",
           overflow: "hidden",
-          marginRight: "0.5ram",
         }}
       >
-        <img
-          src="/img/textures/item/full_hunger.png"
+        {halfHungerVisible && (
+          <img
+          src="/img/textures/item/half_hunger.png"
           style={{
             verticalAlign: "top",
             width: "1.75rem",
             imageRendering: "pixelated",
           }}
-        />
-        <img
-          src="/img/textures/item/full_hunger.png"
-          style={{
-            verticalAlign: "top",
-            width: "1.75rem",
-            imageRendering: "pixelated",
-          }}
-        />
+          />
+        )}
+        {renderFullHunger()}
       </div>
       <p
         style={{
