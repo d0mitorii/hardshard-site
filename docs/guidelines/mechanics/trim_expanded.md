@@ -5,6 +5,7 @@ description: Новые шаблоны для брони и увелечение
 ---
 
 import { ImageZoom } from "@site/src/components/ImageZoomComponent"
+import { Item } from "@site/src/components/PhotoNamePlayer"
 
 # Новые шаблоны
 
@@ -24,19 +25,39 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 
 Помимо новых шаблонов на сервере доступны новые цвета для отделки
 
-Уголь
-Осколок эха
-Эндер-жемчуг
-Пыльца глоустоуна
-Кожа
-Незерский кирпич
-Осколок призмарина
-Кроличья шкура
-Слизь
+
+<table>
+  <tbody>
+    <tr>
+      <td><Item.lg item="coal" name="Уголь"/></td>
+      <td><Item.lg item="ender_pearl" name="Эндер-жемчуг"/></td>
+      <td><Item.lg item="fire_charge" name="Огненный заряд"/></td>
+    </tr>
+    <tr>
+      <td><Item.lg item="glowstone_dust" name="Светокаменная пыль"/></td>
+      <td><Item.lg item="leather" name="Кожа"/></td>
+      <td><Item.lg item="nether_brick" name="Незерский кирпич"/></td>
+    </tr>
+    <tr>
+      <td><Item.lg item="prismarine_shard" name="Осколок призмарина"/></td>
+      <td><Item.lg item="rabbit_hide" name="Кроличья шкурка"/></td>
+      <td><Item.lg item="slime_ball" name="Сгусток слизи"/></td>
+    </tr>
+    <tr>
+      <td><Item.lg item="dragon_breath" name="Драконье дыхание"/></td>
+      <td><Item.lg item="echo_shard" name="Осколок эха"/></td>
+      <td><Item.lg item="enchanted_golden_apple" name="Зачарованное золотое яблоко" extension=".gif"/></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### Danger {#danger-trim}
 
-
+<ImageZoom
+  src="/img/mechanics/trim-expanded/danger_armor_trim_smithing_template_craft.png"
+  alt="Рецепт создание шаблона Danger"
+/>
 
 ### Drip {#drip-trim}
 
