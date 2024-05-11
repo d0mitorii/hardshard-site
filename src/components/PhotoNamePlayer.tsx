@@ -82,11 +82,71 @@ export const ItemTextureNameComponent = (props) => {
       >
         <img
           src={src}
-          alt={`Текстура ${props.item}`}
+          alt={`Текстура ${props.item}${props.extension ? props.extension : ".png"}`}
           style={{
             verticalAlign: "top",
             width: props.size,
             imageRendering: "pixelated",
+            alignItems: "center",
+            justifyContent: "center",
+          }} />
+      </span>
+      {
+        props.name && `\u00A0${props.name}`
+      }
+    </span>
+  );
+}
+
+export class Block {
+  static lg = (porps) => {
+    return (
+      <BlockTextureNameComponent 
+        size="3rem"
+        fontSize="1.25rem"
+        {...porps}
+      />
+    );
+  }
+  static sm = (porps) => {
+    return (
+      <BlockTextureNameComponent 
+        size="1.75rem"
+        fontSize="1rem"
+        {...porps}
+      />
+    );
+  }
+}
+
+export const BlockTextureNameComponent = (props) => {
+  const src = `/img/textures/block/${props.item}${props.extension ? props.extension : ".webp"}`;
+
+  return (
+    <span
+      className="padding--sm pills__item"
+      style={{
+        display: "inline-flex",
+        alignItems: "center",
+        fontSize: props.fontSize,
+        fontWeight: "var(--ifm-font-weight-semibold)",
+        color: props.color,
+        ...props.style
+      }}
+    >
+      <span
+        style={{
+          minWidth: props.size,
+          borderRadius: "0.25rem",
+          overflow: "hidden",
+        }}
+      >
+        <img
+          src={src}
+          alt={`Текстура ${props.item}${props.extension ? props.extension : ".webp"}`}
+          style={{
+            verticalAlign: "top",
+            width: props.size,
             alignItems: "center",
             justifyContent: "center",
           }} />

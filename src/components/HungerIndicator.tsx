@@ -1,15 +1,20 @@
-export const Hunger = (props) => {
-  const value = parseFloat(props.value);
-  const fullHungerCount = Math.floor(value)
-  const halfHungerVisible = value - fullHungerCount >= 0.5; 
+export const HungerSaturationIndicator = ({
+  value, 
+  type = "hunger",
+}: {
+  value: number, 
+  type?: "hunger" | "saturation"
+}) => {
+  const fullHungerCount = Math.floor(value);
+  const halfHungerVisible = value - fullHungerCount >= 0.5;
   const renderFullHunger = () => {
     const fullHungerImages = [];
     for (let i = 0; i < fullHungerCount; i++) {
       fullHungerImages.push(
         <img
-          key={`full_hunger_${i}`}
-          src="/img/textures/item/full_hunger.png"
-          alt="Текстура full_hunger"
+          key={i}
+          src={`/img/textures/item/full_${type}.png`}
+          alt={`Текстура full_${type}`}
           style={{
             verticalAlign: "top",
             width: "1.75rem",
@@ -25,13 +30,10 @@ export const Hunger = (props) => {
       style={{
         justifyContent: "center",
         margin: 0,
-        fontSize: props.fontSize,
-        fontWeight: "var(--ifm-font-weight-semibold)",
-        color: props.color,
-        ...props.style
+        fontWeight: "var(--ifm-font-weight-bold)",
       }}
     >
-      {props.value}
+      {value}
       &nbsp;—&nbsp;
       <span
         style={{
@@ -43,13 +45,13 @@ export const Hunger = (props) => {
       >
         {halfHungerVisible && (
           <img
-          src="/img/textures/item/half_hunger.png"
-          alt="Текстура half_hunger"
-          style={{
-            verticalAlign: "middle",
-            width: "1.75rem",
-            imageRendering: "pixelated",
-          }}
+            src={`/img/textures/item/half_${type}.png`}
+            alt={`Текстура half_${type}`}
+            style={{
+              verticalAlign: "middle",
+              width: "1.75rem",
+              imageRendering: "pixelated",
+            }}
           />
         )}
         {renderFullHunger()}
