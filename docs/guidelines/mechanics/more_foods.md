@@ -63,6 +63,75 @@ import { HungerSaturationIndicator } from "@site/src/components/HungerIndicator"
 
 ## Ножи {#knives}
 
+Ножи — это новые инструменты, которые необходимо использовать при приготовлении блюд.
+
+:::warning Внимание
+
+Рецептов, требующих нож, пока нет.
+
+:::
+
+#### Как создать {#how-to-craft-knives}
+
+<ImageZoom
+  src="/img/mechanics/joshs-more-food/knives_crafts.webp"
+  alt="Рецепты создания ножей: Josh's More Food"
+  description="Рецепты создания ножей"
+/>
+
+#### Таблица урона и скорости атаки
+
+Ножи можно использовать как оружие. Их скорость атаки выше, чем у меча, но они наносят небольшой урон.
+
+<table>
+  <thead>
+    <tr>
+      <th>Тип ножа</th>
+      <th>Урон</th>
+      <th>Скорость атаки</th>
+      <th>Прочность</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><Item.sm item="wooden_knife" name="Деревянный нож" /></td>
+      <td align="right">2.5</td>
+      <td align="right">2</td>
+      <td align="right">59</td>
+    </tr>
+    <tr>
+      <td><Item.sm item="stone_knife" name="Каменынй нож" /></td>
+      <td align="right">3.5</td>
+      <td align="right">2</td>
+      <td align="right">131</td>
+    </tr>
+    <tr>
+      <td><Item.sm item="iron_knife" name="Железный нож" /></td>
+      <td align="right">4</td>
+      <td align="right">2</td>
+      <td align="right">250</td>
+    </tr>
+    <tr>
+      <td><Item.sm item="golden_knife" name="Золотой нож" /></td>
+      <td align="right">3</td>
+      <td align="right">2</td>
+      <td align="right">32</td>
+    </tr>
+    <tr>
+      <td><Item.sm item="diamond_knife" name="Алмазный нож" /></td>
+      <td align="right">5</td>
+      <td align="right">2</td>
+      <td align="right">1561</td>
+    </tr>
+    <tr>
+      <td><Item.sm item="netherite_knife" name="Незеритовый нож" /></td>
+      <td align="right">5.5</td>
+      <td align="right">2</td>
+      <td align="right">2031</td>
+    </tr>
+</tbody>
+</table>
+
 ## Рис {#rice}
 
 :::tip
