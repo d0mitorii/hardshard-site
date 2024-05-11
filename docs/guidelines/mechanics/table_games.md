@@ -37,8 +37,8 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 
 <ImageZoom
   src="/img/mechanics/table-games/cards-bundle-craft.png"
-  alt="Рецепт для создания Мешочка с картами"
-  description="Рецепт для создания Мешочка с картами"
+  alt="Рецепт создания Мешочка с картами"
+  description="Рецепт создания Мешочка с картами"
 />
 
 #### Как использовать {#how-to-use-cards-bundle-craft}
@@ -61,8 +61,8 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 
 <ImageZoom
   src="/img/mechanics/table-games/dominos-bundle-craft.png"
-  alt="Рецепт для создания Мешочка с домино"
-  description="Рецепт для создания Мешочка с домино"
+  alt="Рецепт создания Мешочка с домино"
+  description="Рецепт создания Мешочка с домино"
 />
 
 #### Как использовать {#how-to-use-dominos-bundle}
@@ -91,8 +91,8 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 
 <ImageZoom
   src="/img/mechanics/table-games/chess-bundle-craft.png"
-  alt="Рецепт для создания Мешочка с шахматами"
-  description="Рецепт для создания Мешочка с шахматами"
+  alt="Рецепт создания Мешочка с шахматами"
+  description="Рецепт создания Мешочка с шахматами"
 />
 
 #### Как использовать {#how-to-use-chess-bundle}
@@ -113,8 +113,8 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 
 <ImageZoom
   src="/img/mechanics/table-games/checkers-bundle-craft.png"
-  alt="Рецепт для создания Мешочка с шашками"
-  description="Рецепт для создания Мешочка с шашками"
+  alt="Рецепт создания Мешочка с шашками"
+  description="Рецепт создания Мешочка с шашками"
 />
 
 #### Как использовать {#how-to-use-checkers-bundle}
@@ -142,8 +142,8 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 
 <ImageZoom
   src="/img/mechanics/table-games/chess-board-craft.png"
-  alt="Рецепт для создания Шахматной доски"
-  description="Рецепт для создания Шахматной доски"
+  alt="Рецепт создания Шахматной доски"
+  description="Рецепт создания Шахматной доски"
 />
 
 #### Как использовать {#how-to-use-chess-board}
@@ -159,8 +159,8 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 
 <ImageZoom
   src="/img/mechanics/table-games/dice-craft.png"
-  alt="Рецепт для создания Игральной кости"
-  description="Рецепт для создания Игральной кости"
+  alt="Рецепт создания Игральной кости"
+  description="Рецепт создания Игральной кости"
 />
 
 #### Как использовать {#how-to-use-dice}
@@ -204,8 +204,8 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 
 <ImageZoom
   src="/img/mechanics/table-games/chips_b-craft.png"
-  alt="Рецепт для создания Мешочков для фишек"
-  description="Рецепт для создания Мешочков для фишек"
+  alt="Рецепт создания Мешочков для фишек"
+  description="Рецепт создания Мешочков для фишек"
 />
 
 <ImageZoom
