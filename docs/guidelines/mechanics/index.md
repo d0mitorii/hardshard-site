@@ -32,7 +32,7 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
   <Card 
     title="Новые шаблоны"
     description="Новые рецепты шаблонов для брони и инструментов."
-    preview="/img/mechanics/trim-expanded/trim-expanded-banner.webp"
-    to="/docs/mechanics/trim-expanded"
+    preview="/img/mechanics/new-trims/more-trims-banner.png"
+    to="/docs/mechanics/new-trims"
   />
 </CardSection>

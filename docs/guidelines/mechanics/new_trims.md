@@ -1,16 +1,16 @@
 ---
-title: Новые шаблоны
-slug: /mechanics/trim-expanded
-description: Новые шаблоны для брони и увелечение для них цветов и шаблоны для инструментов
+title: Шаблоны для брони и инструментов
+slug: /mechanics/new-trims
+description: Новые цвета для брони, как и шаблоны и инструментов
 ---
 
 import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
-# Новые шаблоны
+# Новые шаблоны и цвета
 
 <ImageZoom
-  src="/img/mechanics/trim-expanded/more-trims-banner.png"
+  src="/img/mechanics/new-trims/more-trims-banner.png"
   alt="Больше шаблонов баннер"
 />
 
@@ -21,10 +21,10 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 **Trims Expanded** - датапак, который добавляет новые цвета и шаблоны для брони, чтобы вы подчеркнули своё Я  
 **Tool Trims** - датапак позволяющий Вам наносить новый шаблон на инструменты и увеличить их ценность  
 
-## Нанесение шаблона и новые краски{#trim-and-new-colors}
+## Нанесение шаблона и материалы для отделки{#trim-and-new-colors}
 
 Нанесение шаблона на броню и инструменты происходит в <Block.sm item="smithing_table" name="столе кузнеца"/>
-Помимо новых шаблонов на сервере доступны новые цвета для отделки, которые размещаются также, как и ванильные краски в столе кузница.
+Помимо новых шаблонов на сервере доступны новые цвета для отделки, которые размещаются также, как и стандартные материалы в столе кузница.
 
 <table>
   <tbody>
@@ -54,14 +54,14 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 ## Шаблоны для брони
 
 <ImageZoom
-  src="/img/mechanics/trim-expanded/trim-expanded-preview.png"
+  src="/img/mechanics/new-trims/trim-expanded-preview.png"
   alt="Trim expanded предпросмотр новых шаблонов для брони"
 />
 
 ### Danger {#danger-trim}
 
 <ImageZoom
-  src="/img/mechanics/trim-expanded/danger-trim-preview.png"
+  src="/img/mechanics/new-trims/danger-trim-preview.png"
   alt="danger trim предпросмотр"
 />
 
@@ -71,12 +71,28 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 #### Рецепт создания {#danger-trim-craft}
 
+:::info Примечание
 
+Использовать заражённый замшелый кирпич в рецепте!
+
+:::
+
+<ImageZoom
+  src="/img/mechanics/new-trims/danger-craft-trim.png"
+  alt="danger trim размножение"
+/>
+
+<ImageZoom
+  src="/img/mechanics/new-trims/danger-craft-block.png"
+  alt="danger trim создание"
+/>
+
+## Шаблоны для инструментов {#tool-trims}
 
 ### Shell {#shell-trim}
 
 <ImageZoom
-  src="/img/mechanics/trim-expanded/shell-trim-preview.png"
+  src="/img/mechanics/new-trims/shell-trim-preview.png"
   alt="shell trim предпросмотр"
 />
 
@@ -86,12 +102,26 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 #### Рецепт создания {#shell-trim-craft}
 
+:::info Примечание
 
+Использовать заражённый булыжник в рецепте!
+
+:::
+
+<ImageZoom
+  src="/img/mechanics/new-trims/shell-craft-trim.png"
+  alt="shell trim размножение"
+/>
+
+<ImageZoom
+  src="/img/mechanics/new-trims/shell-craft-block.png"
+  alt="shell trim создание"
+/>
 
 ### Plated {#plated-trim}
 
 <ImageZoom
-  src="/img/mechanics/trim-expanded/plated-trim-preview.png"
+  src="/img/mechanics/new-trims/plated-trim-preview.png"
   alt="plated trim предпросмотр"
 />
 
@@ -101,12 +131,20 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 #### Рецепт создания {#plated-trim-craft}
 
+<ImageZoom
+  src="/img/mechanics/new-trims/plated-craft-trim.png"
+  alt="plated trim размножение"
+/>
 
+<ImageZoom
+  src="/img/mechanics/new-trims/plated-craft-block.png"
+  alt="plated trim создание"
+/>
 
 ### Suspicious {#suspicious-trim}
 
 <ImageZoom
-  src="/img/mechanics/trim-expanded/suspicious-trim-preview.png"
+  src="/img/mechanics/new-trims/suspicious-trim-preview.png"
   alt="suspicious trim предпросмотр"
 />
 
@@ -116,12 +154,20 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 #### Рецепт создания {#suspicious-trim-craft}
 
+<ImageZoom
+  src="/img/mechanics/new-trims/suspicious-craft-trim.png"
+  alt="suspicious trim размножение"
+/>
 
+<ImageZoom
+  src="/img/mechanics/new-trims/suspicious-craft-block.png"
+  alt="suspicious trim создание"
+/>
 
 ### Drip {#drip-trim}
 
 <ImageZoom
-  src="/img/mechanics/trim-expanded/drip-trim-preview.png"
+  src="/img/mechanics/new-trims/drip-trim-preview.png"
   alt="drip trim предпросмотр"
 />
 
@@ -132,11 +178,20 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 #### Рецепт создания {#drip-trim-craft}
 
+<ImageZoom
+  src="/img/mechanics/new-trims/drip-craft-trim.png"
+  alt="drip trim размножение"
+/>
+
+<ImageZoom
+  src="/img/mechanics/new-trims/drip-craft-block.png"
+  alt="drip trim создание"
+/>
 
 ## Шаблоны для инструментов
 
 <ImageZoom
-  src="/img/mechanics/trim-expanded/tool-trims-preview.png"
+  src="/img/mechanics/new-trims/tool-trims-preview.png"
   alt="tools trim предпросмотр новых шаблонов для инструментов"
 />
 
