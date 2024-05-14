@@ -27,6 +27,9 @@ const config: Config = {
         blog: {
           showReadingTime: true,
           blogSidebarTitle: "Последние новости",
+          blogTitle: "Новости и объявления",
+          blogDescription: "Следите за последними новостями, обновлениями и анонсами проекта Hardshard.",
+          blogSidebarCount: 10,
         },
         theme: {
           customCss: './src/css/custom.css',
