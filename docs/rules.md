@@ -2,6 +2,7 @@
 title: Основные правила сообщества
 description: Правила, распространяющиеся на все проекты Hardshard.
 sidebar_position: 2
+slug: /rules
 ---
 
 # Правила сообщества
