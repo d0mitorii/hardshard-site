@@ -1,20 +1,33 @@
-import React, { useState } from 'react';
-import Layout from '@theme/Layout';
+import React, { useRef, useState } from "react";
+import Layout from "@theme/Layout";
+import emailjs from "@emailjs/browser";
+import { PUBLIC_API } from "@site/emailjs";
 
 export default function Apply(): JSX.Element {
   const [showOther, setShowOther] = useState(false);
 
   const handleOptionChange = (event) => {
-    setShowOther(event.target.value === 'other');
+    setShowOther(event.target.value === "other");
   };
 
-  const handleSubmit = (event) => {
-    event.preventDefault();
-    const formData = new FormData(event.target);
-    // Отправка данных формы
-    console.log(formData);
-  };
+  const form = useRef();
 
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs
+      .sendForm("hardshard-apply-form", "template_8omyc4r", form.current, {
+        publicKey: PUBLIC_API,
+      })
+      .then(
+        () => {
+          console.log("SUCCESS!");
+        },
+        (error) => {
+          console.log("FAILED...", error.text);
+        },
+      );
+  };
   return (
     <Layout
       title="Анкета для доступа на сервер"
@@ -27,7 +40,7 @@ export default function Apply(): JSX.Element {
       </div>
       <main>
         <div className="container">
-          <form onSubmit={handleSubmit} className="apply-form margin-top--lg margin-bottom--lg">
+          <form onSubmit={sendEmail} className="apply-form margin-top--lg margin-bottom--lg" ref={form}>
             <div className="form-section">
               <label htmlFor="nickname">Ваш никнейм в Minecraft</label>
               <input type="text" id="nickname" name="nickname" required />
@@ -144,7 +157,7 @@ export default function Apply(): JSX.Element {
               <textarea id="adequacy" name="adequacy" required />
             </div>
             <div>
-              <button type="submit" className="button button--primary">Отправить</button>
+              <input type="submit" className="button button--primary" value="Отправить" />
             </div>
           </form>
         </div>
