@@ -2,7 +2,7 @@
 title: Введение Системы голосования
 slug: /voting
 authors: [admin]
-tags: [News, Update]
+tags: [News, Mechanics, Update]
 date: 2023-12-12
 ---
 
