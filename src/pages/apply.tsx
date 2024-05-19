@@ -40,7 +40,7 @@ export default function Apply(): JSX.Element {
       </div>
       <main>
         <div className="container">
-          <form onSubmit={sendEmail} className="apply-form margin-top--lg margin-bottom--lg" ref={form}>
+          <form onSubmit={sendEmail} className="apply-form margin-bottom--lg" ref={form}>
             <div className="form-section">
               <label htmlFor="nickname">Ваш никнейм в Minecraft</label>
               <input type="text" id="nickname" name="nickname" required />
