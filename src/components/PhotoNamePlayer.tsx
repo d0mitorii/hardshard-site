@@ -60,7 +60,6 @@ export class Item {
 
 export const ItemTextureNameComponent = (props) => {
   const src = `/img/textures/item/${props.item}${props.extension ? props.extension : ".png"}`;
-
   return (
     <span
       className="padding--sm pills__item"
@@ -73,26 +72,30 @@ export const ItemTextureNameComponent = (props) => {
         ...props.style
       }}
     >
-      <span
-        style={{
-          minWidth: props.size,
-          borderRadius: "0.25rem",
-          overflow: "hidden",
-        }}
-      >
-        <img
-          src={src}
-          alt={`Текстура ${props.item}${props.extension ? props.extension : ".png"}`}
-          style={{
-            verticalAlign: "top",
-            width: props.size,
-            imageRendering: "pixelated",
-            alignItems: "center",
-            justifyContent: "center",
-          }} />
-      </span>
       {
-        props.name && `\u00A0${props.name}`
+        props.item && (
+          <span
+            style={{
+              minWidth: props.size,
+              borderRadius: "0.25rem",
+              overflow: "hidden",
+            }}
+          >
+            <img
+              src={src}
+              alt={`Текстура ${props.item}${props.extension ? props.extension : ".png"}`}
+              style={{
+                verticalAlign: "top",
+                width: props.size,
+                imageRendering: "pixelated",
+                alignItems: "center",
+                justifyContent: "center",
+              }} />
+          </span>
+        )
+      }
+      {
+        props.name && (props.item ? <>&nbsp;{props.name}</> : props.name)
       }
     </span>
   );
