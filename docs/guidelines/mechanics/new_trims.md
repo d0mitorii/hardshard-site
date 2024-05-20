@@ -178,7 +178,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 #### Как добыть {#how-to-get-linear-trim}
 
-<Item.sm item="linear_tool_trim_smithing_template" name="шаблон Linear"/> можно найти в ещё непрогруженных руинах троп.
+<Item.sm item="linear_tool_trim_smithing_template" name="Шаблон Linear"/> можно найти в ещё непрогруженных руинах троп.
 
 #### Рецепт создания {#linear-trim-craft}
 
@@ -186,15 +186,15 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 #### Как добыть {#how-to-get-track-trim}
 
-<Item.sm item="tracks_tool_trim_smithing_template" name="шаблон Track"/> можно найти в ещё непрогруженных аванпостах разбойников.
+<Item.sm item="tracks_tool_trim_smithing_template" name="Шаблон Track"/> можно найти в ещё непрогруженных аванпостах разбойников.
 
 #### Рецепт создания {#track-trim-craft}
 
 ### Charge {#charge-trim}
 
-#### Как добыть {#how-to-get-charge-trim}
+#### Как добыть {#how-to-get-charge-trim} 
 
-<Item.sm item="charge_tool_trim_smithing_template" name="шаблон Сharge"/> можно найти в ещё непрогруженных древних городах.
+<Item.sm item="charge_tool_trim_smithing_template" name="Шаблон Сharge"/> можно найти в ещё непрогруженных древних городах.
 
 #### Рецепт создания {#charge-trim-craft}
 
@@ -202,7 +202,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 #### Как добыть {#how-to-get-frost-trim}
 
-<Item.sm item="frost_tool_trim_smithing_template" name="шаблон Frost"/> можно найти в ещё непрогруженных иглу.
+<Item.sm item="frost_tool_trim_smithing_template" name="Шаблон Frost"/> можно найти в ещё непрогруженных иглу.
 
 #### Рецепт создания {#frost-trim-craft}
 
