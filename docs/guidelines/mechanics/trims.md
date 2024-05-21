@@ -1,13 +1,13 @@
 ---
 title: Шаблоны для брони и инструментов
 slug: /mechanics/new-trims
-description: Новые цвета для брони, как и шаблоны и инструментов
+description: Новые шаблоны для отделки брони и инструментов. 
 ---
 
 import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
-# Новые шаблоны и цвета
+# Шаблоны для брони и инструментов
 
 <ImageZoom
   src="/img/mechanics/new-trims/more-trims-banner.png"
@@ -21,6 +21,8 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 Чтобы нанести отделку на броню или инструмент, воспользуйтесь <Block.sm item="smithing_table" name="Столом кузнеца" />.
 
 Новые шаблоны расходуются при использовании, но их можно дублировать с использованием уже имеющегося шаблона, нужного материала и алмазов.
+
+Помимо новых шаблонов на сервере доступны новые материлы (цвета) для их отделки. Они размещаются так же, как и стандартные материалы в кузнечном столе.
 
 ## Шаблоны для брони
 
@@ -164,7 +166,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
   description="Рецепт создания шаблона Drip"
 />
 
-#### Рецепт создания {#drip-trim-duplicate}
+#### Рецепт дублирования {#drip-trim-duplicate}
 
 <ImageZoom
   src="/img/mechanics/new-trims/drip-craft-trim.png"
@@ -172,65 +174,88 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
   description="Рецепт дублирования шаблона Drip"
 />
 
+## Материалы для брони {#materials-for-armor-trim}
+
+- <Item.sm item="coal" name="Уголь"/>
+- <Item.sm item="ender_pearl" name="Эндер-жемчуг"/>
+- <Item.sm item="fire_charge" name="Огненный заряд"/>
+- <Item.sm item="glowstone_dust" name="Светокаменная пыль"/>
+- <Item.sm item="leather" name="Кожа"/>
+- <Item.sm item="nether_brick" name="Незерский кирпич"/>
+- <Item.sm item="prismarine_shard" name="Осколок призмарина"/>
+- <Item.sm item="rabbit_hide" name="Кроличья шкурка"/>
+- <Item.sm item="slime_ball" name="Сгусток слизи"/>
+- <Item.sm item="dragon_breath" name="Драконье дыхание"/>
+- <Item.sm item="echo_shard" name="Осколок эха"/>
+- <Item.sm item="enchanted_golden_apple" name="Зачарованное золотое яблоко" extension=".gif"/>
+
 ## Шаблоны для инструментов
 
 ### Linear {#linear-trim}
 
 #### Как добыть {#how-to-get-linear-trim}
 
-<Item.sm item="linear_tool_trim_smithing_template" name="Шаблон Linear"/> можно найти в ещё непрогруженных руинах троп.
+<Item.sm item="linear_tool_trim_smithing_template" name="Шаблон Linear"/> можно найти в Руинах былых времён с шансом **8.3%**.
 
-#### Рецепт создания {#linear-trim-craft}
+#### Рецепт дублирования {#linear-trim-duplicate}
+
+<ImageZoom
+  src="/img/mechanics/new-trims/linear-tool-trim-duplicate.png"
+  alt="Рецепт дублирования шаблона Linear"
+  description="Рецепт дублирования шаблона Linear"
+/>
 
 ### Tracks {#tracks-trim}
 
 #### Как добыть {#how-to-get-track-trim}
 
-<Item.sm item="tracks_tool_trim_smithing_template" name="Шаблон Track"/> можно найти в ещё непрогруженных аванпостах разбойников.
+<Item.sm item="tracks_tool_trim_smithing_template" name="Шаблон Track"/> можно найти в Аванпостах разбойников с шансом **37.5%**.
 
-#### Рецепт создания {#track-trim-craft}
+#### Рецепт дублирования {#track-trim-duplicate}
+
+<ImageZoom
+  src="/img/mechanics/new-trims/track-tool-trim-duplicate.png"
+  alt="Рецепт дублирования шаблона Track"
+  description="Рецепт дублирования шаблона Track"
+/>
 
 ### Charge {#charge-trim}
 
 #### Как добыть {#how-to-get-charge-trim} 
 
-<Item.sm item="charge_tool_trim_smithing_template" name="Шаблон Сharge"/> можно найти в ещё непрогруженных древних городах.
+<Item.sm item="charge_tool_trim_smithing_template" name="Шаблон Сharge"/> можно найти в Древних городах с шансом **5%**.
 
-#### Рецепт создания {#charge-trim-craft}
+#### Рецепт дублирования {#charge-trim-duplicate}
+
+<ImageZoom
+  src="/img/mechanics/new-trims/charge-tool-trim-duplicate.png"
+  alt="Рецепт дублирования шаблона Charge"
+  description="Рецепт дублирования шаблона Charge"
+/>
 
 ### Frost {#frost-trim}
 
 #### Как добыть {#how-to-get-frost-trim}
 
-<Item.sm item="frost_tool_trim_smithing_template" name="Шаблон Frost"/> можно найти в ещё непрогруженных иглу.
+<Item.sm item="frost_tool_trim_smithing_template" name="Шаблон Frost"/> можно найти в подвале Иглу с шансом **40%**.
 
-#### Рецепт создания {#frost-trim-craft}
+#### Рецепт дублирования {#frost-trim-duplicate}
 
-## Материалы для отделки {#trim-and-new-colors}
+<ImageZoom
+  src="/img/mechanics/new-trims/frost-tool-trim-duplicate.png"
+  alt="Рецепт дублирования шаблона Frost"
+  description="Рецепт дублирования шаблона Frost"
+/>
 
-Помимо новых шаблонов для брони на сервере доступны новые материлы (цвета) для их отделки. Они размещаются так же, как и стандартные материалы в кузнечном столе.
+## Материалы для инструментов {#materials-for-tool-trim}
 
-<table>
-  <tbody>
-    <tr>
-      <td><Item.sm item="coal" name="Уголь"/></td>
-      <td><Item.sm item="ender_pearl" name="Эндер-жемчуг"/></td>
-      <td><Item.sm item="fire_charge" name="Огненный заряд"/></td>
-    </tr>
-    <tr>
-      <td><Item.sm item="glowstone_dust" name="Светокаменная пыль"/></td>
-      <td><Item.sm item="leather" name="Кожа"/></td>
-      <td><Item.sm item="nether_brick" name="Незерский кирпич"/></td>
-    </tr>
-    <tr>
-      <td><Item.sm item="prismarine_shard" name="Осколок призмарина"/></td>
-      <td><Item.sm item="rabbit_hide" name="Кроличья шкурка"/></td>
-      <td><Item.sm item="slime_ball" name="Сгусток слизи"/></td>
-    </tr>
-    <tr>
-      <td><Item.sm item="dragon_breath" name="Драконье дыхание"/></td>
-      <td><Item.sm item="echo_shard" name="Осколок эха"/></td>
-      <td><Item.sm item="enchanted_golden_apple" name="Зачарованное золотое яблоко" extension=".gif"/></td>
-    </tr>
-  </tbody>
-</table>
+- <Item.sm item="amethyst_shard" name="Осколок аметиста"/>
+- <Item.sm item="copper_ingot" name="Медный слиток"/>
+- <Item.sm item="diamond" name="Алмаз"/>
+- <Item.sm item="emerald" name="Изумруд"/>
+- <Item.sm item="gold_ingot" name="Золотой слиток"/>
+- <Item.sm item="iron_ingot" name="Железный слиток"/>
+- <Item.sm item="lapis_lazuli" name="Лазурит"/>
+- <Item.sm item="netherite_ingot" name="Незеритовый слиток"/>
+- <Item.sm item="quartz" name="Кварц"/>
+- <Item.sm item="redstone" name="Красная пыль"/>

@@ -30,9 +30,9 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     to="/docs/mechanics/table-games"
   />
   <Card 
-    title="Новые шаблоны"
-    description="Новые рецепты шаблонов для брони и инструментов."
+    title="Шаблоны для брони и инструментов"
+    description="Новые шаблоны для отделки брони и инструментов."
     preview="/img/mechanics/new-trims/more-trims-banner.png"
-    to="/docs/mechanics/new-trims"
+    to="/docs/mechanics/trims"
   />
 </CardSection>
