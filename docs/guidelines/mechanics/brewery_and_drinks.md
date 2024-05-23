@@ -1,13 +1,13 @@
 ---
-title: Алковарение и напитик
-description: Алковарение и напитик
+title: Напитки и акловарение
+description: Напитки и акловарение
 slug: /mechanics/brewery-and-drinks
 ---
 
 import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
-# Алковарение и напитик
+# Напитки и акловарение
 
 На сервере добавлена возможность варить разного рода напитки, как полезные, так и не очень. 
 
@@ -36,7 +36,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 ### Ферментация
 
-Изготовление любого напитка начинается с процесса ферментации. Для этого вам понадобится поставить котёл с водой над костром или лавой.
+Изготовление любого напитка начинается с процесса ферментации. Для этого вам понадобится поставить котел с водой над костром или лавой.
 
 <ImageZoom
   src="/img/mechanics/brewery-and-drinks/fermenting.webp"
@@ -154,7 +154,6 @@ Cуществует три вида бочек: [маленькая](#small-barr
 
 :::
 
-
 ## Таблица рецептов
 
 <table>
@@ -171,7 +170,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
   <tbody>
     <tr>
       <td><Item.sm item="beer" name="Пиво" /></td>
-      <td>5-7 пшеницы</td>
+      <td><Item.sm item="wheat" name="x5-7 Пшеницы" /></td>
       <td>6-10 минут</td>
       <td>Нет</td>
       <td>3 Года / Любая</td>
@@ -179,7 +178,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="beer" name="Пиво светлое" /></td>
-      <td>2-4 пшеницы</td>
+      <td><Item.sm item="wheat" name="x2-4 Пшеницы" /></td>
       <td>6-10 минут</td>
       <td>Нет</td>
       <td>2 Года / Береза</td>
@@ -187,15 +186,15 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="blackbear" name="Пиво темное" /></td>
-      <td>5-7 пшеницы</td>
+      <td><Item.sm item="wheat" name="x5-7 Пшеницы" /></td>
       <td>6-10 минут</td>
       <td>Нет</td>
-      <td>3 Года / Тёмный дуб</td>
+      <td>3 Года / Темный дуб</td>
       <td>I'</td>
     </tr>
     <tr>
       <td><Item.sm item="wine" name="Красное вино" /></td>
-      <td>3-6 Сладких Ягод</td>
+      <td><Item.sm item="sweet_berries" name="x3-6 Сладких ягод" /></td>
       <td>3-6 минут</td>
       <td>Нет</td>
       <td>Много лет / Любая</td>
@@ -203,7 +202,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="applemead" name="Медовуха" /></td>
-      <td>5-7 Сахарного тростника</td>
+      <td><Item.sm item="sugar_cane" name="x5-7 Сахарного тростника" /></td>
       <td>1-4 минуты</td>
       <td>Нет</td>
       <td>4 года / Дуб</td>
@@ -211,7 +210,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="applemead" name="Яблочная медовуха" /></td>
-      <td>5-7 Сахарного тростника<br />Яблоко</td>
+      <td><Item.sm item="sugar_cane" name="x5-7 Сахарного тростника" /><br /><Item.sm item="apple" name="x1 Яблоко" /></td>
       <td>1-4 минуты</td>
       <td>Нет</td>
       <td>4 года / Дуб</td>
@@ -219,7 +218,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="holycatcider" name="Яблочный сидр" /></td>
-      <td>Много яблок</td>
+      <td><Item.sm item="apple" name="x? Яблок" /></td>
       <td>5-10 минут</td>
       <td>Нет</td>
       <td>3 года / Любая</td>
@@ -227,7 +226,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="appleliqueur" name="Яблочный ликер" /></td>
-      <td>Много яблок</td>
+      <td><Item.sm item="apple" name="x? Яблок" /></td>
       <td>Долго</td>
       <td>Да</td>
       <td>6 Года / Акация</td>
@@ -235,15 +234,15 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="whiskey" name="Виски" /></td>
-      <td>Пшеница</td>
-      <td>0.5-1.5 мин. на каждую / единицу пшеницы</td>
+      <td><Item.sm item="wheat" name="x? Пшеницы" /></td>
+      <td>0.5-1.5 мин. на каждую единицу пшеницы</td>
       <td>Да</td>
-      <td>Очень долго / Тёмный дуб.</td>
+      <td>Очень долго / Темный дуб.</td>
       <td>III'</td>
     </tr>
     <tr>
       <td><Item.sm item="rum" name="Ром" /></td>
-      <td>Много сахарного тростника</td>
+      <td><Item.sm item="sugar_cane" name="x? Сахарного тростника" /></td>
       <td>Быстро</td>
       <td>Да</td>
       <td>Долго / Дуб</td>
@@ -251,7 +250,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="vodka" name="Водка" /></td>
-      <td>5-7 стаков картошки</td>
+      <td><Item.sm item="potato" name="x5-7 стаков Картошки" /></td>
       <td>Долго</td>
       <td>Да</td>
       <td>Нет</td>
@@ -259,7 +258,8 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm name="Грибная настойка" /></td>
-      <td>Картошка<br />Грибы</td>
+      <td>
+      <Item.sm item="potato" name="x? Картошка" /><br /><Item.sm item="red_mushroom" name="x? Грибы" extension=".webp" /></td>
       <td>Очень долго</td>
       <td>Да</td>
       <td>Нет</td>
@@ -267,7 +267,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="gin" name="Джин" /></td>
-      <td>8-10 Пшеницы<br />Немного Синих Цветов<br />Яблоко</td>
+      <td><Item.sm item="wheat" name="x8-10 Пшеницы" /><br /><Item.sm item="cornflower" name="x? Синих васильков" extension=".webp" /><br /><Item.sm item="apple" name="x1 Яблоко" /></td>
       <td>Быстро</td>
       <td>Да</td>
       <td>Нет</td>
@@ -275,7 +275,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="tequila" name="Текила" /></td>
-      <td>Кактус</td>
+      <td><Block.sm item="cactus" name="x1 Кактус" extension=".png" /></td>
       <td>Долго</td>
       <td>Да</td>
       <td>Долго / Береза</td>
@@ -283,7 +283,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="absentee" name="Абсент" /></td>
-      <td>Много травы</td>
+      <td><Item.sm item="short_grass" name="x? Травы" extension=".webp" /></td>
       <td>Быстро</td>
       <td>Да</td>
       <td>Нет</td>
@@ -291,7 +291,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="absentee" name="Зеленый абсент" /></td>
-      <td>Много травы<br />Прочая зелень</td>
+      <td><Item.sm item="short_grass" name="x? Травы" extension=".webp" /><br />Прочая зелень</td>
       <td>Средне</td>
       <td>Да</td>
       <td>Нет</td>
@@ -299,7 +299,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm name="Бульбяны суп" /></td>
-      <td>3-8 картошек<br />Немного травы</td>
+      <td><Item.sm item="potato" name="x3-8 Картошки" /><br /><Item.sm item="short_grass" name="x? Травы" extension=".webp" /></td>
       <td>Быстро</td>
       <td>Нет</td>
       <td>Нет</td>
@@ -307,7 +307,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="coffee" name="Кофе" /></td>
-      <td>Какао бобы в большом кол-ве<br />2 Ведра молока</td>
+      <td><Item.sm item="cocoa_beans" name="x? Какао бобов" /><br /><Item.sm item="milk_bucket" name="x2 Ведра молока" /></td>
       <td>Быстро</td>
       <td>Нет</td>
       <td>Нет</td>
@@ -315,7 +315,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="eggnog" name="Гоголь-Моголь" /></td>
-      <td>3-7 яиц<br />Немного сахара<br />1 Ведро молока</td>
+      <td><Item.sm item="egg" name="x3-7 Яиц" /><br /><Item.sm item="sugar" name="x? Сахара" /><br /><Item.sm item="milk_bucket" name="x1 Ведро молока" /></td>
       <td>Быстро</td> 
       <td>Нет</td>
       <td>Быстро / Любая</td>
