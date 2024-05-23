@@ -18,10 +18,10 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     to="/docs/mechanics/ziprails"
   />
   <Card 
-    title="Новые еда"
-    description="Более 50 новых рецептов блюд, выпечки и напитков."
-    preview="/img/mechanics/joshs-more-food/joshs-more-foods.png"
-    to="/docs/mechanics/joshs-more-foods"
+    title="Еда и блюда"
+    description="Более 50 новых рецептов блюд и не только."
+    preview="/img/mechanics/more_food/joshs-more-foods.png"
+    to="/docs/mechanics/more-food"
   />
   <Card 
     title="Настольные игры"

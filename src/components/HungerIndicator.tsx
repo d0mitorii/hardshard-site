@@ -5,8 +5,8 @@ export const HungerSaturationIndicator = ({
   value: number, 
   type?: "hunger" | "saturation"
 }) => {
-  const fullHungerCount = Math.floor(value);
-  const halfHungerVisible = value - fullHungerCount >= 0.5;
+  const fullHungerCount = Math.floor(value / 2);
+  const halfHungerVisible = (value / 2 - fullHungerCount) >= 0.5;
   const renderFullHunger = () => {
     const fullHungerImages = [];
     for (let i = 0; i < fullHungerCount; i++) {
