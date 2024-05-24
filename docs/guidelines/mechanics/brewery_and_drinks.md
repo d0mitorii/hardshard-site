@@ -9,6 +9,11 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 # Напитки и акловарение
 
+<ImageZoom
+  src="/img/mechanics/drinks_and_brewery/brewery-and-drinks-banner.png"
+  alt="Напитки и алковарение на сервере Hardshard"
+/>
+
 ## Описание
 
 На сервере добавлена возможность варить разного рода напитки, как полезные, так и не очень. 
@@ -43,7 +48,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 Изготовление любого напитка начинается с процесса ферментации. Для этого вам понадобится поставить котел с водой над костром или лавой.
 
 <ImageZoom
-  src="/img/mechanics/brewery-and-drinks/fermenting.webp"
+  src="/img/mechanics/drinks_and_brewery/fermenting.webp"
   alt="Структура для ферментации напитков"
   description="Структура для ферментации напитков"
 />
@@ -71,7 +76,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 **Дистилляция** — это перегонка, испарение жидкости с последующим охлаждением и конденсацией паров. В процессе перегонки, процент алкоголя в напитках увеличивается с каждым циклом.
 
-Для проведения дистилляции вам потребуется <Block.sm item="brewing_stand_(empty)" name="Варочная стойка" extension=".png" />, <Item.sm item="glowstone_dust" name="Светокаменная пыль"/> (она не расходуется в процессе, используется как фильтр) и <Item.sm item={["beer", "blackbear", "gin", "rum", "whiskey", "appleliqueur", "applemead"]} name="Исходный напиток" />.
+Для проведения дистилляции вам потребуется <Block.sm item="brewing_stand_(empty)" name="Зейльеварка" extension=".png" />, <Item.sm item="glowstone_dust" name="Светокаменная пыль"/> (она не расходуется в процессе, используется как фильтр) и <Item.sm item={["beer", "blackbear", "gin", "rum", "whiskey", "appleliqueur", "applemead"]} name="Исходный напиток" />.
 
 ### Выдержка
 
@@ -107,7 +112,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
 Самый простой и доступный способ выдержки напитка. Вам понадобится <Block.sm item="barrel" name="x1 Бочка" extension=".png" />.
 
 <ImageZoom
-  src="/img/mechanics/brewery-and-drinks/small-barrel.png"
+  src="/img/mechanics/drinks_and_brewery/small-barrel.png"
   alt="Маленькая бочка для выдержки напитков"
   description="Маленькая бочка для выдержки напитков"
 />
@@ -125,7 +130,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
 :::
 
 <ImageZoom
-  src="/img/mechanics/brewery-and-drinks/medium-barrel-structure.webp"
+  src="/img/mechanics/drinks_and_brewery/medium-barrel-structure.webp"
   alt="Структура средней бочки для выдержки напитков"
   description="Строительство средней бочки"
 />
@@ -143,7 +148,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
 :::
 
 <ImageZoom
-  src="/img/mechanics/brewery-and-drinks/big-barrel-structure.webp"
+  src="/img/mechanics/drinks_and_brewery/big-barrel-structure.webp"
   alt="Структура большой бочки для выдержки напитков"
   description="Строительство большой бочки"
 />

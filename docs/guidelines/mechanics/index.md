@@ -26,7 +26,7 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
   <Card 
     title="Напитки и акловарение"
     description="Варите собственные напитки: алкогольные и не очень."
-    preview="/img/mechanics/joshs-more-food/joshs-more-foods.png"
+    preview="/img/mechanics/drinks_and_brewery/brewery-and-drinks-banner.png"
     to="/docs/mechanics/drinks-and-brewery"
   />
   <Card 
