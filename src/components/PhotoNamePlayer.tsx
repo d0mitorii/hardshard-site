@@ -1,3 +1,5 @@
+import { useEffect, useState } from "react";
+
 export const PhotoNamePlayer = (props) => {
   const url = `https://cravatar.eu/avatar/${props.skin ? props.skin : props.nickname}/160`;
   return (
@@ -38,68 +40,70 @@ export const PhotoNamePlayer = (props) => {
 }
 
 export class Item {
-  static lg = (porps) => {
-    return (
-      <ItemTextureNameComponent 
-        size="3rem"
-        fontSize="1.25rem"
-        {...porps}
-      />
-    );
-  }
-  static sm = (porps) => {
-    return (
-      <ItemTextureNameComponent 
-        size="1.75rem"
-        fontSize="1rem"
-        {...porps}
-      />
-    );
-  }
+  static lg = (props) => <ItemTextureNameComponent size="3rem" fontSize="1.25rem" {...props} />;
+  static sm = (props) => <ItemTextureNameComponent size="1.75rem" fontSize="1rem" {...props} />;
 }
 
-export const ItemTextureNameComponent = (props) => {
-  const src = `/img/textures/item/${props.item}${props.extension ? props.extension : ".png"}`;
+export const ItemTextureNameComponent = ({
+  item,
+  extension = ".png",
+  timer = 1500,
+  size,
+  fontSize,
+  color,
+  style,
+  name,
+  ...props
+}) => {
+  const [currentItemIndex, setCurrentItemIndex] = useState(0);
+  const items = Array.isArray(item) ? item : [item];
+  const src = `/img/textures/item/${items[currentItemIndex]}${extension}`;
+
+  useEffect(() => {
+    if (items.length > 1) {
+      const interval = setInterval(() => {
+        setCurrentItemIndex((prevIndex) => (prevIndex + 1) % items.length);
+      }, timer);
+      return () => clearInterval(interval);
+    }
+  }, [items, timer]);
+
   return (
     <span
       className="padding--sm pills__item"
       style={{
         display: "inline-flex",
-        alignItems: "center",
-        fontSize: props.fontSize,
+        fontSize,
         fontWeight: "var(--ifm-font-weight-semibold)",
-        color: props.color,
-        ...props.style
+        color,
+        ...style,
       }}
+      {...props}
     >
-      {
-        props.item && (
-          <span
+      {items[currentItemIndex] && (
+        <span
+          style={{
+            minWidth: size,
+            overflow: "hidden",
+            alignItems: "flex-start",
+          }}
+        >
+          <img
+            src={src}
+            alt={`Текстура ${items[currentItemIndex]}${extension}`}
             style={{
-              minWidth: props.size,
+              width: size,
+              imageRendering: "pixelated",
+              verticalAlign: "middle",
               borderRadius: "0.25rem",
-              overflow: "hidden",
             }}
-          >
-            <img
-              src={src}
-              alt={`Текстура ${props.item}${props.extension ? props.extension : ".png"}`}
-              style={{
-                verticalAlign: "top",
-                width: props.size,
-                imageRendering: "pixelated",
-                alignItems: "center",
-                justifyContent: "center",
-              }} />
-          </span>
-        )
-      }
-      {
-        props.name && (props.item ? <>&nbsp;{props.name}</> : props.name)
-      }
+          />
+        </span>
+      )}
+      {name && (items[currentItemIndex] ? <>&nbsp;{name}</> : name)}
     </span>
   );
-}
+};
 
 export class Block {
   static lg = (porps) => {

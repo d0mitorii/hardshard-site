@@ -24,10 +24,10 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     to="/docs/mechanics/joshs-more-foods"
   />
   <Card 
-    title="Алковарение и напитик"
-    description="Алковарение и напитик."
+    title="Напитки и акловарение"
+    description="Варите собственные напитки: алкогольные и не очень."
     preview="/img/mechanics/joshs-more-food/joshs-more-foods.png"
-    to="/docs/mechanics/brewery-and-drinks"
+    to="/docs/mechanics/drinks-and-brewery"
   />
   <Card 
     title="Настольные игры"
