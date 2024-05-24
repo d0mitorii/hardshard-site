@@ -24,6 +24,12 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     to="/docs/mechanics/more-food"
   />
   <Card 
+    title="Напитки и акловарение"
+    description="Варите собственные напитки: алкогольные и не очень."
+    preview="/img/mechanics/drinks_and_brewery/brewery-and-drinks-banner.png"
+    to="/docs/mechanics/drinks-and-brewery"
+  />
+  <Card 
     title="Настольные игры"
     description="Карты, шахматы, шашки, домино и другие предметы для игры с друзьями."
     preview="/img/mechanics/table-games/table-games-banner.webp"

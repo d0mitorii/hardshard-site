@@ -53,7 +53,7 @@ import { Item } from "@site/src/components/PhotoNamePlayer"
 
 :::warning Внимание
 
-Для получения соответвующего предмета, рецепта, модели и т.д. необходимо обменять купленную награду у [Технического администратора](../admins.md#maintenance-and-supervision-department-employees) или его [заместителя](../admins.md#maintenance-and-supervision-department-employees).
+Для получения соответвующего предмета, рецепта, модели и т.д. необходимо обменять купленную награду у [Технического администратора](/docs/admins#maintenance-and-supervision-department-employees) или его [Заместителя](/docs/admins#maintenance-and-supervision-department-employees).
 
 :::
 
@@ -69,48 +69,48 @@ import { Item } from "@site/src/components/PhotoNamePlayer"
   </thead>
   <tbody>
     <tr>
-      <td><Item.lg item="paper" name="Счастливый билетик (голова)" /></td>
-      <td>5</td>
+      <td><Item.sm item="paper" name="Счастливый билетик (голова)" /></td>
+      <td align="right">5</td>
       <td>Позволяет добавить на сервер любую голову на выбор.</td>
     </tr>
     <tr>
-      <td><Item.lg item="paper" name="Счастливый билетик (пластинка)" color="#00A800" /></td>
-      <td>5</td>
+      <td><Item.sm item="paper" name="Счастливый билетик (пластинка)" color="#00A800" /></td>
+      <td align="right">5</td>
       <td>Позволяет добавить на вашу пластинку свою музыкальную композицию.</td>
     </tr>
     <tr>
-      <td><Item.lg item="book" name="Античные чертежи дворфов" color="#5454FC" /></td>
-      <td>8</td>
-      <td>Позволяет создать подвижные механизмы. [Подробнее // todo](#награда-за-голосование).</td>
+      <td><Item.sm item="book" name="Античные чертежи дворфов" color="#5454FC" /></td>
+      <td align="right">8</td>
+      <td>Позволяет создать подвижные механизмы.</td>
     </tr>
     <tr>
-      <td><Item.lg item="paper" name="Счастливый билетик (напиток)" color="#5454FC" /></td>
-      <td>10</td>
+      <td><Item.sm item="paper" name="Счастливый билетик (напиток)" color="#5454FC" /></td>
+      <td align="right">10</td>
       <td>Позволяет добавить на сервер уникальный напиток по вашему рецепту.</td>
     </tr>
     <tr>
-      <td><Item.lg item="paper" name="Волшебный свисток (частицы окружения)" color="#A800A8" /></td>
-      <td>15</td>
+      <td><Item.sm item="paper" name="Волшебный свисток (частицы окружения)" color="#A800A8" /></td>
+      <td align="right">15</td>
       <td>Позволяет оформить локацию особыми частицами окружения.</td>
     </tr>
     <tr>
-      <td><Item.lg item="flower_banner_pattern" name="Тайный манускрипт (моб)" color="#A800A8" /></td>
-      <td>15</td>
+      <td><Item.sm item="flower_banner_pattern" name="Тайный манускрипт (моб)" color="#A800A8" /></td>
+      <td align="right">15</td>
       <td>Позволяет добавить на сервер кастомного моба с особыми функциями.</td>
     </tr>
     <tr>
-      <td><Item.lg item="enchanted_book" name="Загадочное писание (модель)" color="#FCA800" extension=".gif"/></td>
-      <td>25</td>
+      <td><Item.sm item="enchanted_book" name="Загадочное писание (модель)" color="#FCA800" extension=".gif"/></td>
+      <td align="right">25</td>
       <td>Позволяет добавить на сервер кастомную 3D модель под заказ.</td>
     </tr>
     <tr>
-      <td><Item.lg item="flower_banner_pattern" name="Тайный манускрипт (босс)" color="#FCA800" /></td>
-      <td>30</td>
+      <td><Item.sm item="flower_banner_pattern" name="Тайный манускрипт (босс)" color="#FCA800" /></td>
+      <td align="right">30</td>
       <td>Позволяет добавить на сервер босса со своими скиллами и дропом.</td>
     </tr>
     <tr>
-      <td><Item.lg item="paper" name="Счастливый билет (частицы)" color="#FCA800" /></td>
-      <td>30</td>
+      <td><Item.sm item="paper" name="Счастливый билет (частицы)" color="#FCA800" /></td>
+      <td align="right">30</td>
       <td>Позволяет получить частицы на выбор.</td>
     </tr>
   </tbody>
