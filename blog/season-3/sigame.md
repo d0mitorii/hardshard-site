@@ -9,7 +9,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 ![Mamochkaa и лама](./img/mamochkaa-i-lama.jpg)
 
-Предлагаем вам под конец недели поучаствовать в Своей Игре с вопросами по истории нашего сервера! Пак для игры старательно на протяжении недели собирала [@avokneruyt](https://t.me/avokneruyt), которую вы знаете под ником <PhotoNamePlayer nickname="mamochkaa"/>.
+Предлагаем вам под конец недели поучаствовать в Своей Игре с вопросами по истории нашего сервера! Пак для игры старательно на протяжении недели собирала <PhotoNamePlayer nickname="mamochkaa"/>.
 
 <!--truncate-->
 
