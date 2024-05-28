@@ -1,6 +1,7 @@
 ---
 title: Основные правила сообщества
 description: Правила, распространяющиеся на все проекты Hardshard.
+slug: /rules
 sidebar_position: 2
 ---
 
@@ -242,7 +243,7 @@ sidebar_position: 2
 
 <span id="2.12.8" className="anchor anchorWithStickyNavbar_node_modules-@docusaurus-theme-classic-lib-theme-Heading-styles-module">**2.12.8**</span> Запрещено публичное воспроизведение эмоций, содержащих подобный контент, при помощи мода Emotecraft (и аналогов) без явного согласия всех окружающих игроков, а также в присутствии лиц младше 18 лет.
 
-<span id="2.12.9" className="anchor anchorWithStickyNavbar_node_modules-@docusaurus-theme-classic-lib-theme-Heading-styles-module">**2.12.9**</span> Отказ от ответственности.
+<span id="2.12.9" className="anchor anchorWithStickyNavbar_node_modules-@docusaurus-theme-classic-lib-theme-Heading-styles-module">**2.12.9**</span> [Отказ от ответственности](/docs/denial-of-responsibility).
 
 ### 2.13 Создание чёрных списков территорий {#2.13}
 
