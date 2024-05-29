@@ -41,7 +41,7 @@ export class Item {
   static lg = (porps) => {
     return (
       <ItemTextureNameComponent 
-        size="3rem"
+        size="2rem"
         fontSize="1.25rem"
         {...porps}
       />
