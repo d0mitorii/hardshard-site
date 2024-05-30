@@ -52,7 +52,10 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     </tr>
     <tr>
       <td>Технический специалист</td>
-      <td><PhotoNamePlayer nickname="notfoundname" skin="steve"/></td>
+      <td>
+        <PhotoNamePlayer nickname="notfoundname" /><br />
+        <PhotoNamePlayer nickname="mulciber_" />
+      </td>
       <td>Разработка контента, исправление технических недостатков сборки сервера, тестирование нововведений</td>
     </tr>
   </tbody>

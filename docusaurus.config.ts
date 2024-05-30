@@ -26,6 +26,10 @@ const config: Config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: "Последние новости",
+          blogTitle: "Новости и объявления",
+          blogDescription: "Следите за последними новостями, обновлениями и анонсами проекта Hardshard.",
+          blogSidebarCount: 10,
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -43,12 +47,6 @@ const config: Config = {
       },
       items: [
         { to: '/docs/rules', label: 'Правила', position: 'right'},
-        // {
-        //   type: 'doc',
-        //   position: 'right',
-        //   docId: 'rules',
-        //   label: 'Правила',
-        // },
         { to: '/docs/guidelines', label: 'Руководства', position: 'right' },
         { to: '/docs/roleplay', label: 'Ролевая игра', position: 'right' },
         { to: '/blog', label: 'Новости', position: 'right' },
