@@ -47,12 +47,6 @@ const config: Config = {
       },
       items: [
         { to: '/docs/rules', label: 'Правила', position: 'right'},
-        // {
-        //   type: 'doc',
-        //   position: 'right',
-        //   docId: 'rules',
-        //   label: 'Правила',
-        // },
         { to: '/docs/guidelines', label: 'Руководства', position: 'right' },
         { to: '/docs/roleplay', label: 'Ролевая игра', position: 'right' },
         { to: '/blog', label: 'Новости', position: 'right' },
