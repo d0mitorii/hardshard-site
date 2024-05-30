@@ -1,5 +1,6 @@
 ---
 title: Головные уборы
+description: Дополни образ и привнеси разнообразие в ролевую игру новыми головными уборами на сервере Hardshard.
 slug: /mechanics/hats
 ---
 
@@ -12,7 +13,7 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
   alt="Новые головные уборы на Hardshard"
 />
 
-## Описание
+## Описание {#description}
 
 Шляпы не несут никакой практической пользы, но помогут вам дополнить свой образ и поддержать атмосферу ролевой игры. Они также могут использоваться в качестве декораций, если поместить головной убор в рамку.
 
@@ -22,9 +23,11 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 
 :::
 
-## Виды головных уборов
+## Головные уборы {#hats-list}
 
-### Цилиндр
+### Цилиндры {#cylinders}
+
+Доступны 16 видов цветов.
 
 <ImageZoom
   src="/img/mechanics/hats/cylinder-craft.png"
@@ -32,7 +35,7 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
   description="Рецепт создания цилиндра"
 />
 
-### Короны
+### Короны {#crowns}
 
 Доступны три вида корон:
 - Медная
@@ -47,7 +50,7 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
   description="Рецепт создания золотой короны"
 />
 
-### Шахтерская каска
+### Шахтерская каска {#miners-helmet}
 
 <ImageZoom
   src="/img/mechanics/hats/miners-helmet-craft.png"
@@ -55,7 +58,7 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
   description="Рецепт создания шахтерской каски"
 />
 
-### Ковбойская шляпа
+### Ковбойская шляпа {#cowboy-hat}
 
 <ImageZoom
   src="/img/mechanics/hats/cowboy-hat-craft.png"
@@ -63,7 +66,7 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
   description="Рецепт создания ковбойской шляпы"
 />
 
-### Пиратская шляпа
+### Пиратская шляпа {#pirate-hat}
 
 <ImageZoom
   src="/img/mechanics/hats/pirate-hat-craft.png"

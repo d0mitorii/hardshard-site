@@ -41,4 +41,10 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     preview="/img/mechanics/new-trims/more-trims-banner.png"
     to="/docs/mechanics/trims"
   />
+  <Card 
+    title="Головные уборы"
+    description="Дополни образ и привнеси разнообразие в ролевую игру."
+    preview="/img/mechanics/hats/novie-shlyapi-na-hardshard.png"
+    to="/docs/mechanics/hats"
+  />
 </CardSection>
