@@ -1,5 +1,6 @@
 ---
 title: Хоккейная турнирная сетка
+slug: /hockey-tournament-table
 authors: [admin]
 tags: [News, Hockey tournament, Event]
 date: 2023-08-28

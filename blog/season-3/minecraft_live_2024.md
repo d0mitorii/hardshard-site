@@ -1,5 +1,6 @@
 ---
 title: Minecraft Live вместе с Hardshard
+slug: /minecraft-live-2024
 authors: [admin]
 tags: [News, Minecraft Live]
 date: 2023-10-12

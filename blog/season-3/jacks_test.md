@@ -1,5 +1,6 @@
 ---
 title: Испытание Джека
+slug: /jacks-test
 authors: [admin]
 tags: [News, Event]
 date: 2023-10-30

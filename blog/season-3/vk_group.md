@@ -1,5 +1,6 @@
 ---
 title: У нас появилась группа ВКонтакте
+slug: /vk-group
 authors: [admin]
 tags: [News, VK]
 date: 2023-11-04

@@ -1,5 +1,6 @@
 ---
 title: Новые правила сообщества
+slug: /new-rules
 authors: [admin]
 tags: [News]
 date: 2023-08-05

@@ -1,5 +1,6 @@
 ---
 title: Устав Вольного города Анрими-Эссива
+slug: /charter-anrimi-essiva
 authors: [admin]
 tags: [News, Role play]
 date: 2023-08-19

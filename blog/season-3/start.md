@@ -1,5 +1,6 @@
 ---
 title: Старт третьего сезона
+slug: /start
 authors: [admin]
 tags: [News]
 date: 2023-08-05

@@ -1,5 +1,6 @@
 ---
 title: Анонс хоккейного турнира и регистрация команд
+slug: /hockey-tournament-announcement
 authors: [admin]
 tags: [News, Hockey tournament, Event]
 date: 2023-08-26

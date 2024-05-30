@@ -1,5 +1,6 @@
 ---
 title: Пасхальный ивент под конец Пасхи!
+slug: /easter
 authors: [admin]
 tags: [News, Event]
 date: 2024-05-05
