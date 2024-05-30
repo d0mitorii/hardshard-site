@@ -36,16 +36,16 @@ export const PlayersList = () => {
       <div 
         className="col col--8 col--offset-2 text--center padding--lg "
         style={{
-        backgroundColor: "var(--ifm-card-background-color)",
-        borderRadius: "var(--ifm-card-border-radius)",
+          backgroundColor: "var(--ifm-card-background-color)",
+          borderRadius: "var(--ifm-card-border-radius)",
         }}
       >
         <h2>Игроков на сервере {online} / {maxPlayers}</h2>
-        <div style={{alignContent: "center"}}>
+        <div style={{alignContent: "center",}}>
           {
             playersList &&
             playersList.map((player, index) => (
-            <PhotoNamePlayer nickname={player.name} key={index}/>
+              <PhotoNamePlayer nickname={player.name} key={index}/>
             ))
           }
         </div>

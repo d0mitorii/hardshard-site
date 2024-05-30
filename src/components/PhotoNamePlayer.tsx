@@ -4,7 +4,7 @@ export const PhotoNamePlayer = (props) => {
   const url = `https://cravatar.eu/avatar/${props.skin ? props.skin : props.nickname}/160`;
   return (
     <span
-      className="padding--sm pills__item"
+      className="padding--xs pills__item"
       style={{
         display: "inline-flex",
         alignItems: "center",
@@ -70,10 +70,11 @@ export const ItemTextureNameComponent = ({
 
   return (
     <span
-      className="padding--sm pills__item"
+      className="padding--xs pills__item"
       style={{
         display: "inline-flex",
         fontSize,
+        alignItems: "center",
         fontWeight: "var(--ifm-font-weight-semibold)",
         color,
         ...style,
@@ -94,7 +95,7 @@ export const ItemTextureNameComponent = ({
             style={{
               width: size,
               imageRendering: "pixelated",
-              verticalAlign: "middle",
+              verticalAlign: "top",
               borderRadius: "0.25rem",
             }}
           />

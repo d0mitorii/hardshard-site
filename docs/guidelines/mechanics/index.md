@@ -47,4 +47,10 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     preview="/img/mechanics/hats/novie-shlyapi-na-hardshard.png"
     to="/docs/mechanics/hats"
   />
+  <Card 
+    title="Усложненный Дракон Края"
+    description="Финальная битва с боссом стала сложнее."
+    preview="/img/mechanics/ender_dragon/ender_dragon_banner.png"
+    to="/docs/mechanics/ender-dragon"
+  />
 </CardSection>
