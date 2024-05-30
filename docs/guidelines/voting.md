@@ -53,7 +53,7 @@ import { Item } from "@site/src/components/PhotoNamePlayer"
 
 :::warning Внимание
 
-Для получения соответвующего предмета, рецепта, модели и т.д. необходимо обменять купленную награду у [Технического администратора](../admins.md#maintenance-and-supervision-department-employees) или его [заместителя](../admins.md#maintenance-and-supervision-department-employees).
+Для получения соответвующего предмета, рецепта, модели и т.д. необходимо обменять купленную награду у [Технического администратора](/docs/admins#maintenance-and-supervision-department-employees) или его [Заместителя](/docs/admins#maintenance-and-supervision-department-employees).
 
 :::
 

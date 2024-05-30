@@ -18,15 +18,27 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     to="/docs/mechanics/ziprails"
   />
   <Card 
-    title="Новые еда"
-    description="Более 50 новых рецептов блюд, выпечки и напитков."
-    preview="/img/mechanics/joshs-more-food/joshs-more-foods.png"
-    to="/docs/mechanics/joshs-more-foods"
+    title="Еда и блюда"
+    description="Более 50 новых рецептов блюд и не только."
+    preview="/img/mechanics/more_food/joshs-more-foods.png"
+    to="/docs/mechanics/more-food"
+  />
+  <Card 
+    title="Напитки и акловарение"
+    description="Варите собственные напитки: алкогольные и не очень."
+    preview="/img/mechanics/drinks_and_brewery/brewery-and-drinks-banner.png"
+    to="/docs/mechanics/drinks-and-brewery"
   />
   <Card 
     title="Настольные игры"
     description="Карты, шахматы, шашки, домино и другие предметы для игры с друзьями."
     preview="/img/mechanics/table-games/table-games-banner.webp"
     to="/docs/mechanics/table-games"
+  />
+  <Card 
+    title="Шаблоны для брони и инструментов"
+    description="Новые шаблоны для отделки брони и инструментов."
+    preview="/img/mechanics/new-trims/more-trims-banner.png"
+    to="/docs/mechanics/trims"
   />
 </CardSection>

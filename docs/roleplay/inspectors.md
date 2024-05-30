@@ -32,39 +32,27 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
   </thead>
   <tbody>
     <tr>
-      <td>
-        <PhotoNamePlayer nickname="ViMiR"/>
-      </td>
-      <td>Глава Палаты Инспекторов</td>
+      <td><PhotoNamePlayer nickname="mamochkaa"/></td>
+      <td>Президент Палаты Инспекторов</td>
     </tr>
     <tr>
-      <td>
-        <PhotoNamePlayer nickname="_AUZER_"/>
-      </td>
+      <td><PhotoNamePlayer nickname="_AUZER_"/></td>
       <td>Рядовой сотрудник</td>
     </tr>
     <tr>
-      <td>
-        <PhotoNamePlayer nickname="Terriuawara"/>
-      </td>
+      <td><PhotoNamePlayer nickname="Terriuawara"/></td>
       <td>Рядовой сотрудник</td>
     </tr>
     <tr>
-      <td>
-        <PhotoNamePlayer nickname="MurlocProger"/>
-      </td>
+      <td><PhotoNamePlayer nickname="MurlocProger"/></td>
       <td>Рядовой сотрудник</td>
     </tr>
     <tr>
-      <td>
-        <PhotoNamePlayer nickname="mulciber_"/>
-      </td>
+      <td><PhotoNamePlayer nickname="mulciber_"/></td>
       <td>Рядовой сотрудник</td>
     </tr>
     <tr>
-      <td>
-        <PhotoNamePlayer nickname="Flammablelion"/>
-      </td>
+      <td><PhotoNamePlayer nickname="ViMiR"/></td>
       <td>Рядовой сотрудник</td>
     </tr>
   </tbody>
