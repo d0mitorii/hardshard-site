@@ -53,4 +53,10 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     preview="/img/mechanics/ender_dragon/ender_dragon_banner.png"
     to="/docs/mechanics/ender-dragon"
   />
+  <Card 
+    title="Цепи, веревки, провода и гирлянды"
+    description="Украшайте свои постройки и интерьеры при помощи различных цепей и веревок."
+    preview="/img/mechanics/catenary/catenary-banner.png"
+    to="/docs/mechanics/catenary"
+  />
 </CardSection>
