@@ -7,7 +7,7 @@ description: Битва с фильнальным боссом больше не
 import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 import { Item } from "@site/src/components/PhotoNamePlayer"
 
-# Усложненный Дракон Края {#}
+# Усложненный Дракон Края
 
 <ImageZoom
   src="/img/mechanics/ender_dragon/ender_dragon_banner.png"
