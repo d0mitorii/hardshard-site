@@ -25,14 +25,14 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 
 ## Головные уборы {#hats-list}
 
-### Цилиндры {#cylinders}
+### Цилиндр {#cylinder}
 
-Доступны 16 видов цветов.
+Вы можете перекрасить белый цилиндр в любой цвет.
 
 <ImageZoom
   src="/img/mechanics/hats/cylinder-craft.png"
-  alt="Рецепт создания цилиндра"
-  description="Рецепт создания цилиндра"
+  alt="Рецепт создания белого цилиндра"
+  description="Рецепт создания белого цилиндра"
 />
 
 ### Короны {#crowns}

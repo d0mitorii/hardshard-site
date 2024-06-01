@@ -1,6 +1,6 @@
 ---
 title: Шаблоны для брони и инструментов
-slug: /mechanics/new-trims
+slug: /mechanics/trims
 description: Новые шаблоны для отделки брони и инструментов. 
 ---
 
