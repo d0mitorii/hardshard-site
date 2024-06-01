@@ -20,7 +20,14 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 ## Как использовать {#how-to-use}
 
-Чтобы установить цепь, сначала поместите фейерверк в одну из точек, к которой хотите её прикрепить. Вы получите фейерверк, связанный с этой точкой. Установка этого фейерверка во вторую точку крепления создаст два якоря в этих точках с цепью между ними. Вы можете левым кликом по якорям разрушить цепь, а правым кликом с фейерверком по якорю установить его как точку крепления для другой цепи.
+Для установки цепи выполните следующие шаги:
+
+1. Нажмите ПКМ по первому блоку, к которому хотите прикрепить цепь. При этом вы получите фейерверк, связанный с этой точкой, а координаты первой точки отобразятся над полоской инвентаря.
+2. Затем, используя полученный фейерверк, нажмите ПКМ по второму блоку на некотором расстоянии. Это создаст два якоря с цепью между ними.
+
+Чтобы использовать один из якорей для крепления другой цепи, нажмите ПКМ другим фейерверком по выбранному якорю.
+
+Для разрушения цепи нажмите ЛКМ по одному из якорей.
 
 ## Виды {#types}
 
@@ -58,8 +65,6 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 ### Прямые железные прутья {#straight-iron-bars}
 
-Как прямая цепь, но с железными прутьями.
-
 <ImageZoom
   src="/img/mechanics/catenary/straight-iron-bars.png"
   alt="Как выглядят прямые железные прутья"
@@ -94,7 +99,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 ### Электрический кабель {#electrical-cable}
 
-Свисающая веревка/кабель с текстурой Досок из тропического дерева.
+Свисающая веревка/кабель с текстурой <Block.sm item="jungle_planks" name="Досок из тропического дерева" />.
 
 <ImageZoom
   src="/img/mechanics/catenary/electrical-cable.png"
@@ -112,7 +117,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 ### Стержневая дуга {#end-rods}
 
-Свисающие дуга из Стержней Энда, излучающие свет **уровня 14**.
+Свисающие дуга из <Block.sm item="end_rod" name="Стержней Энда" />, излучающие свет **уровня 14**.
 
 <ImageZoom
   src="/img/mechanics/catenary/end-rods.png"
@@ -130,7 +135,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 ### Точильная цепь {#grindstone-chain}
 
-Толстая прочная свисающая цепь из Точил.
+Толстая прочная свисающая цепь из <Block.sm item="grindstone" name="Точил" />.
 
 <ImageZoom
   src="/img/mechanics/catenary/grindstone-chain.png"
@@ -148,7 +153,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 ### Цепь с надписью "Catenary" {#spelling-catenary}
 
-Цепь с надписью `Catenary` для быстрого создания вывески для магазина по продаже предметов из этой статьи.
+Цепь с надписью `Catenary`. Можно использовать для быстрого создания вывески для магазина по продаже предметов из этой статьи.
 
 <ImageZoom
   src="/img/mechanics/catenary/spelling-catenary.png"
@@ -166,7 +171,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 ### Текстовая гирлянда {#custom-spelling}
 
-Свисающая цепь с пользовательским текстом. Переименуйте <Item.sm item="firework_rocket" name="Созданный фейерверк" /> на наковальне.
+Свисающая цепь с пользовательским текстом. Чтобы изменить текст, переименуйте созданный фейерверк на наковальне.
 
 :::warning Внимание
 
@@ -190,7 +195,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 ### Аметистовая гирлянда {#amethyst-lights}
 
-<Item.sm item="amethyst_shard" name="Осколки аметиста" />, свисающие на железных прутьях и излучающие свет **уровня 10**.
+Свисающие железные прутья с <Item.sm item="amethyst_shard" name="Осколками аметиста" />, излучающими свет **уровня 10**.
 
 <ImageZoom
   src="/img/mechanics/catenary/amethyst-lights.png"
@@ -244,7 +249,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 ### Цепь с разными фонарями {#chain-with-mixed-lanterns}
 
-Простая цепь с чередующимися <Item.sm item="lantern" name="Фонарями" /> и <Item.sm item="soul_lantern" name="Фонарями душ" />, излучающими свет **уровня 6**.
+Свисающая цепь с чередующимися <Item.sm item="lantern" name="Фонарями" /> и <Item.sm item="soul_lantern" name="Фонарями душ" />, излучающими свет **уровня 6**.
 
 <ImageZoom
   src="/img/mechanics/catenary/chain-with-mixed-lanterns.png"
@@ -280,7 +285,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 ### Замшелая дуга {#mossy-beam}
 
-Толстая изогнутая дуга из Булыжной ограды и Замшелой булыжной ограды со случайным расположением Листвы, Лиан и Спороцветов.
+Толстая изогнутая дуга из <Block.sm item="cobblestone_wall" name="Булыжной ограды" /> и <Block.sm item="mossy_cobblestone_wall" name="Замшелой булыжной ограды" /> со случайным расположением листвы, лиан и спороцветов.
 
 <ImageZoom
   src="/img/mechanics/catenary/mossy-beam.png"
@@ -292,7 +297,9 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 :::note
 
-В рецепте может использоваться любой тип Листвы.
+В рецепте используется <Block.sm item="mossy_cobblestone_wall" name="Замшелая булыжная ограда" />.
+
+Можно использовать <Block.sm item={["acacia_leaves", "azalea_leaves", "birch_leaves", "cherry_leaves", "dark_oak_leaves", "flowering_azalea_leaves", "jungle_leaves", "mangrove_leaves", "oak_leaves", "spruce_leaves" ]} name="Листву любого типа" />.
 
 :::
 

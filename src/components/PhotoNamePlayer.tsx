@@ -127,41 +127,62 @@ export class Block {
   }
 }
 
-export const BlockTextureNameComponent = (props) => {
-  const src = `/img/textures/block/${props.item}${props.extension ? props.extension : ".webp"}`;
-
+export const BlockTextureNameComponent = ({
+  item,
+  extension = ".png",
+  timer = 1500,
+  size,
+  fontSize,
+  color,
+  style,
+  name,
+  ...props
+}) => {
+  const [currentItemIndex, setCurrentItemIndex] = useState(0);
+  const items = Array.isArray(item) ? item : [item];
+  const src = `/img/textures/block/${items[currentItemIndex]}${extension}`;
+  useEffect(() => {
+    if (items.length > 1) {
+      const interval = setInterval(() => {
+        setCurrentItemIndex((prevIndex) => (prevIndex + 1) % items.length);
+      }, timer);
+      return () => clearInterval(interval);
+    }
+  }, [items, timer]);
   return (
     <span
-      className="padding--sm pills__item"
+      className="padding--xs pills__item"
       style={{
         display: "inline-flex",
         alignItems: "center",
-        fontSize: props.fontSize,
+        fontSize,
         fontWeight: "var(--ifm-font-weight-semibold)",
-        color: props.color,
-        ...props.style
+        color,
+        ...style,
       }}
+      {...props}
     >
-      <span
-        style={{
-          minWidth: props.size,
-          borderRadius: "0.25rem",
-          overflow: "hidden",
-        }}
-      >
+      {items[currentItemIndex] && (
+        <span
+          style={{
+            minWidth: size,
+            overflow: "hidden",
+            alignItems: "flex-start",
+          }}
+        >
         <img
           src={src}
-          alt={`Текстура ${props.item}${props.extension ? props.extension : ".webp"}`}
+          alt={`Текстура ${items[currentItemIndex]}${extension}`}
           style={{
             verticalAlign: "top",
-            width: props.size,
+            width: size,
             alignItems: "center",
             justifyContent: "center",
-          }} />
+          }}
+        />
       </span>
-      {
-        props.name && `\u00A0${props.name}`
-      }
+      )}
+      {name && (items[currentItemIndex] ? <>&nbsp;{name}</> : name)}
     </span>
   );
-}
+};

@@ -41,7 +41,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 :::warning Внимание
 
-Для создания используется <Block.sm item="mossy_stone_bricks" name="Зараженный замшелый кирпич" extension=".png" />.
+Для создания используется <Block.sm item="mossy_stone_bricks" name="Зараженный замшелый кирпич" />.
 
 :::
 
@@ -74,7 +74,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 :::warning Внимание
 
-Для создания используется <Block.sm item="cobblestone" name="Зараженный булыжник" extension=".png" />.
+Для создания используется <Block.sm item="cobblestone" name="Зараженный булыжник" />.
 
 :::
 

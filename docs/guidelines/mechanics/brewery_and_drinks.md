@@ -76,7 +76,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 **Дистилляция** — это перегонка, испарение жидкости с последующим охлаждением и конденсацией паров. В процессе перегонки, процент алкоголя в напитках увеличивается с каждым циклом.
 
-Для проведения дистилляции вам потребуется <Block.sm item="brewing_stand_(empty)" name="Зейльеварка" extension=".png" />, <Item.sm item="glowstone_dust" name="Светокаменная пыль"/> (она не расходуется в процессе, используется как фильтр) и <Item.sm item={["beer", "blackbear", "gin", "rum", "whiskey", "appleliqueur", "applemead"]} name="Исходный напиток" />.
+Для проведения дистилляции вам потребуется <Block.sm item={["brewing_stand_(empty)", "cobblestone"]} name="Зейльеварка" />, <Item.sm item="glowstone_dust" name="Светокаменная пыль"/> (она не расходуется в процессе, используется как фильтр) и <Item.sm item={["beer", "blackbear", "gin", "rum", "whiskey", "appleliqueur", "applemead"]} name="Исходный напиток" />.
 
 ### Выдержка
 
@@ -109,7 +109,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
 
 Вмещает в себя **6 бутылок** с напитками.
 
-Самый простой и доступный способ выдержки напитка. Вам понадобится <Block.sm item="barrel" name="x1 Бочка" extension=".png" />.
+Самый простой и доступный способ выдержки напитка. Вам понадобится <Block.sm item="barrel" name="x1 Бочка" />.
 
 <ImageZoom
   src="/img/mechanics/drinks_and_brewery/small-barrel.png"
@@ -121,7 +121,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
 
 Вмещает в себя **9 бутылок** с напитками.
 
-Это структура состоящая из <Block.sm item="oak_stairs" name="x8 Деревянных ступенек" extension=".png" /> и <Item.sm item="oak_sign" name="x1 Таблички" />.
+Это структура состоящая из <Block.sm item="oak_stairs" name="x8 Деревянных ступенек" /> и <Item.sm item="oak_sign" name="x1 Таблички" />.
 
 :::note
 
@@ -139,7 +139,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
 
 Вмещает в себя **27 бутылок** с напитками.
 
-Более сложная структура, состоящая из <Block.sm item="oak_planks" name="x18 Досок" extension=".png" />, <Block.sm item="oak_stairs" name="x16 Деревянных ступенек" extension=".png" />, <Block.sm item="oak_fence" name="x5 Деревянных заборов" extension=".png" /> и <Item.sm item="oak_sign" name="x1 Табличка" />.
+Более сложная структура, состоящая из <Block.sm item="oak_planks" name="x18 Досок" />, <Block.sm item="oak_stairs" name="x16 Деревянных ступенек" />, <Block.sm item="oak_fence" name="x5 Деревянных заборов" /> и <Item.sm item="oak_sign" name="x1 Табличка" />.
 
 :::note
 
@@ -280,7 +280,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="tequila" name="Текила" /></td>
-      <td><Block.sm item="cactus" name="x1 Кактус" extension=".png" /></td>
+      <td><Block.sm item="cactus" name="x1 Кактус" /></td>
       <td>Долго</td>
       <td>Да</td>
       <td>Долго / Береза</td>

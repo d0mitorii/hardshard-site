@@ -43,7 +43,7 @@ import { HungerSaturationIndicator } from "@site/src/components/HungerIndicator"
 
 ## Кухонная плита {#cooking-station}
 
-<Block.sm item="cooking_station" name="Кухонная плита" extension=".png"/> — новый блок, необходимый для приготовленяи новых блюд.
+<Block.sm item="cooking_station" name="Кухонная плита" /> — новый блок, необходимый для приготовленяи новых блюд.
 
 <ImageZoom
   src="/img/mechanics/more_food/station-craft.png"
@@ -622,7 +622,7 @@ import { HungerSaturationIndicator } from "@site/src/components/HungerIndicator"
 
 :::note
 
-В этих рецептах можно использовать листву любого типа.
+В этих рецептах можно использовать <Block.sm item={["acacia_leaves", "azalea_leaves", "birch_leaves", "cherry_leaves", "dark_oak_leaves", "flowering_azalea_leaves", "jungle_leaves", "mangrove_leaves", "oak_leaves", "spruce_leaves" ]} name="Листву любого типа" />.
 
 :::
 
