@@ -6,6 +6,7 @@ import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
 import { PlayersList } from '../components/PlayersListComponent';
+import { SplashComponent } from '../components/SplashComponent';
 
 function HomepageHeader() {
 const {siteConfig} = useDocusaurusContext();
@@ -54,6 +55,7 @@ export default function Home(): JSX.Element {
       <main>
         <div className="container">
           <PlayersList />
+          <SplashComponent />
         </div>
       </main>
     </Layout>
