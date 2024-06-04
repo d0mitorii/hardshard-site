@@ -37,7 +37,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     </tr>
     <tr>
       <td><PhotoNamePlayer nickname="_AUZER_"/></td>
-      <td>Рядовой сотрудник</td>
+      <td>Заместитель Президента</td>
     </tr>
     <tr>
       <td><PhotoNamePlayer nickname="Terriuawara"/></td>
@@ -45,10 +45,6 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     </tr>
     <tr>
       <td><PhotoNamePlayer nickname="MurlocProger"/></td>
-      <td>Рядовой сотрудник</td>
-    </tr>
-    <tr>
-      <td><PhotoNamePlayer nickname="mulciber_"/></td>
       <td>Рядовой сотрудник</td>
     </tr>
     <tr>
