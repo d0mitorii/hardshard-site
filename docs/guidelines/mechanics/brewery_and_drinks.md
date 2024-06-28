@@ -1,13 +1,13 @@
 ---
-title: Напитки и акловарение
-description: Напитки и акловарение
+title: Напитки и алковарение
+description: Напитки и алковарение
 slug: /mechanics/drinks-and-brewery
 ---
 
 import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
-# Напитки и акловарение
+# Напитки и алковарение
 
 <ImageZoom
   src="/img/mechanics/drinks_and_brewery/brewery-and-drinks-banner.png"
