@@ -1,12 +1,3 @@
-# Hardshard website
+# HardShard website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
-
-todo
-
-- [ ] Оформить Статут
-- [ ] Оформить правила Анрими-Эссива
-- [x] Сделать компоненты предметов с картинкой и названием (с учетом цвета текста)
-- [ ] Разделить разделы Ролевой игры, Механик и Правил
-
-- Добавлена возможность переплавки рудных блоков и камней в плавильной печи;

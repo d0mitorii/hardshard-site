@@ -1,6 +1,6 @@
 ---
 title: Инспекторы
-description: Общие сведения о Палате инспекторов сервера Hardshard.
+description: Общие сведения о Палате инспекторов сервера HardShard.
 sidebar_position: 3
 slug: /inspectors
 ---

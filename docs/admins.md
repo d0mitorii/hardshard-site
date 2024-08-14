@@ -112,7 +112,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     <tr>
       <td>Администратор Telegram-канала объявлений</td>
       <td><PhotoNamePlayer nickname="Flammablelion"/></td>
-      <td>Редакция и размещение сообщений игроков в канале объявлений Hardshard</td>
+      <td>Редакция и размещение сообщений игроков в канале объявлений HardShard</td>
     </tr>
     <tr>
       <td>Администратор Telegram-чата HS</td>
@@ -165,15 +165,15 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
   </tbody>
 </table>
 
-## Советник Администрации Hardshard {#advisor}
+## Советник Администрации HardShard {#advisor}
 
 ### Функции {#advisor-functions}
 
-- Предоставление советов и рекомендаций Администрации Hardshard в различных вопросах
-- Мониторинг и контроль за исполнением решений Администрации Hardshard
-- Исполнение поручений Администрации Hardshard
-- Оказание содействия в решении вопросов по просьбе сотрудников Администрации Hardshard по собственной воле
-- Ознакомление с документами Администрации Hardshard
+- Предоставление советов и рекомендаций Администрации HardShard в различных вопросах
+- Мониторинг и контроль за исполнением решений Администрации HardShard
+- Исполнение поручений Администрации HardShard
+- Оказание содействия в решении вопросов по просьбе сотрудников Администрации HardShard по собственной воле
+- Ознакомление с документами Администрации HardShard
 
 ### Ответственные {#advisor-employees}
 
@@ -187,14 +187,14 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
   </thead>
   <tbody>
     <tr>
-      <td>Советник Администрации Hardshard по общим вопросам</td>
+      <td>Советник Администрации HardShard по общим вопросам</td>
       <td><PhotoNamePlayer nickname="KerkSweet"/></td>
-      <td>Представление советов и рекомендаций Админстрации Hardshard в вопросах, связанных с обеспечением полноценной работы основного проекта</td>
+      <td>Представление советов и рекомендаций Админстрации HardShard в вопросах, связанных с обеспечением полноценной работы основного проекта</td>
     </tr>
     <tr>
-      <td>Советник Администрации Hardshard по вопросам проекта Vintage Story</td>
+      <td>Советник Администрации HardShard по вопросам проекта Vintage Story</td>
       <td><PhotoNamePlayer nickname="Himer_Fatal" skin="steve"/></td>
-      <td>Представление советов и рекомендаций Админстрации Hardshard в вопросах, связанных с обеспечением полноценной работы проекта Vintage Story</td>
+      <td>Представление советов и рекомендаций Админстрации HardShard в вопросах, связанных с обеспечением полноценной работы проекта Vintage Story</td>
     </tr>
   </tbody>
 </table>

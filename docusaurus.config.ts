@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Hardshard',
+  title: 'HardShard',
   tagline: 'Ламповый Vanilla+ бесплатный сервер без приватов, с улучшенным геймплеем и элементами ролевой игры',
   favicon: 'img/favicon.ico',
   url: 'https://d0mitorii.github.io/',
@@ -28,7 +28,7 @@ const config: Config = {
           showReadingTime: true,
           blogSidebarTitle: "Последние новости",
           blogTitle: "Новости и объявления",
-          blogDescription: "Следите за последними новостями, обновлениями и анонсами проекта Hardshard.",
+          blogDescription: "Следите за последними новостями, обновлениями и анонсами проекта HardShard.",
           blogSidebarCount: 10,
         },
         theme: {
@@ -42,7 +42,7 @@ const config: Config = {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       logo: {
-        alt: 'Hardshard Logo',
+        alt: 'HardShard Logo',
         src: 'img/hardshard-logo-full.png',
       },
       items: [
@@ -73,7 +73,7 @@ const config: Config = {
     //       ],
     //     }
     //   ],
-    //   copyright: `Hardshard © ${new Date().getFullYear()}`,
+    //   copyright: `HardShard © ${new Date().getFullYear()}`,
     // },
     zoom: {
       selector: '.imageContainer img',

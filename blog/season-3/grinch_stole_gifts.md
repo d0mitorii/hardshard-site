@@ -6,7 +6,7 @@ tags: [News, Event, Secret shard]
 date: 2023-12-30
 ---
 
-![Подарки пропали из-под елки в Анрими-Эссиве на Hardshard](./img/grinch-ukral-podarki-na-hardshard.jpg)
+![Подарки пропали из-под елки в Анрими-Эссиве на HardShard](./img/grinch-ukral-podarki-na-hardshard.jpg)
 
 Почти все подарки, оставленные тайными осколиками под ёлкой в Анрими-Эссиве, были украдены Гринчем — похитителем ~~Рождества~~ Нового года!
 

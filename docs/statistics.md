@@ -1,6 +1,6 @@
 ---
 title: Статистика
-description: Таблица со статистикой онлайна сервера Hardshard и активности игроков.
+description: Таблица со статистикой онлайна сервера HardShard и активности игроков.
 sidebar_position: 6
 slug: /statistics
 ---

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 slug: /statut
-description: Статут Верховного Международного Суда на сервере Hardshard.
+description: Статут Верховного Международного Суда на сервере HardShard.
 ---
 
 # Статут Верховного Международного Суда

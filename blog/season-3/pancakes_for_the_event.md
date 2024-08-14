@@ -6,7 +6,7 @@ tags: [News, Event, Burning Baba, Mechanics, Update]
 date: 2024-03-18
 ---
 
-![Блины для Burning Baba на Hardshard](./img/blini-na-burning-baba.jpg)
+![Блины для Burning Baba на HardShard](./img/blini-na-burning-baba.jpg)
 
 Администрация HardShard решила поддержать всех тех, кто остался без блинчиков на эту масленицу — теперь вы сможете съесть сколько угодно (и тут нет никакой шутки, ведь они действительно не восстанавливают голод)!
 

@@ -1,5 +1,5 @@
 ---
-title: Minecraft Live вместе с Hardshard
+title: Minecraft Live вместе с HardShard
 slug: /minecraft-live-2024
 authors: [admin]
 tags: [News, Minecraft Live]

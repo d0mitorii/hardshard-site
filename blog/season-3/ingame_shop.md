@@ -6,7 +6,7 @@ tags: [News, Mechanics, Update]
 date: 2023-12-20
 ---
 
-![Открытие внутриигрового Магазина наград Hardshard](./img/magazin-nagrad-za-golosovanie-hardshard.jpg)
+![Открытие внутриигрового Магазина наград HardShard](./img/magazin-nagrad-za-golosovanie-hardshard.jpg)
 
 Обсуждение цен и разработка магазина подошли к концу.
 

@@ -1,12 +1,12 @@
 ---
-title: Анонс Hardshard Wiki
+title: Анонс HardShard Wiki
 slug: /announcement-hardshard-wiki
 authors: [admin]
 tags: [News, Wiki]
 date: 2024-02-28
 ---
 
-![Логотип Hardshard Wiki с фоном](./img/hardshard-wiki-logo-s-fonom.jpg)
+![Логотип HardShard Wiki с фоном](./img/hardshard-wiki-logo-s-fonom.jpg)
 
 Все мы знаем, что HardShard имеет длинную и богатую историю, в рамках которой произошло много событий, пришло и ушло много игроков, а также было проведено немало ивентов — всё это с лором, который тут и там маячит на фоне.
 

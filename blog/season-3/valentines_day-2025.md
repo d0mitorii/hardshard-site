@@ -6,7 +6,7 @@ tags: [News, Valentine's Day, Event]
 date: 2024-02-15
 ---
 
-![Валентинов день 2025 на Hardshard](./img/den-svyatogo-valentina-hardshard-2025.jpg)
+![Валентинов день 2025 на HardShard](./img/den-svyatogo-valentina-hardshard-2025.jpg)
 
 Сегодня стартует событие «Валентинов день»
 

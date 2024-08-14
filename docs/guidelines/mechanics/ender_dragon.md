@@ -1,7 +1,7 @@
 ---
 title: Усложненный Дракон Края
 slug: /mechanics/ender-dragon
-description: Битва с фильнальным боссом больше не будет легкой. Увеличенное здоровье, новые атаки и другие изменения на сервере Hardshard.
+description: Битва с фильнальным боссом больше не будет легкой. Увеличенное здоровье, новые атаки и другие изменения на сервере HardShard.
 ---
 
 import { ImageZoom } from "@site/src/components/ImageZoomComponent"
@@ -11,7 +11,7 @@ import { Item } from "@site/src/components/PhotoNamePlayer"
 
 <ImageZoom
   src="/img/mechanics/ender_dragon/ender_dragon_banner.png"
-  alt="Усложненный Дракон Края на Hardshard"
+  alt="Усложненный Дракон Края на HardShard"
 />
 
 ## Описание{#desctiption}

@@ -1,6 +1,6 @@
 ---
 title: Отказ от ответственности
-description: Отказ от ответственности Hardshard.
+description: Отказ от ответственности HardShard.
 slug: /denial-of-responsibility
 ---
 

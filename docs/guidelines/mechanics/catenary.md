@@ -1,7 +1,7 @@
 ---
 title: Цепи, веревки, провода и гирлянды
 slug: /mechanics/catenary
-description: Hardshard.
+description: HardShard.
 ---
 
 import { ImageZoom } from "@site/src/components/ImageZoomComponent"
@@ -11,7 +11,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 <ImageZoom
   src="/img/mechanics/catenary/catenary-banner.png"
-  alt="Цепи, веревки, провода и гирлянды на Hardshard"
+  alt="Цепи, веревки, провода и гирлянды на HardShard"
 />
 
 ## Описание {#description}

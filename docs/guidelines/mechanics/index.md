@@ -1,6 +1,6 @@
 ---
 title: Механики
-description: Описание механик основго сервера проекта Hardshard.
+description: Описание механик основго сервера проекта HardShard.
 sidebar_position: 2
 slug: /mechanics
 ---

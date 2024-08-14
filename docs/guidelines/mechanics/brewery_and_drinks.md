@@ -11,7 +11,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 <ImageZoom
   src="/img/mechanics/drinks_and_brewery/brewery-and-drinks-banner.png"
-  alt="Напитки и алковарение на сервере Hardshard"
+  alt="Напитки и алковарение на сервере HardShard"
 />
 
 ## Описание

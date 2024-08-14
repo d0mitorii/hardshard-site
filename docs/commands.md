@@ -1,6 +1,6 @@
 ---
 title: Список доступных команд
-description: Команды, которые доступны игрокам на сервере Hardshard.
+description: Команды, которые доступны игрокам на сервере HardShard.
 sidebar_position: 3
 slug: /commands
 ---

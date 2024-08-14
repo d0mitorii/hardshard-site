@@ -1,6 +1,6 @@
 ---
 title: Основные правила сообщества
-description: Правила, распространяющиеся на все проекты Hardshard.
+description: Правила, распространяющиеся на все проекты HardShard.
 slug: /rules
 sidebar_position: 2
 ---

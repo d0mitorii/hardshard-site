@@ -8,7 +8,7 @@ date: 2023-11-10
 
 import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
-![Администрация Hardshard](./img/administraciya-hardshard.jpg)
+![Администрация HardShard](./img/administraciya-hardshard.jpg)
 
 Администрация HardShard всегда старается сделать ваш игровой опыт более приятным, но ни для кого не секрет: Администрация недостаточно эффективна. Некоторые проблемы тянутся неделями, обратная связь временами оставляет желать лучшего, а кто из администраторов чем занимается так и вовсе непонятно.
 

@@ -6,7 +6,7 @@ tags: [News, Mechanics, Update, Bugfix]
 date: 2024-03-05
 ---
 
-![Портал в Нижний мир в Анрими-Эссиве на Hardshard](./img/portal-v-anrimi-essive-na-hardshard.jpg)
+![Портал в Нижний мир в Анрими-Эссиве на HardShard](./img/portal-v-anrimi-essive-na-hardshard.jpg)
 
 <!--truncate-->
 

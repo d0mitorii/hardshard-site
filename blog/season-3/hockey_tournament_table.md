@@ -8,7 +8,7 @@ date: 2023-08-28
 
 import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
-![Сетка первого хоккейного турнира Hardshard](./img/hardshard-hockey-tournament-table.jpg)
+![Сетка первого хоккейного турнира HardShard](./img/hardshard-hockey-tournament-table.jpg)
 
 Сбор участников для участия в турнире по хоккею был завершён. Всего набралось 10 команд, что вызвало некоторые трудности при создании турнирной сетки, но обо всём по порядку.
 

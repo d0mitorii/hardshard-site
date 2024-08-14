@@ -6,7 +6,7 @@ tags: [News, Mechanics, Update]
 date: 2023-12-12
 ---
 
-![Введение Системы голосования на Hardshard](./img/sistema-golosovaniya-hardshard.jpg)
+![Введение Системы голосования на HardShard](./img/sistema-golosovaniya-hardshard.jpg)
 
 Встречайте: голосование уже на сервере!
 

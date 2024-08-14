@@ -1,6 +1,6 @@
 ---
 title: Головные уборы
-description: Дополни образ и привнеси разнообразие в ролевую игру новыми головными уборами на сервере Hardshard.
+description: Дополни образ и привнеси разнообразие в ролевую игру новыми головными уборами на сервере HardShard.
 slug: /mechanics/hats
 ---
 
@@ -10,7 +10,7 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 
 <ImageZoom
   src="/img/mechanics/hats/novie-shlyapi-na-hardshard.png"
-  alt="Новые головные уборы на Hardshard"
+  alt="Новые головные уборы на HardShard"
 />
 
 ## Описание {#description}

@@ -6,7 +6,7 @@ tags: [News, Event, Secret shard]
 date: 2023-12-22
 ---
 
-![Рандомайзер для тайного осколика на Hardshard](./img/randomaizer-dlya-tainogo-oskolika-na-hardshard-2024.jpg)
+![Рандомайзер для тайного осколика на HardShard](./img/randomaizer-dlya-tainogo-oskolika-na-hardshard-2024.jpg)
 
 Пришло время готовить подарки!
 
@@ -24,4 +24,4 @@ date: 2023-12-22
 
 Мы предлагаем приносить подарки под ёлку на спавне. Пространство рядом с ней было расчищено, чтобы всё точно уместилось. Позже, 30 декабря, мы соберёмся все вместе, раскроем подарки и отпразднуем приближение Нового года.
 
-![Рандомайзер для тайного осколика на Hardshard](./img/pod-elkoi-v-anrimi-essiva.jpg)
+![Рандомайзер для тайного осколика на HardShard](./img/pod-elkoi-v-anrimi-essiva.jpg)
