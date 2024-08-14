@@ -9,15 +9,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 # Инспекторы
 
-## Уникальные предметы
-
-### Лупа
-
-### Фуражка
-
-## Полномочия
-
-### Доступ к CoreProtector
+## Доступ к CoreProtector
 
 Каждый инспектор имеет доступ к [некоторым командам](/docs/commands#commands-for-inspectors) CoreProtector.
 
@@ -40,7 +32,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
       <td>Заместитель Президента</td>
     </tr>
     <tr>
-      <td><PhotoNamePlayer nickname="Terriuawara"/></td>
+      <td><PhotoNamePlayer nickname="jayz1123"/></td>
       <td>Рядовой сотрудник</td>
     </tr>
     <tr>
