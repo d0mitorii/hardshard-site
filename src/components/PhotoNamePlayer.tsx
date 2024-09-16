@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 export const PhotoNamePlayer = (props) => {
-  const url = `https://cravatar.eu/avatar/${props.skin ? props.skin : props.nickname}/160`;
+  const url = `https://cravatar.eu/helmavatar/${props.skin ? props.skin : props.nickname}/160`;
   return (
     <span
       className="padding--xs pills__item"
