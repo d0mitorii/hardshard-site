@@ -50,6 +50,7 @@ const config: Config = {
         { to: '/docs/guidelines', label: 'Руководства', position: 'right' },
         { to: '/docs/roleplay', label: 'Ролевая игра', position: 'right' },
         { to: '/blog', label: 'Новости', position: 'right' },
+        { to: 'https://wiki.hardshard.ru/', label: 'Вики', position: 'right' },
         { to: 'https://docs.google.com/forms/d/e/1FAIpQLSd439lToKD3iWyeyhokr8FDmnviJtvespjAiwM_0_tl2tLbHw/viewform', label: 'Начать играть', position: 'right' },
       ],
     },
