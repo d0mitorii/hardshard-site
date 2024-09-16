@@ -12,7 +12,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 Афиша третьего творческого вечера укомплектована!
 
-<!--truncate-->
+<!-- truncate -->
 
 :::warning Внимание
 
