@@ -32,7 +32,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
   <tbody>
     <tr>
       <td>Технический администратор</td>
-      <td><PhotoNamePlayer nickname="Gottor" skin="steve"/></td>
+      <td><PhotoNamePlayer nickname="Gohtar"/></td>
       <td>Разработка и настройка серверов, поддержание их работоспособности, обновление и улучшение игровых сборок, исправление технических ошибок</td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     <tr>
       <td>Технический специалист</td>
       <td>
-        <PhotoNamePlayer nickname="notfoundname" /><br />
+        <!-- <PhotoNamePlayer nickname="notfoundname" /><br /> -->
         <PhotoNamePlayer nickname="mulciber_" />
       </td>
       <td>Разработка контента, исправление технических недостатков сборки сервера, тестирование нововведений</td>

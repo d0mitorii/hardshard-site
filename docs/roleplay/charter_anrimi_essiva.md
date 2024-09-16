@@ -50,7 +50,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 - **10.1. Состав Наблюдательного совета**
 В состав Наблюдательного совета входят следующие лица:
-  - <PhotoNamePlayer nickname="Gottor" skin="steve"/> — Председатель
+  - <PhotoNamePlayer nickname="Gohtar"/> — Председатель
   - <PhotoNamePlayer nickname="Kemerfund"/>
   - <PhotoNamePlayer nickname="Flammablelion"/>
   - <PhotoNamePlayer nickname="Himer_Fatal" skin="steve"/>
