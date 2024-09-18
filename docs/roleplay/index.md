@@ -6,3 +6,27 @@ slug: /roleplay
 ---
 
 # Введение в ролевую игру
+
+import DocCardList from '@theme/DocCardList';
+import { CardSection, Card } from "@site/src/components/CardComponent"
+
+<CardSection>
+  <Card 
+    title="Устав Анрими-Эссива"
+    description="Правила поведения на территории города-спавна Анрими-Эссива."
+    preview="/img/roleplay/anrimi-essiva-hardshard.jpg"
+    to="/docs/charter-anrimi-essiva"
+  />
+  <Card 
+    title="Судебная система"
+    description="Описание судебной системы, полномочий ВМС и порядка подания искового заявления."
+    preview="/img/roleplay/verhovniy-mezhdunarodniy-sud-na-hardshard.jpg"
+    to="/docs/judicial-system"
+  />
+  <Card 
+    title="Палата инспекторов"
+    description="Разнообразьте свой опыт путешествия на вагонетке."
+    preview="/img/mechanics/ziprails/ziprails-banner.png"
+    to="/docs/inspectors"
+  />
+</CardSection>
