@@ -1,6 +1,6 @@
 ---
 title: Hotfix к обновлению «Карты, цепи, QoLife»
-slug: /hotfix-for-the-update-cards-chains-qolife.md
+slug: /hotfix-for-the-update-cards-chains-qolife
 authors: [admin]
 tags: [News, Mechanics, Update, Bugfix]
 date: 2024-03-05
