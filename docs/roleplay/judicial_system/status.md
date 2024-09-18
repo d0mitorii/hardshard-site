@@ -1,6 +1,7 @@
 ---
+title: Статут Верховного Международного Суда
 sidebar_position: 1
-slug: /statut
+slug: /statut-supreme-international-court
 description: Статут Верховного Международного Суда на сервере HardShard.
 ---
 
