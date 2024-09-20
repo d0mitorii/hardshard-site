@@ -5,9 +5,15 @@ sidebar_position: 3
 slug: /inspectors
 ---
 
+import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 # Инспекторы
+
+<ImageZoom
+  src="/img/roleplay/verhovniy-mezhdunarodniy-sud-na-hardshard.jpg"
+  alt="Здание Палаты инспекторов в Анрими-Эссива на HardShard"
+/>
 
 **Инспекторская палата** — это ключевой орган контроля и надзора на сервере HardShard, созданный для обеспечения порядка, справедливости и безопасности в игровом сообществе. В структуру палаты входят президент, его заместитель и рядовые инспекторы, каждый из которых имеет свои обязанности и полномочия.
 
@@ -23,6 +29,12 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 - Проводить блокирование территорий для обеспечения общественного порядка и проведения следственных мероприятий.
 - Осуществлять личный досмотр игроков и их имущества в пределах оцепленных зон.
 - Инспекторы также могут свидетельствовать в суде, соблюдая нормы законодательства и процессуальные правила.
+
+:::info
+
+Для более детальной информации можно ознакомиться с [Уставом Палаты инспекторов](/docs/charter-of-the-chamber-of-inspectors).
+
+:::
 
 ## Роль Инспекторской палаты в игровом мире
 
@@ -44,7 +56,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     <tr>
       <td><PhotoNamePlayer nickname="mamochkaa"/></td>
       <td>Президент Палаты Инспекторов</td>
-      <td>[Telegram](https://t.me/avokneruyt)</td>
+      <td>[Discord](https://discordapp.com/users/814412336932716604)</td>
     </tr>
     <tr>
       <td><PhotoNamePlayer nickname="_AUZER_"/></td>
@@ -54,17 +66,17 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     <tr>
       <td><PhotoNamePlayer nickname="jayz1123"/></td>
       <td>Рядовой сотрудник</td>
-      <td>[Telegram](https://t.me/tvoyatyan)</td>
+      <td>[Discord](https://discordapp.com/users/463457159770800129)</td>
     </tr>
     <tr>
       <td><PhotoNamePlayer nickname="MurlocProger"/></td>
       <td>Рядовой сотрудник</td>
-      <td>[Telegram](https://t.me/murlocproger)</td>
+      <td>Отсутствует</td>
     </tr>
     <tr>
       <td><PhotoNamePlayer nickname="ViMiR"/></td>
       <td>Рядовой сотрудник</td>
-      <td>[Telegram](https://t.me/Vi_M_iR)</td>
+      <td>[Telegram](https://discordapp.com/users/752174703011168276)</td>
     </tr>
   </tbody>
 </table>
