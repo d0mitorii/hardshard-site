@@ -25,8 +25,8 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
   />
   <Card 
     title="Палата инспекторов"
-    description="Разнообразьте свой опыт путешествия на вагонетке."
-    preview="/img/mechanics/ziprails/ziprails-banner.png"
+    description="Описание целей, задач и полномочий инспекторов."
+    preview="/img/roleplay/zdanie-palaty-inspectorov-v-anrimi-essiva-na-hardshard.png"
     to="/docs/inspectors"
   />
 </CardSection>

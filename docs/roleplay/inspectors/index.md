@@ -11,7 +11,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 # Инспекторы
 
 <ImageZoom
-  src="/img/roleplay/verhovniy-mezhdunarodniy-sud-na-hardshard.jpg"
+  src="/img/roleplay/zdanie-palaty-inspectorov-v-anrimi-essiva-na-hardshard.png"
   alt="Здание Палаты инспекторов в Анрими-Эссива на HardShard"
 />
 
