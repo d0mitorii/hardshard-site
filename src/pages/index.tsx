@@ -49,7 +49,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title="Приватный Vanila+ сервер"
-      description="Ламповый Vanilla+ бесплатный сервер без приватов, с улучшенным геймплеем и элементами ролевой игры."
+      description="Ламповый бесплатный Vanilla+ сервер без приватов, с улучшенным геймплеем и элементами ролевой игры."
     >
       <HomepageHeader />
       <main>

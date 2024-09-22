@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'HardShard',
-  tagline: 'Ламповый Vanilla+ бесплатный сервер без приватов, с улучшенным геймплеем и элементами ролевой игры',
+  tagline: 'Ламповый бесплатный Vanilla+ сервер без приватов, с улучшенным геймплеем и элементами ролевой игры',
   favicon: 'img/favicon.ico',
   url: 'https://d0mitorii.github.io/',
   baseUrl: '/',
@@ -46,36 +46,82 @@ const config: Config = {
         src: 'img/hardshard-logo-full.png',
       },
       items: [
-        { to: '/docs/rules', label: 'Правила', position: 'right'},
+        { to: '/docs', label: 'Начать играть', position: 'right' },
         { to: '/docs/guidelines', label: 'Руководства', position: 'right' },
         { to: '/docs/roleplay', label: 'Ролевая игра', position: 'right' },
         { to: '/blog', label: 'Новости', position: 'right' },
         { to: 'https://wiki.hardshard.ru/', label: 'Вики', position: 'right' },
-        { to: 'https://docs.google.com/forms/d/e/1FAIpQLSd439lToKD3iWyeyhokr8FDmnviJtvespjAiwM_0_tl2tLbHw/viewform', label: 'Начать играть', position: 'right' },
       ],
     },
-    // footer: {
-    //   style: 'dark',
-    //   links: [
-    //     {
-    //       items: [
-    //         {
-    //           label: 'Telegram',
-    //           to: 'https://t.me/hardshardru',
-    //         },
-    //         {
-    //           label: 'Discord',
-    //           to: 'https://discord.com/invite/huVNRvAjZq',
-    //         },
-    //         {
-    //           label: 'Youtube',
-    //           to: 'https://www.youtube.com/@HardShard',
-    //         },
-    //       ],
-    //     }
-    //   ],
-    //   copyright: `HardShard © ${new Date().getFullYear()}`,
-    // },
+    footer: {
+      style: 'light',
+      links: [
+        {
+          title: 'Сервер',
+          items: [
+            {
+              label: 'Начать играть',
+              to: '/docs',
+            },
+            {
+              label: 'Правила',
+              to: '/docs/rules',
+            },
+            {
+              label: 'Руководства',
+              to: '/docs/guidelines',
+            },
+            {
+              label: 'Ролевая игра',
+              to: '/docs/roleplay',
+            },
+          ],
+        },
+        {
+          title: 'Контакты',
+          items: [
+            {
+              label: 'Новости',
+              to: '/blog',
+            },
+            {
+              label: 'Канал Telegram',
+              to: 'https://t.me/hardshard',
+            },
+            {
+              label: 'Чат Telegram',
+              to: 'https://t.me/hardshardchat',
+            },
+            {
+              label: 'Discord',
+              to: 'https://discord.com/invite/huVNRvAjZq',
+            },
+            {
+              label: 'Youtube',
+              to: 'https://www.youtube.com/@HardShard',
+            },
+          ],
+        },
+        {
+          title: 'Прочее',
+          items: [
+            {
+              label: 'Объявления',
+              to: 'https://t.me/hardshard_newspaper',
+            },
+            {
+              label: 'HardShard Wiki',
+              to: 'https://wiki.hardshard.ru/HardShard_Wiki',
+            },
+            {
+              label: 'Игровой чат',
+              to: 'https://t.me/hardshard_chatbot',
+            },
+          ],
+        },
+      ],
+      copyright: `HardShard © ${new Date().getFullYear()}`,
+    },
     zoom: {
       selector: '.imageContainer img',
       background: {

@@ -13,7 +13,9 @@ export const SplashComponent = () => {
   }, []);
 
   return (
-    <div>
+    <div
+    className="margin-bottom--lg"
+    >
       <p className="text--warning splash-text">
         {splash ? splash : "Загружаю..."}
       </p>
