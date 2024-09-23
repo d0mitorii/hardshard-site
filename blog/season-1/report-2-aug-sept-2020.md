@@ -16,7 +16,6 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 <!-- truncate -->
 
-
 :::warning Внимание
 
 Если вы хотите зайти на MainSMP, то вам нужно заполнить эту [форму](https://docs.google.com/forms/d/e/1FAIpQLSd439lToKD3iWyeyhokr8FDmnviJtvespjAiwM_0_tl2tLbHw/viewform).
@@ -85,4 +84,5 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 В следующем месяце у меня были планы на [REDACTED] и [DATA DELETED], что будет очень интересно. А если серьёзно, то в следующем месяце у меня были планы на новые плагины и дата-паки, добавляющие контент, но не изменяющий его (к примеру, новые достижения). Также были идеи насчёт различных «Quality-of-Life» плагинов, вроде уже существующего BetterSleep и Trade. Также не стоит забывать комьюнити сервера, которое делает огромную работу в улучшении сервера. Спасибо, ребят! 
 
 ## Ну и напоследок... {#in-ending}
+
 Удачной игры!
