@@ -7,11 +7,12 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 import { PlayersList } from '../components/PlayersListComponent';
 import { SplashComponent } from '../components/SplashComponent';
+import { CopyButton } from '../components/CopyButton';
 
 function HomepageHeader() {
-const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx('hero', styles.heroBanner)}>
+    <header className={clsx('hero padding-bottom--xl', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
@@ -22,7 +23,7 @@ const {siteConfig} = useDocusaurusContext();
           </div>
         </div>
         <div className={"row"}
-          style={{gap: 24, justifyContent: "center"}}
+          style={{ gap: 24, justifyContent: "center" }}
         >
           <div className={styles.buttons}>
             <Link
@@ -32,13 +33,7 @@ const {siteConfig} = useDocusaurusContext();
               Подать заявку
             </Link>
           </div>
-          <button 
-            className="button button--outline button--secondary button--lg"
-            onClick={() => {navigator.clipboard.writeText("mc.hardshard.ru")}}
-          >
-            <img src="/img/icons/copy.svg" style={{verticalAlign: "middle"}}></img>
-            <span style={{marginLeft: 8}}>mc.hardshard.ru</span>
-          </button>
+          <CopyButton />
         </div>
       </div>
     </header>
@@ -49,7 +44,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title="Приватный Vanila+ сервер"
-      description="Ламповый Vanilla+ бесплатный сервер без приватов, с улучшенным геймплеем и элементами ролевой игры."
+      description="Ламповый бесплатный Vanilla+ сервер без приватов, с улучшенным геймплеем и элементами ролевой игры."
     >
       <HomepageHeader />
       <main>
@@ -61,5 +56,3 @@ export default function Home(): JSX.Element {
     </Layout>
   );
 }
-
-
