@@ -1,8 +1,10 @@
 ---
 title: Отчёт № 1. Прогресс за июль – август 2020
 description: Первый отчёт сервера MainSMP от 13.08.2020.
-sidebar_posítion: 1
-slug: /reports/report-1-july-aug-2020
+slug: /report-1-july-aug-2020
+authors: [DrKolbasa]
+tags: [Report, Season 1]
+date: 2020-08-13
 ---
 
 import { ImageZoom } from "@site/src/components/ImageZoomComponent"
@@ -10,9 +12,9 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 # MainSMP | I сезон | Отчёт за июль – август 2020
 
-> Данный отчёт написан первым и бывшим администратором <PhotoNamePlayer nickname="DrKolbasa"/>, структура и большинство грамматических особенностей сохранены.
-
 Что ж, примерно месяц с момента создания MainSMP прошёл, пора уже своеобразный отчёт. Приступим! 
+
+<!-- truncate -->
 
 ## Предисловие: История MainSMP {#history-of-mainsmp}
 
@@ -89,7 +91,7 @@ _P.S. Спасибо Никите Рудому (<PhotoNamePlayer nickname="ql_Ni
 Ну и последнее — Я снова возвращаюсь к **экспериментам с плагинами**. Ждите рестарты сервера по несколько раз на дню! Рестарты полезны для здоровья! (Шучу). Надеюсь, что в этом месяце вернутся плагины Trade и CustomJoinMessages.
 
 ## Я впервые слышу про сервер, как мне на него зайди? {#how-i-can-play}
-Для начала нужно заполнить эту форму, затем стоит ждать ответа с IP-адресом и прочими вещами на указанный контакт.
+Для начала нужно заполнить эту [форму](https://docs.google.com/forms/d/e/1FAIpQLSd439lToKD3iWyeyhokr8FDmnviJtvespjAiwM_0_tl2tLbHw/viewform), затем стоит ждать ответа с IP-адресом и прочими вещами на указанный контакт.
 
 ## Ну и напоследок... {#in-ending}
 Удачной игры, друзья :>
