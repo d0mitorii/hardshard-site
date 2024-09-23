@@ -2,7 +2,7 @@
 title: Введение
 description: Основная информация об администрации, особенностях и механиках игрового геймплея.
 sidebar_position: 1
-slug: /
+slug: /introduction
 ---
 
 # Введение

@@ -46,9 +46,9 @@ const config: Config = {
         src: 'img/hardshard-logo-full.png',
       },
       items: [
-        { to: '/docs', label: 'Начать играть', position: 'right' },
+        { to: '/docs/introduction', label: 'Начать играть', position: 'right' },
+        { to: '/docs/rules', label: 'Правила', position: 'right' },
         { to: '/docs/guidelines', label: 'Руководства', position: 'right' },
-        { to: '/docs/roleplay', label: 'Ролевая игра', position: 'right' },
         { to: '/blog', label: 'Новости', position: 'right' },
         { to: 'https://wiki.hardshard.ru/', label: 'Вики', position: 'right' },
       ],
@@ -61,7 +61,7 @@ const config: Config = {
           items: [
             {
               label: 'Начать играть',
-              to: '/docs',
+              to: '/docs/introduction',
             },
             {
               label: 'Правила',
@@ -70,10 +70,6 @@ const config: Config = {
             {
               label: 'Руководства',
               to: '/docs/guidelines',
-            },
-            {
-              label: 'Ролевая игра',
-              to: '/docs/roleplay',
             },
           ],
         },
