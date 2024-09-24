@@ -28,7 +28,7 @@ _Благодарю_ <PhotoNamePlayer nickname="Flammablelion"/> _за помо�
 
 <ImageZoom
   src="/img/reports/report-3-sept-oct-2020/rep3-pic1-gorod-rydyk777-i-fourame.png"
-  alt="Город игроков rydyk777 и FouRAMe на первом сезоне"
+  alt="Город Шрекитовилль игроков rydyk777 и FouRAMe на первом сезоне"
   description="Город rydyk777 и FouRAMe"
 />
 
