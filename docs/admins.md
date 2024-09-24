@@ -35,16 +35,16 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
       <td><PhotoNamePlayer nickname="Gohtar"/></td>
       <td>Разработка и настройка серверов, поддержание их работоспособности, обновление и улучшение игровых сборок, исправление технических ошибок</td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>Заместитель технического администратора</td>
       <td><PhotoNamePlayer nickname="Monteny"/></td>
       <td>Разработка и настройка серверов, поддержание их работоспособности, обновление и улучшение игровых сборок, исправление технических ошибок</td>
-    </tr> -->
-    <!-- <tr>
+    </tr>
+    <tr>
       <td>Администратор веб-сайта</td>
       <td><PhotoNamePlayer nickname="Monteny"/></td>
       <td>Управление технической частью, содержимым и структурой веб-сайта проекта, разработка и внедрение новых функции</td>
-    </tr> -->
+    </tr>
     <tr>
       <td>Надзорный инспектор</td>
       <td><PhotoNamePlayer nickname="yantar1k"/></td>
@@ -53,7 +53,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     <tr>
       <td>Технический специалист</td>
       <td>
-        <!-- <PhotoNamePlayer nickname="notfoundname" /><br /> -->
+        <PhotoNamePlayer nickname="notfoundname" /><br />
         <PhotoNamePlayer nickname="mulciber_" />
       </td>
       <td>Разработка контента, исправление технических недостатков сборки сервера, тестирование нововведений</td>
@@ -119,11 +119,11 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
       <td><PhotoNamePlayer nickname="Kemerfund"/></td>
       <td>Конфигурация основных параметров Telegram-чата, набор и курирование модераторов</td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>Администратор Discord-сервера HS</td>
       <td><PhotoNamePlayer nickname="Monteny"/></td>
       <td>Конфигурация основных настоек Discord-сервера HS, набор и курирование модераторов</td>
-    </tr> -->
+    </tr>
     <tr>
       <td>Модератор Discord-сервера HS</td>
       <td><PhotoNamePlayer nickname="Nerkid"/></td>
