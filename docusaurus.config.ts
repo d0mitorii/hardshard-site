@@ -71,15 +71,15 @@ const config: Config = {
               label: 'Руководства',
               to: '/docs/guidelines',
             },
+            {
+              label: 'Новости',
+              to: '/blog',
+            },
           ],
         },
         {
           title: 'Контакты',
           items: [
-            {
-              label: 'Новости',
-              to: '/blog',
-            },
             {
               label: 'Канал Telegram',
               to: 'https://t.me/hardshard',
