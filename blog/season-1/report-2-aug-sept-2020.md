@@ -72,7 +72,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
   alt="Скриншот № 4 Оквуд Холла возле Фромграда"
 />
 
-Кстати, помните в прошлом посте Нижний Фромград? Вот как он выглядит сейчас:
+Кстати, помните в прошлом [посте](/blog/report-1-july-aug-2020) Нижний Фромград? Вот как он выглядит сейчас:
 
 <ImageZoom
   src="/img/reports/report-2-aug-sept-2020/rep2-pic9-nizhnij-hab-nezera.png"
