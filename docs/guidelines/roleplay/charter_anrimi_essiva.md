@@ -7,11 +7,10 @@ slug: /charter-anrimi-essiva
 
 import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
+<span className="badge badge--primary">**Вступили в силу:** 20 августа 2023 г.</span> <br />
+<span className="badge badge--success">**Действующая редакция:** 25 сентября 2024 г.</span>
+
 # Устав Вольного города-спавна Анрими-Эссивы
-
-**Вступили в силу:** 20 августа 2023 г.
-
-**Действующая редакция:** 25 сентября 2024 г.
 
 Настоящий Устав является автономной частью [Правил HardShard](/docs/rules), а также государствообразующим учредительным документом города-спавна Анрими-Эссива.
 
