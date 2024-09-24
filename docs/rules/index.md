@@ -405,3 +405,21 @@ sidebar_position: 2
 <span id="4.12.2" className="anchor anchorWithStickyNavbar_node_modules-@docusaurus-theme-classic-lib-theme-Heading-styles-module">**4.12.2 Временные подразделения**</span>
 
 Создание временных структурных подразделений Сообщества может быть инициировано в случае необходимости. Администрация HardShard может публиковать информацию об этих подразделениях, если это отвечает ее целям и задачам.
+
+:::note Все проекты и подразделения
+
+1) Minecraft-сервер HardShard: `mc.hardshard.ru` или `116.202.155.168:25565`
+2) [Основной Телеграм-канал HardShard](t.me/hardshardru)
+3) [Телеграм-чат HardShard](https://t.me/hardshardchat)
+4) [Дискорд-сервер HardShard](https://discord.gg/2tHYZcJYR3)
+5) Телеграм-чат Отдела внештатных сотрудников
+6) Телеграм-чат Администрации HardShard
+6) [Телеграм-канал объявлений игроков HardShard](https://t.me/harshard_newspaper)
+7) Vintage Story-сервер HardShard: `vs.hardshard.ru`
+8) [Телеграм-чат сервера Vintage Story HardShard](https://t.me/hardshardvs)
+9) [HardShard Wiki](https://wiki.hardshard.ru)
+10) [Телеграм-бот игрового чата](https://t.me/hardshard_chatbot)
+11) [YouTube-канал HardShard](https://www.youtube.com/@HardShard)
+12) [Официальный сайт Сообщества HardShard](https://hardshard.ru)
+
+:::
