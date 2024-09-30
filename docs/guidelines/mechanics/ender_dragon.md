@@ -10,7 +10,7 @@ import { Item } from "@site/src/components/PhotoNamePlayer"
 # Усложненный Дракон Края
 
 <ImageZoom
-  src="/img/mechanics/ender_dragon/ender_dragon_banner.png"
+  src="/img/mechanics/ender_dragon/ender-dragon-banner.png"
   alt="Усложненный Дракон Края на HardShard"
 />
 

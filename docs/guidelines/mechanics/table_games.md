@@ -242,7 +242,3 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
   alt="Как пользоваться Обменником фишек"
   description="Как пользоваться Обменником фишек"
 />
-
-## Источники {#sources}
-
-- [Planet Minecraft](https://www.planetminecraft.com/data-pack/tablegames/)

@@ -1,5 +1,5 @@
 ---
-title: Инспекторы
+title: Палата инспекторов
 description: Общие сведения о Палате инспекторов сервера HardShard.
 sidebar_position: 3
 slug: /inspectors
@@ -8,7 +8,7 @@ slug: /inspectors
 import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
-# Инспекторы
+# Палата инспекторов
 
 <ImageZoom
   src="/img/roleplay/zdanie-palaty-inspectorov-v-anrimi-essiva-na-hardshard.png"
@@ -54,13 +54,8 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
   </thead>
   <tbody>
     <tr>
-      <td><PhotoNamePlayer nickname="mamochkaa"/></td>
-      <td>Президент Палаты Инспекторов</td>
-      <td>[Discord](https://discordapp.com/users/814412336932716604)</td>
-    </tr>
-    <tr>
       <td><PhotoNamePlayer nickname="_AUZER_"/></td>
-      <td>Заместитель Президента</td>
+      <td>Президент Палаты инспекторов</td>
       <td>[Telegram](https://t.me/auzer_z)</td>
     </tr>
     <tr>

@@ -18,9 +18,13 @@ export function Card(props) {
         style={{height: "100%"}}
       >
         <div className=''>
-          <div className='img-card margin-bottom--md'>
-            <img src={props.preview} className='' style={{flex: 1, height: "100%"}}/>
-          </div>
+          {
+            props.preview ?
+            <div className='img-card margin-bottom--md'>
+              <img src={props.preview} className='' style={{flex: 1, height: "100%"}}/>
+            </div> :
+            undefined
+          }
           <h3>
             {props.title} {props.new ? <span className="badge badge--info">Новинка</span> : null}
           </h3>

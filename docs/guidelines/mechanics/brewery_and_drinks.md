@@ -76,7 +76,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 **Дистилляция** — это перегонка, испарение жидкости с последующим охлаждением и конденсацией паров. В процессе перегонки, процент алкоголя в напитках увеличивается с каждым циклом.
 
-Для проведения дистилляции вам потребуется <Block.sm item={["brewing_stand_(empty)", "cobblestone"]} name="Зейльеварка" />, <Item.sm item="glowstone_dust" name="Светокаменная пыль"/> (она не расходуется в процессе, используется как фильтр) и <Item.sm item={["beer", "blackbear", "gin", "rum", "whiskey", "appleliqueur", "applemead"]} name="Исходный напиток" />.
+Для проведения дистилляции вам потребуется <Block.sm item={["brewing_stand_(empty)", "cobblestone"]} name="Зельеварка" />, <Item.sm item="glowstone_dust" name="Светокаменная пыль"/> (она не расходуется в процессе, используется как фильтр) и <Item.sm item={["beer", "blackbear", "gin", "rum", "whiskey", "appleliqueur", "applemead"]} name="Исходный напиток" />.
 
 ### Выдержка
 

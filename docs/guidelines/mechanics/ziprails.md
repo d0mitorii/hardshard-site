@@ -35,9 +35,3 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 - Максимальная длина нити: **40 блоков**.
 - Работает со всеми видами вагонеток (грузые, загрузочные и т.д.).
 - Вагонетки не остановятся, пока не достигнут конца зип-рельса.
-
-## Источники {#sources}
-
-- [Официальный сайт](https://gm4.co/modules/ziprails)
-- [Wiki](https://wiki.gm4.co/Ziprails)
-- [Modrinth](https://modrinth.com/datapack/gm4-ziprails)

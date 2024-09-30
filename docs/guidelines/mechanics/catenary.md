@@ -327,7 +327,3 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
   description="Рецепт создания радужных стеклянных панелей"
 />
 
-## Источники {#sources}
-
-- [Modrinth](https://modrinth.com/datapack/catenary)
-
