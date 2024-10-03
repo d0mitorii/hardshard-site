@@ -5,6 +5,9 @@ slug: /statut-supreme-international-court
 description: Статут Верховного Международного Суда на сервере HardShard.
 ---
 
+<span className="badge badge--primary">**Вступили в силу:** 27 декабря 2023 г.</span> <br />
+<span className="badge badge--success">**Действующая редакция:** 21 марта 2024 г.</span>
+
 # Статут Верховного Международного Суда
 
 ## ГЛАВА I. Общие положения

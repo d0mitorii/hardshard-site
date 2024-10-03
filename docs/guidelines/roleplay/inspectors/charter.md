@@ -5,6 +5,8 @@ slug: /charter-of-the-chamber-of-inspectors
 description: Устав инспекторской палаты.
 ---
 
+<span className="badge badge--primary">**Вступили в силу:** 9 июля 2024 г.</span>
+
 # Устав Палаты инспекторов
 
 ## Общие положения {#general}
