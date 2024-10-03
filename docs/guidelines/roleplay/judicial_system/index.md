@@ -56,8 +56,8 @@ import { Item, PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     </tr>
     <tr>
       <td><PhotoNamePlayer nickname="Pedrilko"/></td>
-      <td>Заместитель председателя</td>
-      <td>[Telegram](https://t.me/domitorii)</td>
+      <td>Судья</td>
+      <td>Отсутствует</td>
     </tr>
     <tr>
       <td><PhotoNamePlayer nickname="genkaTop"/></td>
@@ -70,9 +70,9 @@ import { Item, PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
       <td>[Discord](https://discordapp.com/users/675771678818697236)</td>
     </tr>
     <tr>
-      <td>Открыта вакансия</td>
+      <td><PhotoNamePlayer nickname="Napest"/></td>
       <td>Судебный секретарь</td>
-      <td></td>
+      <td>[Telegram](https://t.me/napsoba)</td>
     </tr>
   </tbody>
 </table>
