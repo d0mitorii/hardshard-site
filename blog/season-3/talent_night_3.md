@@ -1,6 +1,6 @@
 ---
 title: Третий творческий вечер
-slug: /third-talent-night
+slug: /talent-night-3
 authors: [admin]
 tags: [News, Talent night, Event]
 date: 2023-08-22

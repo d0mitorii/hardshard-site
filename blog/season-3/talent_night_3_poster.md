@@ -1,6 +1,6 @@
 ---
 title: Афиша третьего творческого вечера
-slug: /talent-night-poster
+slug: /talent-night-3-poster
 authors: [admin]
 tags: [News, Talent night, Event]
 date: 2023-08-26
