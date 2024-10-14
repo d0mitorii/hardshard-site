@@ -37,13 +37,8 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     </tr>
     <tr>
       <td>Заместитель технического администратора</td>
-      <td><PhotoNamePlayer nickname="Monteny"/></td>
+      <td>Вакантно</td>
       <td>Разработка и настройка серверов, поддержание их работоспособности, обновление и улучшение игровых сборок, исправление технических ошибок</td>
-    </tr>
-    <tr>
-      <td>Администратор веб-сайта</td>
-      <td><PhotoNamePlayer nickname="Monteny"/></td>
-      <td>Управление технической частью, содержимым и структурой веб-сайта проекта, разработка и внедрение новых функции</td>
     </tr>
     <tr>
       <td>Надзорный инспектор</td>
@@ -121,14 +116,14 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     </tr>
     <tr>
       <td>Администратор Discord-сервера HS</td>
-      <td><PhotoNamePlayer nickname="Monteny"/></td>
+      <td><PhotoNamePlayer nickname="Nerkid"/></td>
       <td>Конфигурация основных настоек Discord-сервера HS, набор и курирование модераторов</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>Модератор Discord-сервера HS</td>
-      <td><PhotoNamePlayer nickname="Nerkid"/></td>
+      <td>Вакантно</td>
       <td>Модерация сообщений игроков в рамках Discord-сервера</td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 
@@ -165,7 +160,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
   </tbody>
 </table>
 
-## Советник Администрации HardShard {#advisor}
+<!-- ## Советник Администрации HardShard {#advisor}
 
 ### Функции {#advisor-functions}
 
@@ -197,4 +192,4 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
       <td>Представление советов и рекомендаций Админстрации HardShard в вопросах, связанных с обеспечением полноценной работы проекта Vintage Story</td>
     </tr>
   </tbody>
-</table>
+</table> -->

@@ -408,7 +408,7 @@ sidebar_position: 2
 :::note Все проекты и подразделения
 
 1) Minecraft-сервер HardShard: `mc.hardshard.ru` или `116.202.155.168:25565`
-2) [Основной Телеграм-канал HardShard](t.me/hardshardru)
+2) [Телеграм-канал HardShard](t.me/hardshardru)
 3) [Телеграм-чат HardShard](https://t.me/hardshardchat)
 4) [Дискорд-сервер HardShard](https://discord.gg/2tHYZcJYR3)
 5) Телеграм-чат Отдела внештатных сотрудников
@@ -420,5 +420,6 @@ sidebar_position: 2
 10) [Телеграм-бот игрового чата](https://t.me/hardshard_chatbot)
 11) [YouTube-канал HardShard](https://www.youtube.com/@HardShard)
 12) [Официальный сайт Сообщества HardShard](https://hardshard.ru)
+13) [Сообщество Вконтакте](https://vk.com/hardshardru)
 
 :::
