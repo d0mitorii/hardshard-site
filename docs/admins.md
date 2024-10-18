@@ -79,14 +79,17 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
   <tbody>
     <tr>
       <td>Комьюнити-менеджер</td>
-      <td><PhotoNamePlayer nickname="Flammablelion"/></td>
+      <td>
+        <PhotoNamePlayer nickname="Flammablelion"/><br />
+        <PhotoNamePlayer nickname="mamochkaa"/></td>
       <td>Сбор обратной связи от игроков, организация мероприятий, работа с рекламой</td>
     </tr>
     <tr>
       <td>Специалист по обработке заявок</td>
       <td>
         <PhotoNamePlayer nickname="yantar1k"/><br />
-        <PhotoNamePlayer nickname="Flammablelion"/>
+        <PhotoNamePlayer nickname="Flammablelion"/><br />
+        <PhotoNamePlayer nickname="mamochkaa"/>
       </td>
       <td>Рассмотрение заявок по добавлению игроков в вайтлист серверов</td>
     </tr>
