@@ -14,7 +14,7 @@ export function Card(props) {
     <article className='col col--6 margin-bottom--lg'>
       <Link
         to={props.to}
-        className="card padding--lg cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module"
+        className="card padding--lg cardContainer"
         style={{height: "100%"}}
       >
         <div className=''>
