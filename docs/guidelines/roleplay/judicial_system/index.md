@@ -65,9 +65,9 @@ import { Item, PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
       <td>[Telegram](https://t.me/genych2008)</td>
     </tr>
     <tr>
-      <td><PhotoNamePlayer nickname="Nerkid"/></td>
+      <td>Вакантно</td>
       <td>Судебный пристав по ОУПДС</td>
-      <td>[Discord](https://discordapp.com/users/675771678818697236)</td>
+      <td></td>
     </tr>
     <tr>
       <td><PhotoNamePlayer nickname="Napest"/></td>

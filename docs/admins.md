@@ -119,7 +119,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     </tr>
     <tr>
       <td>Администратор Discord-сервера HS</td>
-      <td><PhotoNamePlayer nickname="Nerkid"/></td>
+      <td><PhotoNamePlayer nickname="notfoundname"/></td>
       <td>Конфигурация основных настоек Discord-сервера HS, набор и курирование модераторов</td>
     </tr>
     <!-- <tr>
