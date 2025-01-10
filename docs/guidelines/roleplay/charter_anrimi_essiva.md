@@ -16,7 +16,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 :::note
 
-С 1 октября 2024 года Губернатором Вольного города Анрими-Эссивы является <PhotoNamePlayer nickname="mamochkaa" />.
+С 1 января 2025 года Губернатором Вольного города Анрими-Эссивы является <PhotoNamePlayer nickname="OridSoji" />.
 
 :::
 
@@ -71,11 +71,11 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 Наблюдательный совет Анрими-Эссивы состоит из шести человек. Три члена Наблюдательного совета назначаются Администрацией HardShard из числа кандидатур, являющихся администраторами. Назначенные члены Наблюдательного совета назначают трёх членов Наблюдательного совета из числа игроков, не занимающих должность в Администрации HardShard. Председателем Наблюдательного совета может быть только член Наблюдательного совета, назначенный Администрацией Сообщества.
 
-  - <PhotoNamePlayer nickname="Gohtar"/> — Председатель
-  - <PhotoNamePlayer nickname="Flammablelion"/>
+  - <PhotoNamePlayer nickname="Flammablelion"/> — Председатель
+  - <PhotoNamePlayer nickname="goose"/>
   - <PhotoNamePlayer nickname="Kemerfund"/>
-  - <PhotoNamePlayer nickname="mulciber_"/>
-  - <PhotoNamePlayer nickname="notfoundname"/>
-  - <PhotoNamePlayer nickname="yantar1k"/>
+  - <PhotoNamePlayer nickname="lologit"/>
+  - <PhotoNamePlayer nickname="mamochkaa"/>
+  - <PhotoNamePlayer nickname="_Nikt0_"/>
 
 **11** За нарушение положений настоящего Устава, за совершение действий, подрывающих основы строя Анрими-Эссивы, наказание назначается по решению Наблюдательного совета либо Губернатора Анрими-Эссивы в отдельных случаях и по своему усмотрению.
