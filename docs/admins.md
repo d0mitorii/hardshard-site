@@ -49,7 +49,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
       <td>Технический специалист</td>
       <td>
         <PhotoNamePlayer nickname="notfoundname" /><br />
-        <PhotoNamePlayer nickname="mulciber_" />  <br />
+        <PhotoNamePlayer nickname="mulciber_" /><br />
         <PhotoNamePlayer nickname="MurlocProger" />
       </td>
       <td>Разработка контента, исправление технических недостатков сборки сервера, тестирование нововведений</td>
