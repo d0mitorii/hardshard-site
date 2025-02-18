@@ -49,7 +49,8 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
       <td>Технический специалист</td>
       <td>
         <PhotoNamePlayer nickname="notfoundname" /><br />
-        <PhotoNamePlayer nickname="mulciber_" />
+        <PhotoNamePlayer nickname="mulciber_" /><br />
+        <PhotoNamePlayer nickname="MurlocProger" />
       </td>
       <td>Разработка контента, исправление технических недостатков сборки сервера, тестирование нововведений</td>
     </tr>
@@ -109,7 +110,10 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     </tr>
     <tr>
       <td>Администратор Telegram-канала объявлений</td>
-      <td><PhotoNamePlayer nickname="Flammablelion"/></td>
+      <td>
+        <PhotoNamePlayer nickname="Flammablelion"/><br />
+        <PhotoNamePlayer nickname="mamochkaa"/>
+      </td>
       <td>Редакция и размещение сообщений игроков в канале объявлений HardShard</td>
     </tr>
     <tr>
