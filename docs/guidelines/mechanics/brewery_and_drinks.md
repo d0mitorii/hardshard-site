@@ -255,7 +255,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="vodka" name="Водка" /></td>
-      <td><Item.sm item="potato" name="x5-7 стаков Картошки" /></td>
+      <td><Item.sm item="potato" name="x7-13 Картошки" /></td>
       <td>Долго</td>
       <td>Да</td>
       <td>Нет</td>
@@ -280,7 +280,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="tequila" name="Текила" /></td>
-      <td><Block.sm item="cactus" name="x1 Кактус" /></td>
+      <td><Block.sm item="cactus" name="x6-9 Кактуса" /></td>
       <td>Долго</td>
       <td>Да</td>
       <td>Долго / Береза</td>
