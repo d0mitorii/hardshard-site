@@ -7,8 +7,6 @@ description: Новые шаблоны для отделки брони и ин�
 import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
-<span className="badge badge--danger">Статья устарела. В ближайшее время будет обновлена с учетом актуальной информации.</span>
-
 # Шаблоны для брони и инструментов
 
 <ImageZoom
@@ -18,15 +16,9 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 > НОВИЧКИ УМИРАЮТ НА СПАВНЕ, А ТЫ ДЕЛАЕШЬ ТРЕТИЙ КОМПЛЕКТ БРОНИ С ОТДЕЛКАМИ
 
-:::danger Статья устарела
-
-В ближайшее время будет обновлена с учетом актуальной информации.
-
-:::
-
 ## Описание {#description}
 
-Чтобы нанести отделку на броню или инструмент, воспользуйтесь <Block.sm item="smithing_table" name="Столом кузнеца" />.
+Чтобы нанести отделку на броню, воспользуйтесь <Block.sm item="smithing_table" name="Столом кузнеца" />.
 
 Новые шаблоны расходуются при использовании, но их можно дублировать с использованием уже имеющегося шаблона, нужного материала и алмазов.
 
@@ -44,20 +36,6 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 #### Как добыть {#how-to-get-danger-trim}
 
 <Item.sm item="danger_armor_trim_smithing_template" name="Шаблон Danger"/> можно найти в ещё непрогруженных сокровищницах.
-
-#### Рецепт создания {#danger-trim-craft}
-
-:::warning Внимание
-
-Для создания используется <Block.sm item="mossy_stone_bricks" name="Зараженный замшелый кирпич" />.
-
-:::
-
-<ImageZoom
-  src="/img/mechanics/new-trims/danger-craft-block.png"
-  alt="Рецепт создания Danger Trim"
-  description="Рецепт создания шабона Danger"
-/>
 
 #### Рецепт дублирования {#danger-trim-duplicate}
 
@@ -77,20 +55,6 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 #### Как добыть {#how-to-get-shell-trim}
 
 <Item.sm item="shell_armor_trim_smithing_template" name="Шаблон Shell"/> выпадает с карты зарытых сокровищ.
-
-#### Рецепт создания {#shell-trim-craft}
-
-:::warning Внимание
-
-Для создания используется <Block.sm item="cobblestone" name="Зараженный булыжник" />.
-
-:::
-
-<ImageZoom
-  src="/img/mechanics/new-trims/shell-craft-block.png"
-  alt="Рецепт создания шаблона Shell"
-  description="Рецепт создания шаблона Shell"
-/>
 
 #### Рецепт дублирования {#shell-trim-duplicate}
 
@@ -112,20 +76,54 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 <Item.sm item="plated_armor_trim_smithing_template" name="Шаблон Plated"/> можно найти в непрогруженных сундуках в кузницах.
 
-#### Рецепт создания {#plated-trim-craft}
-
-<ImageZoom
-  src="/img/mechanics/new-trims/plated-craft-block.png"
-  alt="Рецепт создания шаблона Plated"
-  description="Рецепт создания шаблона Plated"
-/>
-
 #### Рецепт создания {#plated-trim-duplicate}
 
 <ImageZoom
   src="/img/mechanics/new-trims/plated-craft-trim.png"
   alt="Рецепт дублирования шаблона Plated"
   description="Рецепт дублирования шаблона Plated"
+/>
+
+### Heart {#Heart-trim}
+
+#### Как добыть {#how-to-get-heart-trim}
+
+<Item.sm item="heart_armor_trim_smithing_template" name="Шаблон Heart"/> может принести кошка по утрам.
+
+#### Рецепт дублирования {#Heart-trim-duplicate}
+
+<ImageZoom
+  src="/img/mechanics/new-trims/heart-craft-trim.png"
+  alt="Рецепт дублирования шаблона Heart"
+  description="Рецепт дублирования шаблона Heart"
+/>
+
+### Margin {#Margin-trim}
+
+#### Как добыть {#how-to-get-margin-trim}
+
+<Item.sm item="margin_armor_trim_smithing_template" name="Шаблон Margin"/> может быть найден в сундуках оружейника в деревне.
+
+#### Рецепт дублирования {#margin-trim-duplicate}
+
+<ImageZoom
+  src="/img/mechanics/new-trims/margin-craft-trim.png"
+  alt="Рецепт дублирования шаблона Margin"
+  description="Рецепт дублирования шаблона Margin"
+/>
+
+### Verdant {#Verdant-trim}
+
+#### Как добыть {#how-to-get-verdant-trim}
+
+<Item.sm item="verdant_armor_trim_smithing_template" name="Шаблон Verdant"/> может быть найден в сундуках оружейника в деревне.
+
+#### Рецепт дублирования {#verdant-trim-duplicate}
+
+<ImageZoom
+  src="/img/mechanics/new-trims/verdant-craft-trim.png"
+  alt="Рецепт дублирования шаблона Verdant"
+  description="Рецепт дублирования шаблона Verdant"
 />
 
 ### Suspicious {#suspicious-trim}
@@ -182,6 +180,28 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
   description="Рецепт дублирования шаблона Drip"
 />
 
+### Pride {#Pride-trim}
+
+#### Как добыть {#how-to-get-pride-trim}
+
+<Item.sm item="pride_armor_trim_smithing_template" name="Шаблон Pride"/> нельзя найти естественным способом.
+
+#### Рецепт создания {#pride-trim-craft}
+
+<ImageZoom
+  src="/img/mechanics/new-trims/pride-craft-block.png"
+  alt="Рецепт создания шаблона Pride"
+  description="Рецепт создания шаблона Pride"
+/>
+
+#### Рецепт дублирования {#pride-trim-duplicate}
+
+<ImageZoom
+  src="/img/mechanics/new-trims/pride-craft-trim.png"
+  alt="Рецепт дублирования шаблона Pride"
+  description="Рецепт дублирования шаблона Pride"
+/>
+
 ## Материалы для брони {#materials-for-armor-trim}
 
 - <Item.sm item="coal" name="Уголь"/>
@@ -195,9 +215,23 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 - <Item.sm item="slime_ball" name="Сгусток слизи"/>
 - <Item.sm item="dragon_breath" name="Драконье дыхание"/>
 - <Item.sm item="echo_shard" name="Осколок эха"/>
+- <Item.sm item="poisonous_potato" name="Ядовитый картофель"/>
+- <Item.sm item="breeze_rod" name="Вихревой стержень"/>
+- <Item.sm item="armadillo_scute" name="Щиток броненосца"/>
+- <Item.sm item="popped_chorus_fruit" name="Приготовленный плод хоруса"/>
 - <Item.sm item="enchanted_golden_apple" name="Зачарованное золотое яблоко" extension=".gif"/>
 
 ## Шаблоны для инструментов
+
+Помимо стандартных инструментов и оружия, отделки можно применить на <Item.sm item="crossbow_standby" name="Арбалет"/> и <Item.sm item="mace" name="Булаву"/>.
+
+Чтобы нанести отделку на инструмент или продублировать инструментальный шаблон , воспользуйтесь новым блоком — <Block.sm item="toolsmithing-table-feature-icon" name="Столом инструментальщика" />.
+
+<ImageZoom
+  src="/img/mechanics/new-trims/toolsmithing-table-recipe.png"
+  alt="Рецепт стола инструментальщика"
+  description="Рецепт создания стола инструментальщика"
+/>
 
 ### Linear {#linear-trim}
 
