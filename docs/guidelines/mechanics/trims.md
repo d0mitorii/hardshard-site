@@ -37,20 +37,6 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 <Item.sm item="danger_armor_trim_smithing_template" name="Шаблон Danger"/> можно найти в ещё непрогруженных сокровищницах.
 
-#### Рецепт создания {#danger-trim-craft}
-
-:::warning Внимание
-
-Для создания используется <Block.sm item="mossy_stone_bricks" name="Зараженный замшелый кирпич" />.
-
-:::
-
-<ImageZoom
-  src="/img/mechanics/new-trims/danger-craft-block.png"
-  alt="Рецепт создания Danger Trim"
-  description="Рецепт создания шабона Danger"
-/>
-
 #### Рецепт дублирования {#danger-trim-duplicate}
 
 <ImageZoom
@@ -69,20 +55,6 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 #### Как добыть {#how-to-get-shell-trim}
 
 <Item.sm item="shell_armor_trim_smithing_template" name="Шаблон Shell"/> выпадает с карты зарытых сокровищ.
-
-#### Рецепт создания {#shell-trim-craft}
-
-:::warning Внимание
-
-Для создания используется <Block.sm item="cobblestone" name="Зараженный булыжник" />.
-
-:::
-
-<ImageZoom
-  src="/img/mechanics/new-trims/shell-craft-block.png"
-  alt="Рецепт создания шаблона Shell"
-  description="Рецепт создания шаблона Shell"
-/>
 
 #### Рецепт дублирования {#shell-trim-duplicate}
 
@@ -104,14 +76,6 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 <Item.sm item="plated_armor_trim_smithing_template" name="Шаблон Plated"/> можно найти в непрогруженных сундуках в кузницах.
 
-#### Рецепт создания {#plated-trim-craft}
-
-<ImageZoom
-  src="/img/mechanics/new-trims/plated-craft-block.png"
-  alt="Рецепт создания шаблона Plated"
-  description="Рецепт создания шаблона Plated"
-/>
-
 #### Рецепт создания {#plated-trim-duplicate}
 
 <ImageZoom
@@ -122,81 +86,42 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 ### Heart {#Heart-trim}
 
-<ImageZoom
-  src=""
-  alt="Незеритовая броня с отделкой Heart"
-/>
-
 #### Как добыть {#how-to-get-heart-trim}
 
-<Item.sm item="heart_armor_trim_smithing_template" name="Шаблон Heart"/> Может принести кошка по утрам.
-
-#### Рецепт создания {#heart-trim-craft}
-
-<ImageZoom
-  src=""
-  alt="Рецепт создания шаблона Heart"
-  description="Рецепт создания шаблона Heart"
-/>
+<Item.sm item="heart_armor_trim_smithing_template" name="Шаблон Heart"/> может принести кошка по утрам.
 
 #### Рецепт дублирования {#Heart-trim-duplicate}
 
 <ImageZoom
-  src=""
+  src="/img/mechanics/new-trims/heart-craft-trim.png"
   alt="Рецепт дублирования шаблона Heart"
   description="Рецепт дублирования шаблона Heart"
 />
 
 ### Margin {#Margin-trim}
 
-<ImageZoom
-  src=""
-  alt="Незеритовая броня с отделкой Margin"
-/>
-
 #### Как добыть {#how-to-get-margin-trim}
 
-<Item.sm item="margin_armor_trim_smithing_template" name="Шаблон Margin"/> Может быть найден в сундуках оружейника в деревне.
-
-#### Рецепт создания {#margin-trim-craft}
-
-<ImageZoom
-  src=""
-  alt="Рецепт создания шаблона Margin"
-  description="Рецепт создания шаблона Margin"
-/>
+<Item.sm item="margin_armor_trim_smithing_template" name="Шаблон Margin"/> может быть найден в сундуках оружейника в деревне.
 
 #### Рецепт дублирования {#margin-trim-duplicate}
 
 <ImageZoom
-  src=""
+  src="/img/mechanics/new-trims/margin-craft-trim.png"
   alt="Рецепт дублирования шаблона Margin"
   description="Рецепт дублирования шаблона Margin"
 />
 
 ### Verdant {#Verdant-trim}
 
-<ImageZoom
-  src=""
-  alt="Незеритовая броня с отделкой Verdant"
-/>
-
 #### Как добыть {#how-to-get-verdant-trim}
 
-<Item.sm item="verdant_armor_trim_smithing_template" name="Шаблон Verdant"/> Может быть найден в сундуках оружейника в деревне.
-
-#### Рецепт создания {#verdant-trim-craft}
-
-<ImageZoom
-  src=""
-  alt="Рецепт создания шаблона Verdant"
-  description="Рецепт создания шаблона Verdant"
-/>
+<Item.sm item="verdant_armor_trim_smithing_template" name="Шаблон Verdant"/> может быть найден в сундуках оружейника в деревне.
 
 #### Рецепт дублирования {#verdant-trim-duplicate}
 
 <ImageZoom
-  src=""
+  src="/img/mechanics/new-trims/verdant-craft-trim.png"
   alt="Рецепт дублирования шаблона Verdant"
   description="Рецепт дублирования шаблона Verdant"
 />
@@ -257,11 +182,6 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 ### Pride {#Pride-trim}
 
-<ImageZoom
-  src=""
-  alt="Незеритовая броня с отделкой Pride"
-/>
-
 #### Как добыть {#how-to-get-pride-trim}
 
 <Item.sm item="pride_armor_trim_smithing_template" name="Шаблон Pride"/> нельзя найти естественным способом.
@@ -269,7 +189,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 #### Рецепт создания {#pride-trim-craft}
 
 <ImageZoom
-  src=""
+  src="/img/mechanics/new-trims/pride-craft-block.png"
   alt="Рецепт создания шаблона Pride"
   description="Рецепт создания шаблона Pride"
 />
@@ -277,7 +197,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 #### Рецепт дублирования {#pride-trim-duplicate}
 
 <ImageZoom
-  src=""
+  src="/img/mechanics/new-trims/pride-craft-trim.png"
   alt="Рецепт дублирования шаблона Pride"
   description="Рецепт дублирования шаблона Pride"
 />
@@ -310,7 +230,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 <ImageZoom
   src="/img/mechanics/new-trims/toolsmithing-table-recipe.png"
   alt="Рецепт стола инструментальщика"
-  description="Рецепт стола инструментальщика"
+  description="Рецепт создания стола инструментальщика"
 />
 
 ### Linear {#linear-trim}
