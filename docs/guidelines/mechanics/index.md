@@ -38,6 +38,12 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     to="/docs/mechanics/trims"
   />
   <Card 
+    title="Настольные игры"
+    description="Карты, шахматы, шашки, домино и другие предметы для игры с друзьями."
+    preview="/img/mechanics/table-games/table-games-banner.webp"
+    to="/docs/mechanics/table-games"
+  />
+  <Card 
     title="Головные уборы"
     description="Дополни образ и привнеси разнообразие в ролевую игру."
     preview="/img/mechanics/hats/novie-shlyapi-na-hardshard.png"
