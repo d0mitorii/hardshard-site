@@ -16,7 +16,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 :::note
 
-С 1 января 2025 года Губернатором Вольного города Анрими-Эссивы является <PhotoNamePlayer nickname="OridSoji" />.
+С 1 апреля 2025 года Губернатором Вольного города Анрими-Эссивы является <PhotoNamePlayer nickname="MurlocProger" />.
 
 :::
 
