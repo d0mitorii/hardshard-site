@@ -68,6 +68,11 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
       <td>Рядовой сотрудник</td>
       <td>Отсутствует</td>
     </tr>
+    <tr>
+      <td><PhotoNamePlayer nickname="Terriuawara"/></td>
+      <td>Рядовой сотрудник</td>
+      <td>[Отсутствует]</td>
+    </tr>
 
   </tbody>
 </table>
