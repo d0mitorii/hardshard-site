@@ -54,9 +54,19 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
   </thead>
   <tbody>
     <tr>
+      <td><PhotoNamePlayer nickname="mamochkaa"/></td>
+      <td>Президент Палаты Инспекторов</td>
+      <td>Отсутствует</td>
+    </tr>
+    <tr>
+      <td><PhotoNamePlayer nickname="mulciber_"/></td>
+      <td>Рядовой сотрудник</td>
+      <td>Отсутствует</td>
+    </tr>
+    <tr>
       <td><PhotoNamePlayer nickname="ViMiR"/></td>
-      <td>ВРИО Президента Палаты Инспекторов</td>
-      <td>[Telegram](https://discordapp.com/users/752174703011168276)</td>
+      <td>Рядовой сотрудник</td>
+      <td>[Telegram](https://t.me/Vi_M_iR)</td>
     </tr>
     <tr>
       <td><PhotoNamePlayer nickname="jayz1123"/></td>
@@ -71,7 +81,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     <tr>
       <td><PhotoNamePlayer nickname="Terriuawara"/></td>
       <td>Рядовой сотрудник</td>
-      <td>[Отсутствует]</td>
+      <td>Отсутствует</td>
     </tr>
 
   </tbody>
