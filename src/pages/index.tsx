@@ -12,11 +12,8 @@ import { CopyButton } from "../components/CopyButton";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero padding-bottom--xl", styles.heroBanner)}>
-      <video autoPlay muted loop playsInline className={styles.backgroundVideo}>
-        <source src="/videos/background.webm" type="video/webm" />
-        Your browser does not support the video tag.
-      </video>
+    <header className={clsx("padding-bottom--xl", styles.heroBanner)}>
+      <div className={styles.heroOverlay} /> {/* ← Добавлено */}
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
@@ -44,17 +41,25 @@ function HomepageHeader() {
 
 export default function Home(): JSX.Element {
   return (
-    <Layout
-      title="Приватный Vanila+ сервер"
-      description="Ламповый бесплатный Vanilla+ сервер без приватов, с улучшенным геймплеем и элементами ролевой игры."
-    >
-      <HomepageHeader />
-      <main>
-        <div className="container">
-          <PlayersList />
-          <SplashComponent />
-        </div>
-      </main>
-    </Layout>
+    <>
+      <video autoPlay muted loop playsInline className={styles.backgroundVideo}>
+        <source src="/videos/background.webm" type="video/webm" />
+        Your browser does not support the video tag.
+      </video>
+      <div className={styles.backgroundOverlayTop}></div>
+      <div className={styles.backgroundOverlayBottom}></div>
+      <Layout
+        title="Приватный Vanila+ сервер"
+        description="Ламповый бесплатный Vanilla+ сервер без приватов, с улучшенным геймплеем и элементами ролевой игры."
+      >
+        <HomepageHeader />
+        <main>
+          <div className="container">
+            <PlayersList />
+            <SplashComponent />
+          </div>
+        </main>
+      </Layout>
+    </>
   );
 }
