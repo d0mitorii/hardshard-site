@@ -14,6 +14,12 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
 
 <CardSection>
   <Card 
+    title="Дополнение «Приливы Тьмы»"
+    description="Новые скалковые мобы, броня, инструменты и разломы"
+    preview="/img/mechanics/tides_of_darkness/tides-of-darkness-banner.png"
+    to="/docs/mechanics/tides-of-darkness"
+  />
+  <Card 
     title="Зип-рельсы"
     description="Разнообразьте свой опыт путешествия на вагонетке."
     preview="/img/mechanics/ziprails/ziprails-banner.png"
