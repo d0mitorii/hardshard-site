@@ -42,10 +42,15 @@ function HomepageHeader() {
 export default function Home(): JSX.Element {
   return (
     <>
-      <video autoPlay muted loop playsInline className={styles.backgroundVideo}>
+      {/* <video autoPlay muted loop playsInline className={styles.backgroundVideo}>
         <source src="/videos/background.webm" type="video/webm" />
         Your browser does not support the video tag.
-      </video>
+      </video> */}
+      <img
+        src="/img/trakkaris_promo.png"
+        alt="Фоновое изображение"
+        className={styles.backgroundVideo}
+      />
       <div className={styles.backgroundOverlayTop}></div>
       <div className={styles.backgroundOverlayBottom}></div>
       <Layout
