@@ -1,18 +1,19 @@
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Layout from '@theme/Layout';
-import Heading from '@theme/Heading';
+import clsx from "clsx";
+import Link from "@docusaurus/Link";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import Layout from "@theme/Layout";
+import Heading from "@theme/Heading";
 
-import styles from './index.module.css';
-import { PlayersList } from '../components/PlayersListComponent';
-import { SplashComponent } from '../components/SplashComponent';
-import { CopyButton } from '../components/CopyButton';
+import styles from "./index.module.css";
+import { PlayersList } from "../components/PlayersListComponent";
+import { SplashComponent } from "../components/SplashComponent";
+import { CopyButton } from "../components/CopyButton";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx('hero padding-bottom--xl', styles.heroBanner)}>
+    <header className={clsx("padding-bottom--xl", styles.heroBanner)}>
+      <div className={styles.heroOverlay} /> {/* ← Добавлено */}
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
@@ -22,9 +23,7 @@ function HomepageHeader() {
             <p className="hero__subtitle">{siteConfig.tagline}</p>
           </div>
         </div>
-        <div className={"row"}
-          style={{ gap: 24, justifyContent: "center" }}
-        >
+        <div className={"row"} style={{ gap: 24, justifyContent: "center" }}>
           <div className={styles.buttons}>
             <Link
               className="button button--primary button--lg"
@@ -42,17 +41,30 @@ function HomepageHeader() {
 
 export default function Home(): JSX.Element {
   return (
-    <Layout
-      title="Приватный Vanila+ сервер"
-      description="Ламповый бесплатный Vanilla+ сервер без приватов, с улучшенным геймплеем и элементами ролевой игры."
-    >
-      <HomepageHeader />
-      <main>
-        <div className="container">
-          <PlayersList />
-          <SplashComponent />
-        </div>
-      </main>
-    </Layout>
+    <>
+      {/* <video autoPlay muted loop playsInline className={styles.backgroundVideo}>
+        <source src="/videos/background.webm" type="video/webm" />
+        Your browser does not support the video tag.
+      </video> */}
+      <img
+        src="/img/trakkaris_promo.png"
+        alt="Фоновое изображение"
+        className={styles.backgroundVideo}
+      />
+      <div className={styles.backgroundOverlayTop}></div>
+      <div className={styles.backgroundOverlayBottom}></div>
+      <Layout
+        title="Приватный Vanila+ сервер"
+        description="Ламповый бесплатный Vanilla+ сервер без приватов, с улучшенным геймплеем и элементами ролевой игры."
+      >
+        <HomepageHeader />
+        <main>
+          <div className="container">
+            <PlayersList />
+            <SplashComponent />
+          </div>
+        </main>
+      </Layout>
+    </>
   );
 }

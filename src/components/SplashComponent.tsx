@@ -13,12 +13,12 @@ export const SplashComponent = () => {
   }, []);
 
   return (
-    <div
-    className="margin-bottom--lg"
-    >
-      <p className="text--warning splash-text">
-        {splash ? splash : "Загружаю..."}
-      </p>
+    <div className="margin-bottom--lg col col--6 col--offset-3" style={{ alignContent: "center" }}>
+      <div className="splash-bg">
+        <p className="text--warning splash-text">
+          {splash ? splash : "Загружаю..."}
+        </p>
+      </div>
     </div>
   );
 };
