@@ -15,6 +15,7 @@ function HomepageHeader() {
     <header className={clsx("padding-bottom--xl", styles.heroBanner)}>
       <div className="container" style={{ position: "relative" }}>
         <div
+          className={styles.splashDesktop}
           style={{
             position: "absolute",
             left: "75%",
@@ -73,8 +74,11 @@ export default function Home(): JSX.Element {
       >
         <HomepageHeader />
         <main>
-          <div className="container"> 
-            <PlayersList  />
+          <div className="container">
+            <PlayersList />
+            <div className={styles.splashMobile}>
+              <SplashComponent />
+            </div>
           </div>
         </main>
       </Layout>
