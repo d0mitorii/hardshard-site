@@ -18,7 +18,7 @@
   }
 }
 
-.backgroundVideo {
+.backgroundMedia {
   position: fixed;
   top: 0;
   left: 0;
@@ -27,18 +27,11 @@
   object-fit: cover;
   z-index: -2;
   pointer-events: none;
-  opacity: 0.4; /* можно изменить */
+  opacity: 0.7; /* можно изменить */
 }
 
-.backgroundOverlayTop {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 15vh;
-  z-index: -1;
-  pointer-events: none;
-  background: linear-gradient(to bottom, #fff 0%, transparent 100%);
+:root[data-theme="light"] .backgroundMedia {
+  opacity: 0.2;
 }
 
 .backgroundOverlayBottom {
@@ -52,44 +45,6 @@
   background: linear-gradient(to top, #fff 0%, transparent 100%);
 }
 
-:root[data-theme="dark"] .backgroundOverlayTop {
-  background: linear-gradient(to bottom, #18191a 0%, transparent 100%);
-}
 :root[data-theme="dark"] .backgroundOverlayBottom {
   background: linear-gradient(to top, #18191a 0%, transparent 100%);
-}
-
-:root {
-  --heroOverlay-x1: 50%;
-  --heroOverlay-x2: 50%;
-  --heroOverlay-bottom-opacity: 0;
-}
-
-:root[data-theme="dark"] {
-  --heroOverlay-x1: 0%;
-  --heroOverlay-x2: 0%;
-  --heroOverlay-bottom-opacity: 0;
-}
-
-.heroOverlay {
-  position: absolute;
-  inset: 0;
-  z-index: -1;
-  pointer-events: none;
-  backdrop-filter: blur(2px);
-  background: linear-gradient(
-    to bottom,
-    rgba(255, 255, 255, 0.6),
-    rgba(255, 255, 255, 0.3),
-    transparent
-  );
-}
-
-:root[data-theme="dark"] .heroOverlay {
-  background: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0.6),
-    rgba(0, 0, 0, 0.3),
-    transparent
-  );
 }
