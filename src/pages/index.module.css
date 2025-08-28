@@ -48,3 +48,16 @@
 :root[data-theme="dark"] .backgroundOverlayBottom {
   background: linear-gradient(to top, #18191a 0%, transparent 100%);
 }
+
+.splashMobile {
+  display: none;
+}
+
+@media (max-width: 1000px) {
+  .splashDesktop {
+    display: none;
+  }
+  .splashMobile {
+    display: flex;
+  }
+}
