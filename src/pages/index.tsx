@@ -13,13 +13,30 @@ function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx("padding-bottom--xl", styles.heroBanner)}>
-      <div className={styles.heroOverlay} /> {/* ← Добавлено */}
-      <div className="container">
+      <div className="container" style={{ position: "relative" }}>
+        <div
+          style={{
+            position: "absolute",
+            left: "75%",
+            top: "32%",
+            transform: "translate(-50%, -40%) rotate(-20deg)",
+            zIndex: 2,
+            pointerEvents: "none",
+            width: "min(750px, 80vw)",
+          }}
+        >
+          <SplashComponent />
+        </div>
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          <img
+            src="/img/hardshard-logo-full.png"
+            alt="HardShard Logo"
+            draggable="false"
+            style={{ maxHeight: "120px" }}
+          />
         </Heading>
-        <div className="row">
-          <div className="col col--6 col--offset-3">
+        <div className="row margin-top--lg">
+          <div className="col col--8 col--offset-2">
             <p className="hero__subtitle">{siteConfig.tagline}</p>
           </div>
         </div>
@@ -42,16 +59,13 @@ function HomepageHeader() {
 export default function Home(): JSX.Element {
   return (
     <>
-      {/* <video autoPlay muted loop playsInline className={styles.backgroundVideo}>
-        <source src="/videos/background.webm" type="video/webm" />
+      <video autoPlay muted loop playsInline className={styles.backgroundMedia}>
+        <source
+          src="/videos/End Portal Void Background Gif Loop HD 4K.mp4"
+          type="video/mp4"
+        />
         Your browser does not support the video tag.
-      </video> */}
-      <img
-        src="/img/trakkaris_promo.png"
-        alt="Фоновое изображение"
-        className={styles.backgroundVideo}
-      />
-      <div className={styles.backgroundOverlayTop}></div>
+      </video>
       <div className={styles.backgroundOverlayBottom}></div>
       <Layout
         title="Приватный Vanila+ сервер"
@@ -59,9 +73,8 @@ export default function Home(): JSX.Element {
       >
         <HomepageHeader />
         <main>
-          <div className="container">
-            <PlayersList />
-            <SplashComponent />
+          <div className="container"> 
+            <PlayersList  />
           </div>
         </main>
       </Layout>

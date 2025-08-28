@@ -32,15 +32,36 @@ export const PlayersList = () => {
     fetchData();
   }, []);
   return (
-    <div className="row margin-top--lg margin-bottom--lg">
-      <div 
+    <div className="row margin-top--m margin-bottom--lg">
+      <div
         className="col col--8 col--offset-2 text--center padding--lg "
         style={{
           backgroundColor: "var(--ifm-card-background-color)",
           borderRadius: "var(--ifm-card-border-radius)",
         }}
       >
-        <h2>Игроков на сервере {online} / {maxPlayers}</h2>
+        <h2>Игроков на сервере ¯\_(ツ)_/¯ / 100</h2>
+        <h3 className="players-note">
+          🕹 Третий сезон завершён!
+          <br />
+          Счётчик игроков вернётся уже на четвёртом,
+          <br />
+          👉 следите за новостями в{" "}
+          <a
+            href="/blog"
+            style={{ color: "#397acb", textDecoration: "underline" }}
+          >
+            блоге
+          </a>
+          {" "}или{" "}
+          <a
+            href="https://t.me/hardshard"
+            style={{ color: "#397acb", textDecoration: "underline" }}
+          >
+            нашем телеграм-канале
+          </a>
+        </h3>
+        {/* <h2>Игроков на сервере {online} / {maxPlayers}</h2>
         <div style={{alignContent: "center",}}>
           {
             playersList &&
@@ -48,7 +69,7 @@ export const PlayersList = () => {
               <PhotoNamePlayer nickname={player.name} key={index}/>
             ))
           }
-        </div>
+        </div> */}
       </div>
     </div>
   );

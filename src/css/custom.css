@@ -29,6 +29,12 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+@font-face {
+  font-family: "Minecraft";
+  src: url("../fonts/minecraft-seven-java.otf") format("truetype");
+  font-display: swap;
+}
+
 .img-card {
   border-radius: 0.5rem;
   height: 12rem;
@@ -60,8 +66,6 @@
     transparent
   );
   color: #000;
-  backdrop-filter: blur(4px); /* легкое размытие фона */
-  -webkit-backdrop-filter: blur(4px); /* для Safari */
 }
 
 .splash-bg {
@@ -101,15 +105,18 @@
 }
 
 .splash-text {
+  /* Базовые стили */
   padding-top: 0.5rem;
-  animation: pulse 2s infinite;
+  animation: pulse 0.5s infinite;
   text-align: center;
-  font-family: var(--ifm-font-family-monospace);
-  font-size: 1.5rem;
+  font-family: "Minecraft", var(--ifm-font-family-monospace);
+  transition: font-size 0.2s;
+  color: #ffff00;
+  white-space: pre-line;
 }
 
 :root[data-theme="light"] .splash-text {
-  color: #E65100;
+  text-shadow: 0 0 6px #000, 0 0 6px #bbb;
 }
 
 @keyframes pulse {
@@ -117,7 +124,7 @@
     transform: scale(1);
   }
   50% {
-    transform: scale(1.1);
+    transform: scale(1.05);
   }
   100% {
     transform: scale(1);
@@ -153,4 +160,19 @@
   cursor: pointer;
   transition: all var(--ifm-transition-fast) ease;
   transition-property: border, box-shadow;
+}
+
+.players-note {
+  letter-spacing: 0.03em;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+  text-align: center;
+  border-radius: 0.5rem;
+  padding: 0.5rem 0;
+  font-weight: normal;
+}
+
+:root[data-theme="dark"] .players-note {
+  text-shadow: 0 1px 0 #222, 0 0 6px #000, 0 0 12px #46413f;
 }
