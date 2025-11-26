@@ -1,0 +1,179 @@
+/* src/pages/statistics.module.css */
+
+/* --- Контейнер управления --- */
+.controls {
+  margin-bottom: 1.5rem;
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+  background: var(--ifm-background-surface-color);
+  padding: 1rem;
+  border-radius: var(--ifm-global-radius);
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.optionLabel {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  font-weight: 500;
+  user-select: none;
+}
+
+/* Стилизация чекбокса */
+.optionLabel input {
+  cursor: pointer;
+  width: 1.2em;
+  height: 1.2em;
+}
+
+/* Блок статуса (загрузка/ошибка) */
+.statusBlock {
+  margin-left: auto; /* Прижать вправо */
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+}
+
+.error {
+  color: var(--ifm-color-danger);
+  font-weight: bold;
+  background: rgba(255, 0, 0, 0.1);
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+}
+
+.loading {
+  color: var(--ifm-color-info);
+  font-style: italic;
+}
+
+/* --- Обертка для таблицы (Адаптивность) --- */
+.tableScrollWrapper {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: var(--ifm-global-radius);
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+/* --- Стилизация самой таблицы --- */
+.tableContainer :global(table) {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  text-align: center;
+  margin: 0;
+}
+
+.tableContainer :global(thead tr) {
+  background-color: var(--ifm-color-emphasis-100);
+  border-bottom: 2px solid var(--ifm-color-emphasis-300);
+}
+
+.tableContainer :global(th) {
+  padding: 12px 16px;
+  font-weight: 700;
+  text-align: center;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.tableContainer :global(th:hover) {
+  background-color: var(--ifm-color-emphasis-200);
+}
+
+/* Скины (головы) */
+.tableContainer :global(td.skin),
+.tableContainer :global(th:first-child) {
+  width: 48px;
+  text-align: center;
+  padding: 8px;
+}
+
+.tableContainer :global(td:nth-child(2)) {
+  white-space: nowrap;
+}
+
+.tableContainer :global(td.skin img) {
+  height: 32px;
+  width: 32px;
+  border-radius: 4px;
+  display: block;
+  margin: 0 auto;
+}
+
+.tableContainer :global(td) {
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+}
+
+/* Чересстрочная заливка */
+.tableContainer :global(tr:nth-child(even)) {
+  background-color: var(--ifm-background-surface-color);
+}
+
+/* Статусы */
+.tableContainer :global(.status) {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 8px;
+  background-color: var(--ifm-color-danger); /* Offline */
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.3);
+}
+.tableContainer :global(.status.online) {
+  background-color: var(--ifm-color-success);
+}
+.tableContainer :global(.status.afk) {
+  background-color: var(--ifm-color-warning);
+}
+
+/* --- Пагинация (Кнопки) --- */
+/* Библиотека создает div.webstats-pagination, но иногда span */
+.tableContainer :global(.webstats-pagination) {
+  display: flex;
+  gap: 8px;
+  padding: 1rem;
+  justify-content: left;
+  align-items: center;
+  background: var(--ifm-background-surface-color);
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.tableContainer :global(button.webstats-pagination) {
+  appearance: none;
+  background-color: var(--ifm-color-primary);
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.tableContainer :global(button.webstats-pagination:disabled) {
+  background-color: var(--ifm-color-emphasis-300);
+  cursor: not-allowed;
+}
+
+.tableContainer :global(select.webstats-pagination) {
+  padding: 5px;
+  border-radius: 4px;
+  border: 1px solid var(--ifm-color-emphasis-400);
+  background: var(--ifm-background-color);
+}
+
+:global(html.compact) .tableContainer :global(td),
+:global(html.compact) .tableContainer :global(th) {
+  padding: 4px 8px;
+  font-size: 0.85rem;
+}
+
+:global(html.compact) .tableContainer :global(td.skin img) {
+  height: 20px;
+  width: 20px;
+}
