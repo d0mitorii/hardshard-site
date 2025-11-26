@@ -57,6 +57,8 @@ const config: Config = {
         { to: "/docs/guidelines", label: "Руководства", position: "right" },
         { to: "/blog", label: "Новости", position: "right" },
         { to: "https://wiki.hardshard.ru/", label: "Вики", position: "right" },
+        { to: "/map", label: "Карта сервера", position: "right" },
+        { to: "/statistics", label: "Статистика", position: "right" },
       ],
     },
     footer: {
