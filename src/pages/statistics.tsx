@@ -6,7 +6,7 @@ import WebStats from '../utils/WebStats-dist.js';
 
 const COLUMN_TRANSLATIONS: Record<string, string> = {
   "Player": "Игрок",
-  "Mine Deepslate Diamond": "Добыто алмазоносного глубинного сланца",
+  "Mine All Diamond": "Добыто алмазов",
   "Play Ticks": "Времени наиграно",
   "Sprint": "Пройдено блоков бегом",
   "Mine Ancient Debris": "Добыто древних обломков",
