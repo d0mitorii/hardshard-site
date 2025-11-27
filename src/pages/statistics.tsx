@@ -35,7 +35,7 @@ export default function Statistics(): JSX.Element {
           tableParent: tableContainerRef.current,
           updateInterval: 10000,
           showSkins: true,
-          displayCount: 20,
+          displayCount: 15,
         });
 
         if (statsInstance && typeof statsInstance.update === 'function') {
