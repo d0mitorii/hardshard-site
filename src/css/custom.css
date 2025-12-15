@@ -176,3 +176,63 @@
 :root[data-theme="dark"] .players-note {
   text-shadow: 0 1px 0 #222, 0 0 6px #000, 0 0 12px #46413f;
 }
+
+/* RuleCollapse стили */
+.rule-collapse {
+  background: transparent;
+  border: none;
+  margin: 0 0 1rem 0;
+  padding: 0;
+}
+
+.rule-collapse__heading {
+  margin: 0;
+  padding: 0;
+}
+
+.rule-collapse__summary {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  width: 100%;
+  background: transparent;
+  border: none;
+  padding: 0.15rem 0;
+  text-align: left;
+  cursor: pointer;
+  font: inherit;
+  color: inherit;
+  outline: none;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.06);
+}
+
+:root[data-theme="dark"] .rule-collapse__summary {
+  border-bottom-color: rgba(255,255,255,0.06);
+}
+
+/* стрелка */
+.rule-collapse__chevron {
+  transition: transform 0.18s ease;
+  margin-left: auto;
+  display: inline-block;
+  transform-origin: center;
+  color: var(--ifm-color-emphasis);
+}
+
+/* поворот стрелки при открытом состоянии */
+.rule-collapse__chevron.is-open {
+  transform: rotate(90deg);
+}
+
+/* заголовок (оставляем стиль заголовка) */
+.rule-collapse__title {
+  display: inline;
+}
+
+/* контент — прозрачный фон, плавное раскрытие (простое) */
+.rule-collapse__content {
+  background: transparent;
+  padding: 0.5rem 0 0.25rem 0;
+  margin: 0;
+  color: inherit;
+}
