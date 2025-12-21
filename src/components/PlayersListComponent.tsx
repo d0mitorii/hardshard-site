@@ -40,7 +40,7 @@ export const PlayersList = () => {
           borderRadius: "var(--ifm-card-border-radius)",
         }}
       >
-        <h2>Игроков на сервере ¯\_(ツ)_/¯ / 100</h2>
+        {/* <h2>Игроков на сервере ¯\_(ツ)_/¯ / 100</h2>
         <h3 className="players-note">
           🕹 Третий сезон завершён!
           <br />
@@ -60,8 +60,8 @@ export const PlayersList = () => {
           >
             нашем телеграм-канале
           </a>
-        </h3>
-        {/* <h2>Игроков на сервере {online} / {maxPlayers}</h2>
+        </h3> */}
+        <h2>Игроков на сервере {online} / {maxPlayers}</h2>
         <div style={{alignContent: "center",}}>
           {
             playersList &&
@@ -69,7 +69,7 @@ export const PlayersList = () => {
               <PhotoNamePlayer nickname={player.name} key={index}/>
             ))
           }
-        </div> */}
+        </div>
       </div>
     </div>
   );

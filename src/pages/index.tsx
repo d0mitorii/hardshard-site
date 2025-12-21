@@ -33,7 +33,7 @@ function HomepageHeader() {
             src="/img/hardshard-logo-full.png"
             alt="HardShard Logo"
             draggable="false"
-            style={{ maxHeight: "120px" }}
+            style={{ maxHeight: "170px" }}
           />
         </Heading>
         <div className="row margin-top--lg">
@@ -62,7 +62,7 @@ export default function Home(): JSX.Element {
     <>
       <video autoPlay muted loop playsInline className={styles.backgroundMedia}>
         <source
-          src="/videos/End Portal Void Background Gif Loop HD 4K.mp4"
+          src="/videos/background-winter.webm"
           type="video/mp4"
         />
         Your browser does not support the video tag.
