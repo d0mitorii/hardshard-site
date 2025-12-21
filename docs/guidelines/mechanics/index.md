@@ -13,7 +13,7 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
 Механики на сервере HardShard были тщательно переработаны и дополнены, чтобы предложить игрокам более глубокий и увлекательный игровой процесс. Все ключевые элементы, такие как взаимодействие с миром, ресурсы и прогресс персонажа, получили улучшения, которые делают игру более насыщенной и динамичной.
 
 <CardSection>
-  <Card 
+  <!-- <Card 
     title="Дополнение «Приливы Тьмы»"
     description="Новые скалковые мобы, броня, инструменты и разломы"
     preview="/img/mechanics/tides_of_darkness/tides-of-darkness-banner.png"
@@ -30,14 +30,14 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     description="Более 50 новых рецептов блюд и не только."
     preview="/img/mechanics/more_food/joshs-more-foods.png"
     to="/docs/mechanics/more-food"
-  />
+  /> -->
   <Card 
     title="Напитки и алковарение"
     description="Варите собственные напитки: алкогольные и не очень."
     preview="/img/mechanics/drinks_and_brewery/brewery-and-drinks-banner.png"
     to="/docs/mechanics/drinks-and-brewery"
   />
-  <Card 
+  <!-- <Card 
     title="Шаблоны для брони и инструментов"
     description="Новые шаблоны для отделки брони и инструментов."
     preview="/img/mechanics/new-trims/more-trims-banner.png"
@@ -66,7 +66,7 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     description="Украшайте свои постройки и интерьеры при помощи различных цепей и веревок."
     preview="/img/mechanics/catenary/catenary-banner.png"
     to="/docs/mechanics/catenary"
-  />
+  /> -->
   <Card 
     title="Прочие механики"
     description="Остальные механики сервера одним предложением."
