@@ -19,7 +19,7 @@ function HomepageHeader() {
           style={{
             position: "absolute",
             left: "75%",
-            top: "32%",
+            top: "42%",
             transform: "translate(-50%, -40%) rotate(-20deg)",
             zIndex: 2,
             pointerEvents: "none",
@@ -30,10 +30,10 @@ function HomepageHeader() {
         </div>
         <Heading as="h1" className="hero__title">
           <img
-            src="/img/hardshard-logo-full.png"
+            src="/img/hardshard-logo-full-2.png"
             alt="HardShard Logo"
             draggable="false"
-            style={{ maxHeight: "170px" }}
+            style={{ maxHeight: "170px"}}
           />
         </Heading>
         <div className="row margin-top--lg">

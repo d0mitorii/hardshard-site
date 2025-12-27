@@ -32,6 +32,12 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     to="/docs/mechanics/more-food"
   /> -->
   <Card 
+    title="Праздник ледосладия"
+    description="Новогодний ивент. Ёлка, гоблины и волшебная пыльца..."
+    preview="/img/mechanics/winter_event/winter_event_logo.png"
+    to="/docs/mechanics/winter_event"
+  />
+  <Card 
     title="Напитки и алковарение"
     description="Варите собственные напитки: алкогольные и не очень."
     preview="/img/mechanics/drinks_and_brewery/brewery-and-drinks-banner.png"
