@@ -7,7 +7,7 @@ export default function MapPage() {
       <main>
         <div style={{ width: "100%", height: "90vh" }}>
           <iframe
-            src="http://hardshard.ru:25573/"
+            src="https://map.hardshard.ru/"
             style={{
               width: "100%",
               height: "100%",
