@@ -470,7 +470,7 @@ import RuleCollapse from '@site/src/components/RuleCollapse';
 :::note Все проекты и подразделения
 
 1) Minecraft-сервер HardShard: `mc.hardshard.ru` или `116.202.155.168:25565`
-2) [Телеграм-канал HardShard](t.me/hardshardru)
+2) [Телеграм-канал HardShard](https://t.me/hardshard)
 3) [Телеграм-чат HardShard](https://t.me/hardshardchat)
 4) [Дискорд-сервер HardShard](https://discord.gg/2tHYZcJYR3)
 5) Телеграм-чат Отдела внештатных сотрудников

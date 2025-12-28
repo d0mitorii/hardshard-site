@@ -10,7 +10,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 ![Инквизиторий со второго сезона MainSMP](./img/nachalo-stroitlstva-anrimi-essiva.jpg)
 
-Администрация HardShard утвердила [Устав Вольного города Анрими-Эссива](/docs/charter-anrimi-essiva), который вступает в силу в 00:00 20.08.2023 г. 
+Администрация HardShard утвердила Устав Вольного города Анрими-Эссива, который вступает в силу в 00:00 20.08.2023 г. 
 
 <!-- truncate -->
 

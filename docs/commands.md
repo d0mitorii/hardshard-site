@@ -118,9 +118,9 @@ slug: /commands
 
 ### `/vote` или `/votegui` {#vote-votegui}
 
-Открыть меню [Системы голосования](/docs/voting).
+<!-- Открыть меню [Системы голосования](/docs/voting).
 
-## Команды, доступные [Инспекторам](/docs/inspectors) {#commands-for-inspectors}
+## Команды, доступные [Инспекторам/docs/inspectors {#commands-for-inspectors}
 
 ### `/co help` {#co-help}
 
@@ -155,4 +155,4 @@ slug: /commands
 
 ### `/co near` {#co-near}
 
-Выполнить поиск в радиусе 5 блоков от игрока.
+Выполнить поиск в радиусе 5 блоков от игрока. -->
