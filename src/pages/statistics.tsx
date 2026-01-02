@@ -6,8 +6,8 @@ import WebStats from '../utils/WebStats-dist.js';
 
 const COLUMN_TRANSLATIONS: Record<string, string> = {
   "Player": "Игрок",
-  "Mine All Diamond": "Добыто алмазов",
-  "Play Ticks": "Времени наиграно",
+  "Mine Deepslate Diamond": "Добыто алмазов",
+  "Play Time": "Времени наиграно",
   "Sprint": "Пройдено блоков бегом",
   "Mine Ancient Debris": "Добыто древних обломков",
   "Jump": "Прыжков",
@@ -31,7 +31,7 @@ export default function Statistics(): JSX.Element {
     const initStats = () => {
       try {
         statsInstance = new WebStats({
-          host: "http://localhost:8084",
+          host: "136.243.93.46:25560",
           tableParent: tableContainerRef.current,
           updateInterval: 10000,
           showSkins: true,
