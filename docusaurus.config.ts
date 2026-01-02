@@ -7,7 +7,7 @@ const config: Config = {
   tagline:
     "Ламповый бесплатный Vanilla+ сервер без приватов, с улучшенным геймплеем и элементами ролевой игры",
   favicon: "img/favicon.ico",
-  url: "https://d0mitorii.github.io/",
+  url: "https://hardshard.ru",
   baseUrl: "/",
   organizationName: "d0mitorii",
   projectName: "hardshard-site",
