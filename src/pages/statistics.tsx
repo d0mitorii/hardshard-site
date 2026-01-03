@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import Layout from "@theme/Layout";
 import styles from "./statistics.module.css";
+import Admonition from "@theme/Admonition";
 // @ts-ignore
 import WebStats from "../utils/WebStats-dist.js";
 
@@ -120,6 +121,10 @@ export default function Statistics(): JSX.Element {
     >
       <main className="container margin-vert--lg">
         <h1>Статистика сервера</h1>
+
+        <Admonition type="info" title="Информация">
+          В таблице отображается статистика, собираемая с 1 января 2026 года.
+        </Admonition>
 
         <div className={styles.controls}>
           <label className={styles.optionLabel} htmlFor="hide-offline">
