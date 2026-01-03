@@ -43,6 +43,12 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     preview="/img/mechanics/drinks_and_brewery/brewery-and-drinks-banner.png"
     to="/docs/mechanics/drinks-and-brewery"
   />
+    <Card 
+    title="Головные уборы"
+    description="Дополни образ и привнеси разнообразие в ролевую игру."
+    preview="/img/mechanics/hats/novie-shlyapi-na-hardshard.png"
+    to="/docs/mechanics/hats"
+  />
   <!-- <Card 
     title="Шаблоны для брони и инструментов"
     description="Новые шаблоны для отделки брони и инструментов."
@@ -54,12 +60,6 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     description="Карты, шахматы, шашки, домино и другие предметы для игры с друзьями."
     preview="/img/mechanics/table-games/table-games-banner.webp"
     to="/docs/mechanics/table-games"
-  />
-  <Card 
-    title="Головные уборы"
-    description="Дополни образ и привнеси разнообразие в ролевую игру."
-    preview="/img/mechanics/hats/novie-shlyapi-na-hardshard.png"
-    to="/docs/mechanics/hats"
   />
   <Card 
     title="Усложненный Дракон Края"

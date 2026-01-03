@@ -32,7 +32,7 @@ export default function Statistics(): JSX.Element {
     const initStats = () => {
       try {
         statsInstance = new WebStats({
-          host: "136.243.93.46:25560",
+          host: "https://136.243.93.46:25560/",
           tableParent: tableContainerRef.current,
           updateInterval: 30 * minute,
           showSkins: true,
