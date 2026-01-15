@@ -13,7 +13,7 @@ type Props = {
 const RuleCollapse: React.FC<Props> = ({
   id,
   title,
-  level = 2,
+  level = 3,
   defaultOpen = false,
   open,
   onToggle,
