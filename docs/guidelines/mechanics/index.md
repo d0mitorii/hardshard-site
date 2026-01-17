@@ -32,6 +32,12 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     to="/docs/mechanics/more-food"
   /> -->
   <Card 
+    title="Ветры Энда"
+    description="Обноавление Энда? ну практически... Усложнённый дракон, стили для элитр, хорусовое око и другое."
+    preview="/img/mechanics/winds_of_end/winds_of_end_logo.jpg"
+    to="/docs/mechanics/winds_of_end"
+  />
+  <Card 
     title="Праздник ледосладия"
     description="Новогодний ивент. Ёлка, гоблины и волшебная пыльца..."
     preview="/img/mechanics/winter_event/winter_event_logo.png"
