@@ -5,12 +5,20 @@ sidebar_position: 2
 slug: /mechanics
 ---
 
-# Механики
-
 import DocCardList from '@theme/DocCardList';
 import { CardSection, Card } from "@site/src/components/CardComponent"
 
+# Механики
+
+Механики на сервере HardShard были тщательно переработаны и дополнены, чтобы предложить игрокам более глубокий и увлекательный игровой процесс. Все ключевые элементы, такие как взаимодействие с миром, ресурсы и прогресс персонажа, получили улучшения, которые делают игру более насыщенной и динамичной.
+
 <CardSection>
+  <!-- <Card 
+    title="Дополнение «Приливы Тьмы»"
+    description="Новые скалковые мобы, броня, инструменты и разломы"
+    preview="/img/mechanics/tides_of_darkness/tides-of-darkness-banner.png"
+    to="/docs/mechanics/tides-of-darkness"
+  />
   <Card 
     title="Зип-рельсы"
     description="Разнообразьте свой опыт путешествия на вагонетке."
@@ -22,12 +30,36 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     description="Более 50 новых рецептов блюд и не только."
     preview="/img/mechanics/more_food/joshs-more-foods.png"
     to="/docs/mechanics/more-food"
+  /> -->
+  <Card 
+    title="Ветры Энда"
+    description="Обновление Энда? ну практически... Усложнённый дракон, стили для элитр, хорусовое око и другое."
+    preview="/img/mechanics/winds_of_end/winds_of_end_logo.jpg"
+    to="/docs/mechanics/winds_of_end"
+  />
+  <Card 
+    title="Праздник ледосладия"
+    description="Новогодний ивент. Ёлка, гоблины и волшебная пыльца..."
+    preview="/img/mechanics/winter_event/winter_event_logo.png"
+    to="/docs/mechanics/winter_event"
   />
   <Card 
     title="Напитки и алковарение"
     description="Варите собственные напитки: алкогольные и не очень."
     preview="/img/mechanics/drinks_and_brewery/brewery-and-drinks-banner.png"
     to="/docs/mechanics/drinks-and-brewery"
+  />
+    <Card 
+    title="Головные уборы"
+    description="Дополни образ и привнеси разнообразие в ролевую игру."
+    preview="/img/mechanics/hats/novie-shlyapi-na-hardshard.png"
+    to="/docs/mechanics/hats"
+  />
+  <!-- <Card 
+    title="Шаблоны для брони и инструментов"
+    description="Новые шаблоны для отделки брони и инструментов."
+    preview="/img/mechanics/new-trims/more-trims-banner.png"
+    to="/docs/mechanics/trims"
   />
   <Card 
     title="Настольные игры"
@@ -36,21 +68,9 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     to="/docs/mechanics/table-games"
   />
   <Card 
-    title="Шаблоны для брони и инструментов"
-    description="Новые шаблоны для отделки брони и инструментов."
-    preview="/img/mechanics/new-trims/more-trims-banner.png"
-    to="/docs/mechanics/trims"
-  />
-  <Card 
-    title="Головные уборы"
-    description="Дополни образ и привнеси разнообразие в ролевую игру."
-    preview="/img/mechanics/hats/novie-shlyapi-na-hardshard.png"
-    to="/docs/mechanics/hats"
-  />
-  <Card 
     title="Усложненный Дракон Края"
     description="Финальная битва с боссом стала сложнее."
-    preview="/img/mechanics/ender_dragon/ender_dragon_banner.png"
+    preview="/img/mechanics/ender_dragon/ender-dragon-banner.png"
     to="/docs/mechanics/ender-dragon"
   />
   <Card 
@@ -58,5 +78,11 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     description="Украшайте свои постройки и интерьеры при помощи различных цепей и веревок."
     preview="/img/mechanics/catenary/catenary-banner.png"
     to="/docs/mechanics/catenary"
+  /> -->
+  <Card 
+    title="Прочие механики"
+    description="Остальные механики сервера одним предложением."
+    preview="/img/mechanics/other/other-banner.png"
+    to="/docs/mechanics/other"
   />
 </CardSection>

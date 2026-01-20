@@ -7,3 +7,12 @@ DrKolbasa:
   name: DrKolbasa
   title: Бывший администратор MainSMP
   image_url: https://i.ibb.co/Ycd3QqD/image.png
+legal-department:
+  name: Совет заканодателей
+  title: Юридический департамент Администрации HardShard
+  image_url: https://i.ibb.co/qYt4vHV/image.png
+
+supervisory-board:
+  name: Наблюдательный совет Анрими-Эссивы
+  title: Контролирующий орган города
+  image_url: https://i.ibb.co/qnjm9CV/image.png

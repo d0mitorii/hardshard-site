@@ -14,13 +14,17 @@ export function Card(props) {
     <article className='col col--6 margin-bottom--lg'>
       <Link
         to={props.to}
-        className="card padding--lg cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module"
+        className="card padding--lg cardContainer"
         style={{height: "100%"}}
       >
         <div className=''>
-          <div className='img-card margin-bottom--md'>
-            <img src={props.preview} className='' style={{flex: 1, height: "100%"}}/>
-          </div>
+          {
+            props.preview ?
+            <div className='img-card margin-bottom--md'>
+              <img src={props.preview} className='' style={{flex: 1, height: "100%"}}/>
+            </div> :
+            undefined
+          }
           <h3>
             {props.title} {props.new ? <span className="badge badge--info">Новинка</span> : null}
           </h3>

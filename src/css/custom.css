@@ -6,19 +6,19 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #397ACB;
-  --ifm-color-primary-dark: #2066C5;
+  --ifm-color-primary: #397acb;
+  --ifm-color-primary-dark: #2066c5;
   --ifm-color-primary-darker: #114ea4;
   --ifm-color-primary-darkest: #083068;
-  --ifm-color-primary-light: #4389DC;
-  --ifm-color-primary-lighter: #72A7DF;
-  --ifm-color-primary-lightest: #9BC3E4;
+  --ifm-color-primary-light: #4389dc;
+  --ifm-color-primary-lighter: #72a7df;
+  --ifm-color-primary-lightest: #9bc3e4;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #4183d3;
   --ifm-color-primary-dark: #246acc;
   --ifm-color-primary-darker: #1756af;
@@ -29,6 +29,12 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+@font-face {
+  font-family: "Minecraft";
+  src: url("../fonts/minecraft-seven-java.otf") format("truetype");
+  font-display: swap;
+}
+
 .img-card {
   border-radius: 0.5rem;
   height: 12rem;
@@ -36,6 +42,51 @@
   justify-content: center;
   align-items: center;
   overflow: hidden;
+}
+
+.footer {
+  position: relative;
+  z-index: 0;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.6),
+    rgba(0, 0, 0, 0.3),
+    transparent
+  );
+  color: #fff; /* или наследовать */
+  backdrop-filter: blur(4px); /* легкое размытие фона */
+  -webkit-backdrop-filter: blur(4px); /* для Safari */
+}
+
+:root[data-theme="light"] .footer {
+  background: linear-gradient(
+    to top,
+    rgba(255, 255, 255, 0.9),
+    rgba(255, 255, 255, 0.8),
+    transparent
+  );
+  color: #000;
+}
+
+.splash-bg {
+  padding: 0.5rem 2.5rem;
+  background: radial-gradient(
+    ellipse at center,
+    rgba(255, 255, 255, 0.85) 0%,
+    rgba(255, 255, 255, 0.6) 50%,
+    rgba(255, 255, 255, 0) 80%
+  );
+  backdrop-filter: blur(2px);
+}
+
+:root[data-theme="dark"] .splash-bg {
+  background: radial-gradient(
+    ellipse at center,
+    rgba(24, 25, 26, 0.85) 0%,
+    rgba(24, 25, 26, 0.6) 50%,
+    rgba(24, 25, 26, 0) 80%
+  );
+  backdrop-filter: blur(2px);
 }
 
 .img-card img {
@@ -54,10 +105,18 @@
 }
 
 .splash-text {
-  animation: pulse 2s infinite;
+  /* Базовые стили */
+  padding-top: 0.5rem;
+  animation: pulse 0.5s infinite;
   text-align: center;
-  font-family: var(--ifm-font-family-monospace);
-  font-size: 1.5rem;
+  font-family: "Minecraft", var(--ifm-font-family-monospace);
+  transition: font-size 0.2s;
+  color: #ffff00;
+  white-space: pre-line;
+}
+
+:root[data-theme="light"] .splash-text {
+  text-shadow: 0 0 6px #000, 0 0 6px #bbb;
 }
 
 @keyframes pulse {
@@ -65,7 +124,7 @@
     transform: scale(1);
   }
   50% {
-    transform: scale(1.1);
+    transform: scale(1.05);
   }
   100% {
     transform: scale(1);
@@ -83,4 +142,97 @@
   border-radius: 0.5rem;
   margin-top: 0.5rem;
   white-space: nowrap;
+}
+
+.cardContainer {
+  --ifm-link-color: var(--ifm-color-emphasis-800);
+  --ifm-link-hover-color: var(--ifm-color-emphasis-700);
+  --ifm-link-hover-decoration: none;
+  box-shadow: 0 1.5px 3px 0 rgb(0 0 0 / 15%);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  transition: all var(--ifm-transition-fast) ease;
+  transition-property: border, box-shadow;
+}
+
+.cardContainer:hover {
+  border: 1px solid var(--ifm-color-primary-dark);
+  box-shadow: 0 2px 4px 0 rgb(0 0 0 / 25%);
+  cursor: pointer;
+  transition: all var(--ifm-transition-fast) ease;
+  transition-property: border, box-shadow;
+}
+
+.players-note {
+  letter-spacing: 0.03em;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+  text-align: center;
+  border-radius: 0.5rem;
+  padding: 0.5rem 0;
+  font-weight: normal;
+}
+
+:root[data-theme="dark"] .players-note {
+  text-shadow: 0 1px 0 #222, 0 0 6px #000, 0 0 12px #46413f;
+}
+
+/* RuleCollapse стили */
+.rule-collapse {
+  background: transparent;
+  border: none;
+  margin: 0 0 1rem 0;
+  padding: 0;
+}
+
+.rule-collapse__heading {
+  margin: 0;
+  padding: 0;
+}
+
+.rule-collapse__summary {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  width: 100%;
+  background: transparent;
+  border: none;
+  padding: 0.15rem 0;
+  text-align: left;
+  cursor: pointer;
+  font: inherit;
+  color: inherit;
+  outline: none;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.06);
+}
+
+:root[data-theme="dark"] .rule-collapse__summary {
+  border-bottom-color: rgba(255,255,255,0.06);
+}
+
+/* стрелка */
+.rule-collapse__chevron {
+  transition: transform 0.18s ease;
+  margin-left: auto;
+  display: inline-block;
+  transform-origin: center;
+  color: var(--ifm-color-emphasis);
+}
+
+/* поворот стрелки при открытом состоянии */
+.rule-collapse__chevron.is-open {
+  transform: rotate(90deg);
+}
+
+/* заголовок (оставляем стиль заголовка) */
+.rule-collapse__title {
+  display: inline;
+}
+
+/* контент — прозрачный фон, плавное раскрытие (простое) */
+.rule-collapse__content {
+  background: transparent;
+  padding: 0.5rem 0 0.25rem 0;
+  margin: 0;
+  color: inherit;
 }

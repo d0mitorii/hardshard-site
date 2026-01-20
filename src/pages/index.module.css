@@ -3,6 +3,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  z-index: 0;
 }
 
 @media screen and (max-width: 996px) {
@@ -14,5 +15,49 @@
 @media screen and (max-width: 425px) {
   .hero__title__new {
     font-size: 2rem;
+  }
+}
+
+.backgroundMedia {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  z-index: -2;
+  pointer-events: none;
+  opacity: 0.7; /* можно изменить */
+}
+
+:root[data-theme="light"] .backgroundMedia {
+  opacity: 0.2;
+}
+
+.backgroundOverlayBottom {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  height: 20vh;
+  z-index: -1;
+  pointer-events: none;
+  background: linear-gradient(to top, #fff 0%, transparent 100%);
+}
+
+:root[data-theme="dark"] .backgroundOverlayBottom {
+  background: linear-gradient(to top, #18191a 0%, transparent 100%);
+}
+
+.splashMobile {
+  display: none;
+}
+
+@media (max-width: 1000px) {
+  .splashDesktop {
+    display: none;
+  }
+  .splashMobile {
+    display: flex;
   }
 }

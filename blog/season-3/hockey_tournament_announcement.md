@@ -6,8 +6,6 @@ tags: [News, Hockey tournament, Event]
 date: 2023-08-26
 ---
 
-import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
-
 ![EastRane и Nerkid играют в хоккей](./img/eastrane-i-nerkid-igrayut-v-hokkey.jpg)
 
 Арена для хоккея в зоне игр построена уже достаточно давно, однако турнир до сих пор не был проведён. Пришло время это исправить!

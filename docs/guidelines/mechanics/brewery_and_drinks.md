@@ -76,7 +76,7 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
 
 **Дистилляция** — это перегонка, испарение жидкости с последующим охлаждением и конденсацией паров. В процессе перегонки, процент алкоголя в напитках увеличивается с каждым циклом.
 
-Для проведения дистилляции вам потребуется <Block.sm item={["brewing_stand_(empty)", "cobblestone"]} name="Зейльеварка" />, <Item.sm item="glowstone_dust" name="Светокаменная пыль"/> (она не расходуется в процессе, используется как фильтр) и <Item.sm item={["beer", "blackbear", "gin", "rum", "whiskey", "appleliqueur", "applemead"]} name="Исходный напиток" />.
+Для проведения дистилляции вам потребуется <Block.sm item={["brewing_stand_(empty)", "cobblestone"]} name="Зельеварка" />, <Item.sm item="glowstone_dust" name="Светокаменная пыль"/> (она не расходуется в процессе, используется как фильтр) и <Item.sm item={["beer", "blackbear", "gin", "rum", "whiskey", "appleliqueur", "applemead"]} name="Исходный напиток" />.
 
 ### Выдержка
 
@@ -255,7 +255,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="vodka" name="Водка" /></td>
-      <td><Item.sm item="potato" name="x5-7 стаков Картошки" /></td>
+      <td><Item.sm item="potato" name="x7-13 Картошки" /></td>
       <td>Долго</td>
       <td>Да</td>
       <td>Нет</td>
@@ -280,7 +280,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
     </tr>
     <tr>
       <td><Item.sm item="tequila" name="Текила" /></td>
-      <td><Block.sm item="cactus" name="x1 Кактус" /></td>
+      <td><Block.sm item="cactus" name="x6-9 Кактуса" /></td>
       <td>Долго</td>
       <td>Да</td>
       <td>Долго / Береза</td>
@@ -329,7 +329,7 @@ Cуществует три вида бочек: [маленькая](#small-barr
   </tbody>
 </table>
 
-## Добавить свой напиток
+<!-- ## Добавить свой напиток
 
 Вы можете добавить собственный напиток на сервер с уникальным рецептом и эффектами. Для этого предоставьте <Item.sm item="paper" name="Счастливый билетик (напиток)" color="#5454FC" /> [Техническому администратору](/docs/admins#maintenance-and-supervision-department-employees) или его [Заместителю](/docs/admins#maintenance-and-supervision-department-employees).
 
@@ -337,4 +337,4 @@ Cуществует три вида бочек: [маленькая](#small-barr
 
 Как получить <Item.sm item="paper" name="Счастливый билетик (напиток)" color="#5454FC" /> и другие предметы читайте в статье [Система голосования](/docs/voting).
 
-:::
+::: -->

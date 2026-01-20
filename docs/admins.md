@@ -35,16 +35,6 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
       <td><PhotoNamePlayer nickname="Gohtar"/></td>
       <td>Разработка и настройка серверов, поддержание их работоспособности, обновление и улучшение игровых сборок, исправление технических ошибок</td>
     </tr>
-    <!-- <tr>
-      <td>Заместитель технического администратора</td>
-      <td><PhotoNamePlayer nickname="Monteny"/></td>
-      <td>Разработка и настройка серверов, поддержание их работоспособности, обновление и улучшение игровых сборок, исправление технических ошибок</td>
-    </tr> -->
-    <!-- <tr>
-      <td>Администратор веб-сайта</td>
-      <td><PhotoNamePlayer nickname="Monteny"/></td>
-      <td>Управление технической частью, содержимым и структурой веб-сайта проекта, разработка и внедрение новых функции</td>
-    </tr> -->
     <tr>
       <td>Надзорный инспектор</td>
       <td><PhotoNamePlayer nickname="yantar1k"/></td>
@@ -53,8 +43,9 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     <tr>
       <td>Технический специалист</td>
       <td>
-        <!-- <PhotoNamePlayer nickname="notfoundname" /><br /> -->
-        <PhotoNamePlayer nickname="mulciber_" />
+        <PhotoNamePlayer nickname="notfoundname" /><br />
+        <PhotoNamePlayer nickname="mulciber_" /><br />
+        <PhotoNamePlayer nickname="MurlocProger" />
       </td>
       <td>Разработка контента, исправление технических недостатков сборки сервера, тестирование нововведений</td>
     </tr>
@@ -84,14 +75,17 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
   <tbody>
     <tr>
       <td>Комьюнити-менеджер</td>
-      <td><PhotoNamePlayer nickname="Flammablelion"/></td>
+      <td>
+        <PhotoNamePlayer nickname="Flammablelion"/><br />
+        <PhotoNamePlayer nickname="mamochkaa"/></td>
       <td>Сбор обратной связи от игроков, организация мероприятий, работа с рекламой</td>
     </tr>
     <tr>
       <td>Специалист по обработке заявок</td>
       <td>
         <PhotoNamePlayer nickname="yantar1k"/><br />
-        <PhotoNamePlayer nickname="Flammablelion"/>
+        <PhotoNamePlayer nickname="Flammablelion"/><br />
+        <PhotoNamePlayer nickname="mamochkaa"/>
       </td>
       <td>Рассмотрение заявок по добавлению игроков в вайтлист серверов</td>
     </tr>
@@ -111,7 +105,10 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
     </tr>
     <tr>
       <td>Администратор Telegram-канала объявлений</td>
-      <td><PhotoNamePlayer nickname="Flammablelion"/></td>
+      <td>
+        <PhotoNamePlayer nickname="Flammablelion"/><br />
+        <PhotoNamePlayer nickname="mamochkaa"/>
+      </td>
       <td>Редакция и размещение сообщений игроков в канале объявлений HardShard</td>
     </tr>
     <tr>
@@ -119,16 +116,16 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
       <td><PhotoNamePlayer nickname="Kemerfund"/></td>
       <td>Конфигурация основных параметров Telegram-чата, набор и курирование модераторов</td>
     </tr>
-    <!-- <tr>
-      <td>Администратор Discord-сервера HS</td>
-      <td><PhotoNamePlayer nickname="Monteny"/></td>
-      <td>Конфигурация основных настоек Discord-сервера HS, набор и курирование модераторов</td>
-    </tr> -->
     <tr>
-      <td>Модератор Discord-сервера HS</td>
-      <td><PhotoNamePlayer nickname="Nerkid"/></td>
-      <td>Модерация сообщений игроков в рамках Discord-сервера</td>
+      <td>Администратор Discord-сервера HS</td>
+      <td><PhotoNamePlayer nickname="notfoundname"/></td>
+      <td>Конфигурация основных настоек Discord-сервера HS, набор и курирование модераторов</td>
     </tr>
+    <!-- <tr>
+      <td>Модератор Discord-сервера HS</td>
+      <td>Вакантно</td>
+      <td>Модерация сообщений игроков в рамках Discord-сервера</td>
+    </tr> -->
   </tbody>
 </table>
 
@@ -165,7 +162,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
   </tbody>
 </table>
 
-## Советник Администрации HardShard {#advisor}
+<!-- ## Советник Администрации HardShard {#advisor}
 
 ### Функции {#advisor-functions}
 
@@ -197,4 +194,4 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
       <td>Представление советов и рекомендаций Админстрации HardShard в вопросах, связанных с обеспечением полноценной работы проекта Vintage Story</td>
     </tr>
   </tbody>
-</table>
+</table> -->

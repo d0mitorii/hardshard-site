@@ -2,7 +2,7 @@
 title: Испытание Джека
 slug: /jacks-test
 authors: [admin]
-tags: [News, Event]
+tags: [News, Event, Halloween]
 date: 2023-10-30
 ---
 
