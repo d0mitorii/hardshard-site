@@ -16,7 +16,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 <!-- truncate -->
 
-:::warning Внимание
+:::info примечание
 
 Если вы хотите зайти на MainSMP, то вам нужно заполнить эту [форму](https://docs.google.com/forms/d/e/1FAIpQLSd439lToKD3iWyeyhokr8FDmnviJtvespjAiwM_0_tl2tLbHw/viewform).
 
