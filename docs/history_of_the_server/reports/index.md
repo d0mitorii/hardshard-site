@@ -6,6 +6,16 @@ slug: /reports
 
 <div className="row">
   <div className="col col--6">
+    <h2>Четвёртый сезон</h2>
+
+    <ul>
+      <li><a href="/docs/report-1-dec-jan-2026">HardShard | IV сезон | Отчёт за декабрь – январь 2026 (№1)</a></li>
+    </ul>
+  </div>
+
+</div>
+<div className="row">
+  <div className="col col--6">
     <h2>Первый сезон</h2>
 
     <ul>
