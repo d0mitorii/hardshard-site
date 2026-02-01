@@ -37,12 +37,12 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     preview="/img/mechanics/winds_of_end/winds_of_end_logo.jpg"
     to="/docs/mechanics/winds_of_end"
   />
-  <Card 
+  <!-- <Card 
     title="Праздник ледосладия"
     description="Новогодний ивент. Ёлка, гоблины и волшебная пыльца..."
     preview="/img/mechanics/winter_event/winter_event_logo.png"
     to="/docs/mechanics/winter_event"
-  />
+  /> -->
   <Card 
     title="Напитки и алковарение"
     description="Варите собственные напитки: алкогольные и не очень."
