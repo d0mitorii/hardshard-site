@@ -8,7 +8,8 @@ sidebar_position: 2
 import RuleCollapse from '@site/src/components/RuleCollapse';
 
 <span className="badge badge--primary">**Утверждены Администрацией HardShard:** 6 августа 2023 г.</span> <br />
-<span className="badge badge--success">**С изменениями, одобренными к IV сезону:** 30 января 2026 г.</span>
+<span className="badge badge--success">**С изменениями, одобренными к IV сезону:** 17 января 2026 г.</span> <br />
+<span className="badge badge--secondary">**Действующая редакция:** 30 января 2026 г.</span>
 
 # Правила Сообщества
 
