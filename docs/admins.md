@@ -86,6 +86,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
         <PhotoNamePlayer nickname="yantar1k"/><br />
         <PhotoNamePlayer nickname="Flammablelion"/><br />
         <PhotoNamePlayer nickname="mamochkaa"/>
+        <PhotoNamePlayer nickname="mulciber_" /><br />
       </td>
       <td>Рассмотрение заявок по добавлению игроков в вайтлист серверов</td>
     </tr>

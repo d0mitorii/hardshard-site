@@ -37,6 +37,12 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     preview="/img/mechanics/winds_of_end/winds_of_end_logo.jpg"
     to="/docs/mechanics/winds_of_end"
   />
+  <Card 
+    title="Ребаланс торговли"
+    description="Официальный экспериментальный датапак, который меняет сделки библиотекаря и странствующего торговца, включенный на нашем сервере."
+    preview="/img/mechanics/rebalans_villagers.png"
+    to="https://ru.minecraft.wiki/w/Балансировка_торговли"
+  />
   <!-- <Card 
     title="Праздник ледосладия"
     description="Новогодний ивент. Ёлка, гоблины и волшебная пыльца..."
