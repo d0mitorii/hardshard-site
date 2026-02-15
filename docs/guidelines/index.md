@@ -21,9 +21,4 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     description="Улучшение игрового опыта и возможностей для взаимодействия с окружающим миром."
     to="/docs/mechanics"
   />
-  <!-- <Card 
-    title="Ролевая игра"
-    description="Создавайте свои собственные истории и взаимодействуйте с другими персонажами."
-    to="/docs/roleplay"
-  /> -->
 </CardSection>

@@ -2,6 +2,7 @@
 title: Отчёт № 4. Прогресс за октябрь – ноябрь 2020
 description: Четвёртый отчёт сервера MainSMP от 16.11.2020.
 slug: /report-4-oct-nov-2020
+sidebar_position: 4
 authors: [DrKolbasa]
 tags: [Report, Season 1]
 date: 2020-11-16
@@ -11,6 +12,8 @@ import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 # MainSMP | I сезон | Отчёт за октябрь – ноябрь 2020
+
+Автор: DrKolbasa, бывший администратор MainSMP.
 
 Мне одному кажется, что эти четыре месяца ощущались как один? В любом случае, пора подводить итоги за последние четыре недели!
 
@@ -25,7 +28,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 ## Прогресс за этот месяц {#monthly-progress}
 
 <ImageZoom
-  src="/img/reports/report-4-oct-nov-2020/rep4-pic1-dalekograd-flammablelion.png"
+  src="/img/reports/season-1/report-4-oct-nov-2020/rep4-pic1-dalekograd-flammablelion.png"
   alt="Общий вид города Далёкоград игрока Flammablelion на первом сезоне"
   description="Далёкоград"
 />
@@ -33,7 +36,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 Начнём, пожалуй, с Далёкограда — небольшая база/город, который парит в воздухе, стоя на нескольких столбах. Главная его особенность — месторасположение, а именно 100 тысяч блоков от спавна! Хотя это большое расстояние, но Далёкоград имеет большую популярность.
 
 <ImageZoom
-  src="/img/reports/report-4-oct-nov-2020/rep4-pic2-obnovlonnij-gorod-rydyk777-i-fourame-1.png"
+  src="/img/reports/season-1/report-4-oct-nov-2020/rep4-pic2-obnovlonnij-gorod-rydyk777-i-fourame-1.png"
   alt="Скриншот № 1 обновлённого города Шрекитовилль rydyk777 и FouRAMe на первом сезоне"
   description="Обновлённый город rydyk777 и FouRAMe"
 />
@@ -41,49 +44,49 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 В прошлом [отчёте](/docs/report-3-sept-oct-2020) Я упомянул про Шрекитовилль (до сих пор испытываю испанский стыд от этого названия), который тогда только начал своё существование. Сейчас же этот город развился в разы, что можно увидеть на скриншотах.
 
 <ImageZoom
-  src="/img/reports/report-4-oct-nov-2020/rep4-pic3-obnovlonnij-gorod-rydyk777-i-fourame-2.png"
+  src="/img/reports/season-1/report-4-oct-nov-2020/rep4-pic3-obnovlonnij-gorod-rydyk777-i-fourame-2.png"
   alt="Скриншот № 2 обновлённого города Шрекитовилль rydyk777 и FouRAMe на первом сезоне"
   description="P.S. Данный скриншот сделал с ресурс-паком"
 />
 
 <ImageZoom
-  src="/img/reports/report-4-oct-nov-2020/rep4-pic4-obnovlonnij-gorod-rydyk777-i-fourame-3.png"
+  src="/img/reports/season-1/report-4-oct-nov-2020/rep4-pic4-obnovlonnij-gorod-rydyk777-i-fourame-3.png"
   alt="Скриншот № 3 обновлённого города Шрекитовилль rydyk777 и FouRAMe на первом сезоне"
 />
 
 <ImageZoom
-  src="/img/reports/report-4-oct-nov-2020/rep4-pic5-obnovlonnij-gorod-rydyk777-i-fourame-4.png"
+  src="/img/reports/season-1/report-4-oct-nov-2020/rep4-pic5-obnovlonnij-gorod-rydyk777-i-fourame-4.png"
   alt="Скриншот № 4 обновлённого города Шрекитовилль rydyk777 и FouRAMe на первом сезоне"
 />
 
 Ну и давайте ещё посмотрим на парочку одиночных скриншотов!
 
 <ImageZoom
-  src="/img/reports/report-4-oct-nov-2020/rep4-pic6-obnovlonnij-hab-v-pustine.png"
+  src="/img/reports/season-1/report-4-oct-nov-2020/rep4-pic6-obnovlonnij-hab-v-pustine.png"
   alt="Обновлённый пустынный храм (хаб) на первом сезоне"
   description="Обновлённая общая база в пустыне"
 />
 
 <ImageZoom
-  src="/img/reports/report-4-oct-nov-2020/rep4-pic7-stol-peregovorov.png"
+  src="/img/reports/season-1/report-4-oct-nov-2020/rep4-pic7-stol-peregovorov.png"
   alt="Стол переговоров различных городов на первом сезоне"
   description="Стол переговоров различных городов"
 />
 
 <ImageZoom
-  src="/img/reports/report-4-oct-nov-2020/rep4-pic8-gorod-gromgt.png"
+  src="/img/reports/season-1/report-4-oct-nov-2020/rep4-pic8-gorod-gromgt.png"
   alt="Город игрока GromGT на первом сезоне"
   description="Безымянный город GromGT. Пока что в разработке"
 />
 
 <ImageZoom
-  src="/img/reports/report-4-oct-nov-2020/rep4-pic9-ferma-hoglinov.png"
+  src="/img/reports/season-1/report-4-oct-nov-2020/rep4-pic9-ferma-hoglinov.png"
   alt="Ферма хоглинов в Незере на первом сезоне"
   description="Ферма хоглинов"
 />
 
 <ImageZoom
-  src="/img/reports/report-4-oct-nov-2020/rep4-pic10-derevnya-pedrilko.png"
+  src="/img/reports/season-1/report-4-oct-nov-2020/rep4-pic10-derevnya-pedrilko.png"
   alt="Вручную построенная деревня игрока Pedrilko на первом сезоне"
   description="Деревня Pedrilko (полностью построенная своими руками!)"
 />
@@ -91,7 +94,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 ## Хэллоуинский ивент {#halloween-event}
 
 <ImageZoom
-  src="/img/reports/report-4-oct-nov-2020/rep4-pic11-rezultati-halloween-iventa.png"
+  src="/img/reports/season-1/report-4-oct-nov-2020/rep4-pic11-rezultati-halloween-iventa.png"
   alt="Результаты Хэллоуинского ивента на первом сезоне"
   description="Результаты данного ивента"
 />

@@ -19,7 +19,7 @@ function HomepageHeader() {
           style={{
             position: "absolute",
             left: "75%",
-            top: "42%",
+            top: "50%",
             transform: "translate(-50%, -40%) rotate(-20deg)",
             zIndex: 2,
             pointerEvents: "none",
@@ -28,12 +28,12 @@ function HomepageHeader() {
         >
           <SplashComponent />
         </div>
-        <Heading as="h1" className="hero__title">
+        <Heading as="h1" className={styles.hero__title_custom}>
           <img
-            src="/img/hardshard-logo-full-2.png"
+            src="/img/hardshard-logo-full-valentines-style.png"
             alt="HardShard Logo"
             draggable="false"
-            style={{ maxHeight: "170px"}}
+            className={styles.heroLogo}
           />
         </Heading>
         <div className="row margin-top--lg">
@@ -61,10 +61,7 @@ export default function Home(): JSX.Element {
   return (
     <>
       <video autoPlay muted loop playsInline className={styles.backgroundMedia}>
-        <source
-          src="/videos/background-winter.webm"
-          type="video/mp4"
-        />
+        <source src="/videos/backgound-valentine-day.webm" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       <div className={styles.backgroundOverlayBottom}></div>

@@ -9,7 +9,7 @@ const fetchPlayerList = async () => {
       throw new Error("Error in request or response.");
     }
     const data = await response.json();
-    return [data.players.online, data.players.max, data.players.list] || [];
+    return [data.players.online, data.players.max, data.players.list];
   } catch (error) {
     console.error("Error:", error);
     return [];
@@ -61,14 +61,14 @@ export const PlayersList = () => {
             нашем телеграм-канале
           </a>
         </h3> */}
-        <h2>Игроков на сервере {online} / {maxPlayers}</h2>
-        <div style={{alignContent: "center",}}>
-          {
-            playersList &&
+        <h2>
+          Игроков на сервере {online} / {maxPlayers}
+        </h2>
+        <div style={{ alignContent: "center" }}>
+          {playersList &&
             playersList.map((player, index) => (
-              <PhotoNamePlayer nickname={player.name} key={index}/>
-            ))
-          }
+              <PhotoNamePlayer nickname={player.name} key={index} />
+            ))}
         </div>
       </div>
     </div>

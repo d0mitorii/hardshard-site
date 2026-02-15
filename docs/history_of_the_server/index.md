@@ -23,4 +23,10 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     preview="/img/history_of_the_server/hardshard-wiki-logo-s-fonom.jpg"
     to="https://wiki.hardshard.ru/"
   />
+  <Card 
+    title="Архив"
+    description="Архив неактуальных статей. Прошедшие ивенты, удалённые механики, ролеплей прошлых сезонов"
+    preview="/img/history_of_the_server/archive-logo.jpg"
+    to="/docs/archive"
+  />
 </CardSection>

@@ -1,5 +1,5 @@
 .heroBanner {
-  padding: 6rem 0;
+  padding: 3.7rem 0 4rem;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -18,6 +18,20 @@
   }
 }
 
+.hero__title_custom {
+  position: relative;
+  left: 1.5%;
+  height: 210px;
+  align-items: flex-end;
+}
+
+.heroLogo {
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
 .backgroundMedia {
   position: fixed;
   top: 0;
@@ -31,7 +45,7 @@
 }
 
 :root[data-theme="light"] .backgroundMedia {
-  opacity: 0.2;
+  opacity: 0.5;
 }
 
 .backgroundOverlayBottom {
