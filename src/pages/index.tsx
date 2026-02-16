@@ -12,14 +12,14 @@ import { CopyButton } from "../components/CopyButton";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("padding-bottom--xl", styles.heroBanner)}>
+    <header className={clsx("padding-bottom--lg", styles.heroBanner)}>
       <div className="container" style={{ position: "relative" }}>
         <div
           className={styles.splashDesktop}
           style={{
             position: "absolute",
-            left: "75%",
-            top: "50%",
+            left: "78%",
+            top: "45%",
             transform: "translate(-50%, -40%) rotate(-20deg)",
             zIndex: 2,
             pointerEvents: "none",
@@ -51,6 +51,14 @@ function HomepageHeader() {
             </Link>
           </div>
           <CopyButton />
+        </div>
+        <div className={"row"} style={{ marginTop: 20, gap: 24, justifyContent: "center" }}>
+          <Link
+            className={`button button--lg button--primary ${styles.eventBadge}`}
+            to="/docs/mechanics/morganas-triumph"
+          >
+            💖 Текущий ивент: «Торжество Морганы»
+          </Link>
         </div>
       </div>
     </header>

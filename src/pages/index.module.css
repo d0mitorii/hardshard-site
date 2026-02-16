@@ -21,7 +21,6 @@
 .hero__title_custom {
   position: relative;
   left: 1.5%;
-  height: 210px;
   align-items: flex-end;
 }
 
@@ -74,4 +73,10 @@
   .splashMobile {
     display: flex;
   }
+}
+
+.eventBadge {
+  --ifm-color-primary: #dc5e5d;
+  --ifm-color-primary-dark: #ec4d4d;
+  white-space: normal;
 }

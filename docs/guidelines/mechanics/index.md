@@ -32,6 +32,12 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     to="/docs/mechanics/more-food"
   /> -->
   <Card 
+    title="Торжество Морганы"
+    description="Праздник любви, романтики и испытаний! Долгожданный S*x Update...."
+    preview="/img/mechanics/valentines_day/morgans-triumph-logo.jpg"
+    to="/docs/mechanics/morganas-triumph"
+  />
+  <Card 
     title="Ветры Энда"
     description="Обновление Энда? ну практически... Усложнённый дракон, стили для элитр, хорусовое око и другое."
     preview="/img/mechanics/winds_of_end/winds_of_end_logo.jpg"
