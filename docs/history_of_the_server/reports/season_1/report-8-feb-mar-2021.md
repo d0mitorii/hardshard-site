@@ -1,7 +1,8 @@
 ---
-title: Отчёт №8. Прогресс за февраль – март 2021
+title: Отчёт № 8. Прогресс за февраль – март 2021
 description: Восьмой отчёт сервера MainSMP от 16.03.2021.
 slug: /report-8-feb-mar-2021
+sidebar_position: 8
 authors: [DrKolbasa]
 tags: [Report, Season 1]
 date: 2021-03-16
@@ -10,7 +11,11 @@ date: 2021-03-16
 import { ImageZoom } from "@site/src/components/ImageZoomComponent"
 import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
-# MainSMP: Прогресс за февраль-март 2021 (№8)
+# MainSMP | I сезон | Отчёт за февраль-март 2021 (№8)
+
+Автор: DrKolbasa, бывший администратор MainSMP.
+
+Вот и наступила весна! Птички поют, травка зеленеет, гриферы взорвали Фромград _(см. ниже)_... Что ещё нужно для счастья? Разве что отчёт за последний месяц, который вы как раз читаете, да 1.17, которая выйдет летом, но не будем о грустном, давайте же посмотрим на прогресс MainSMP за последний месяц!
 
 :::info примечание
 
@@ -18,12 +23,10 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 :::
 
-Вот и наступила весна! Птички поют, травка зеленеет, гриферы взорвали Фромград _(см. ниже)_... Что ещё нужно для счастья? Разве что отчёт за последний месяц, который вы как раз читаете, да 1.17, которая выйдет летом, но не будем о грустном, давайте же посмотрим на прогресс MainSMP за последний месяц!
-
 ### Прогресс за этот месяц
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic1.png"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic1.png"
   alt="Статуя Игоря Фромгейта"
   description="Статуя Игоря Фромгейта"
 />
@@ -31,7 +34,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 Начнём пожалуй не с самой важной, а с самой эпичной постройки месяца: статуи Игоря Фромгейта, которая была построена по подобию статуи Христа-Искупителя в Рио-де-Жанейро.
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic2.jpg"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic2.jpg"
   alt="Статуя Христа-Искупителя. Источник: wikipedia.org"
   description="Статуя Христа-Искупителя. Источник: wikipedia.org"
 />
@@ -39,7 +42,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 Сама статуя находится в Рудукополе, будущий город, в данный момент в котором находятся только стены, да сама статуя. Желаю ребятам удачи в её постройке!
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic3.png"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic3.png"
   alt="Фромград"
   description="Фромград"
 />
@@ -47,13 +50,13 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 Продолжим мы нашим долгостроем: обновлённый Фромград. Сейчас завершенно строительство новой точки спавна и дороги до самого Фромграда. Сама точка спавна находится в корабле Энда, который был скопировал почти 1 к 1. Сама же дорога в Фромград была засажена деревьями, а на её конце был заново построен приют, который теперь имеет небольшую авто-ферму тростника.
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic4.png"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic4.png"
   alt="Точка спавна. Вид изнутри (извиняюсь за затемнённый текст)"
   description="Точка спавна. Вид изнутри (извиняюсь за затемнённый текст)"
 />
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic5.png"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic5.png"
   alt="Приют, построенный руками genkaTOP"
   description="Приют, построенный руками genkaTOP"
 />
@@ -61,7 +64,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 Хоть и скорость работы медленная, Я бы назвал её достаточно хорошей. Надеюсь мы успеем достроить всё до юбилея сервера :)
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic6.png"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic6.png"
   alt="Измерение света"
   description="Измерение света"
 />
@@ -69,13 +72,13 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 Т.к. следующее крупное обновление, 1.17, выйдет совсем не скоро, граждане Лучерны _(а если быть точнее, то <PhotoNamePlayer nickname="CelestialSorcery"/> )_ решили сами создать себе новые биомы, и поместить их в измерение света. В нём находятся куча красочных цветов, камней с грибами, и, в скором времени, появятся горы. На данный момент готово не сильно большая территория, но планируется ещё расширить до достаточно больших размеров. Также в планах присутствуют 3 самодельных биома, которые появятся в этом измерении. Проект выглядит досточно интересным, и я желаю ребятам удачи в поиске ресурсов (_ведь каждый цветок требует для постройки шалкер цветного бетона)._
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic7.png"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic7.png"
   alt="Измерение света, вид сверху"
   description="Измерение света, вид сверху"
 />
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic8.png"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic8.png"
   alt="Новый порт Лучерны"
   description="Новый порт Лучерны"
 />
@@ -83,13 +86,13 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 Также в Лучерне появился небольшой новый порт, который выглядит в разы лучше старого.
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic9.png"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic9.png"
   alt="Новый порт, вид ночью"
   description="Новый порт, вид ночью"
 />
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic10.png"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic10.png"
   alt="Golden Mesa City"
   description="Golden Mesa City"
 />
@@ -97,13 +100,13 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 Продолжим мы базой игрока <PhotoNamePlayer nickname="_Nikto_"/> (_которую он решил превратить в город и назвать Golden Mesa City)_, которую он дополняет с каждым днём. К примеру там появились несколько редстоун-механизмов, таких как различные фермы ресурсов, дороги из ламп, показывающие путь, а также сортировщики предметов. Также у базы/города есть небольшой вокзал в Незере и в верхнем мире, который выполнен достаточно хорошо.
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic11.png"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic11.png"
   alt="Вокзал в верхнем мире"
   description="Вокзал в верхнем мире"
 />
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic12.png"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic12.png"
   alt="Путь в вокзал в Незере"
   description="Путь в вокзал в Незере"
 />
@@ -112,7 +115,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 Кстати, Я выше говорил про загриференный Фромград, да? Ну что-ж...
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic13.png"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic13.png"
   alt="Лавакаст™ в Лучерне"
   description="Лавакаст™ в Лучерне"
 />
@@ -120,19 +123,19 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 Т.к. День Дурака был на носу, у меня было 2 плана на "розыгрыш", и один из них я решил сберечь на сам праздник (который будет совсем скоро), а первую идею воплотить в жизнь. Меньше слов, ближе к делу, 2-го и 3-го марта на сервере была анархия, которая не навредила серверу (бэкап карты был сделал и загружен после ивента), но принесла большое количество веселья. Почти все города на сервере оказались разрушены, а чат состоял из чистого спама (В основном нарушающий УК РФ 354.1).
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic14.png"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic14.png"
   alt="Остатки Приморска"
   description="Остатки Приморска"
 />
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic15.png"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic15.png"
   alt="Руины Шрекита"
   description="Руины Шрекита"
 />
 
 <ImageZoom
-  src="/img/reports/report-8-feb-mar-2021/rep8-pic16.png"
+  src="/img/reports/season-1/report-8-feb-mar-2021/rep8-pic16.png"
   alt="(Наконец-таки) Разрушенный Фромград"
   description="(Наконец-таки) Разрушенный Фромград"
 />
