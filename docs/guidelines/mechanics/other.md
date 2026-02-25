@@ -125,6 +125,10 @@ import { Item, Block } from "@site/src/components/PhotoNamePlayer"
       <td>8</td>
     </tr>
     <tr>
+      <td><Block.sm item={["ochre_froglight","pearlescent_froglight","verdant_froglight"]} name="Квампа" /></td>
+      <td>8</td>
+    </tr>
+    <tr>
       <td><Block.sm item="redstone_lamp" name="Редстоун-лампа" /></td>
       <td>8</td>
     </tr>
