@@ -52,14 +52,14 @@ function HomepageHeader() {
           </div>
           <CopyButton />
         </div>
-        <div className={"row"} style={{ marginTop: 20, gap: 24, justifyContent: "center" }}>
+        {/* <div className={"row"} style={{ marginTop: 20, gap: 24, justifyContent: "center" }}>
           <Link
             className={`button button--lg button--primary ${styles.eventBadge}`}
             to="/docs/mechanics/morganas-triumph"
           >
             💖 Текущий ивент: «Торжество Морганы»
           </Link>
-        </div>
+        </div> */}
       </div>
     </header>
   );
