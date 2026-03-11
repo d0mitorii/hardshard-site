@@ -153,7 +153,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
   </thead>
   <tbody>
     <tr>
-      <td>Законодатель</td>
+      <td>Член Совета законодателей</td>
       <td>
         <PhotoNamePlayer nickname="yantar1k"/><br />
         <PhotoNamePlayer nickname="Kemerfund"/>
