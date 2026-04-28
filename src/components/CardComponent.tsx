@@ -1,7 +1,11 @@
 import Link from '@docusaurus/Link';
 import React from 'react';
 
-export function CardSection(props) {
+interface CardSectionProps {
+  children: React.ReactNode;
+}
+
+export function CardSection(props: CardSectionProps) {
   return (
     <section className='row'>
       {props.children}
@@ -9,7 +13,15 @@ export function CardSection(props) {
   );
 }
 
-export function Card(props) {
+interface CardProps {
+  to: string;
+  title: string;
+  description: string;
+  preview?: string;
+  new?: boolean;
+}
+
+export function Card(props: CardProps) {
   return (
     <article className='col col--6 margin-bottom--lg'>
       <Link

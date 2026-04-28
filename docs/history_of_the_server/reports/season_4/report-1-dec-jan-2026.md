@@ -20,15 +20,17 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Первый меесяц уже четвёртого (не верится) сезона прошёл! Время вернуться в родные **_ачёты_** и узнать, что красивого успели построить наши игроки за это время! Да-да, это возвращение традиции написания отчётов, которая прервалась на третьем сезоне. Надеемся, что в этот раз они буду выходить **_чаще_**.
 
+## I События
 
-##  I События
 ### Старт сезона
+
 После длительного перерыва в четыре с половиной месяца, долгожданный четвёртый сезон на версии Minecraft Java Edition 1.21.10 был запущен!
 
 Несмотря на поздний старт, как по дате, так и по времени (запуск произошёл в 23:36 по МСК), был побит рекорд онлайна за всё время существования проекта! В моменте на сервере довольно длительное время находилось **больше сорока** игроков. Огромное спасибо вам всем, что играете на нашем сервере и создаёте большой актив! Это очень греет и даёт мотивацию работать над его улучшением дальше.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic1.jpg"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic1-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic1-preview.webp"
   alt="Онлайн на старте сезона"
   description="Онлайн на старте сезона"
 />
@@ -36,10 +38,12 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 На этом сезоне было принято решение ограничить размер карты для создания стимула для большего взаимодействия игроков между собой. Также это позволило запустить [онлайн-карту](/map) сервера. Но главное, что такое решение помогло значительно улучшить производительность сервера. Даже в момент, когда онлайн был больше сорока человек, тпс не опускался ниже 20, что всегда случалось на стартах прошлых сезонов.
 
 ### Праздник ледосладия
-Из-за позднего старта сезона, практически прямо перед Новым Годом, не было возможности успеть провести традиционный ивент Тайный Осколик (но он обязательно будет в конце уже этого года). Вместо него был подготовлен контентный ивент от Администрации под названием **Праздник ледосладия**. 
+
+Из-за позднего старта сезона, практически прямо перед Новым Годом, не было возможности успеть провести традиционный ивент Тайный Осколик (но он обязательно будет в конце уже этого года). Вместо него был подготовлен контентный ивент от Администрации под названием **Праздник ледосладия**.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic2.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic2-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic2-preview.webp"
   alt="CelestialSorcery в полном комплекте брони синих льдов"
   description="CelestialSorcery в полном комплекте брони синих льдов"
 />
@@ -47,22 +51,26 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 По миру спавнились гоблины с которых выпадала волшебная пыльца, она в свою очередь использовалась для выращивания новогодней ёлки, дававшей подарки. Наши ~~лудоманы~~ игроки оценили возможность выбить красивый сет брони синих льдов и украсить свои базы новогодними ёлочками.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic3.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic3-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic3-preview.webp"
   alt="Декоративные ёлочки в Нижней Скайпии"
   description="Декоративные ёлочки в Нижней Скайпии"
 />
 
 ### Открытие Энда
+
 Для традиционной бытвы с Драконом, которая состоялась 17-го января, был подготовлен дроп под названием [Ветры Энда](/docs/mechanics/winds_of_end), в рамках которого он был заметно усложнён. Многие очень серьёзно подготовились к этой битве, а некоторые строили планы о том, как быстрее добраться до дальних островов после убийства.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic4.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic4-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic4-preview.webp"
   alt="Скайпийцы в ожидании битвы с Драконом"
   description="Скайпийцы в ожидании битвы с Драконом"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic5.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic5-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic5-preview.webp"
   alt="Ожидающие у общественного портала в Энд"
   description="Ожидающие у общественного портала в Энд"
 />
@@ -70,7 +78,8 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Как обычно, не обошлось без инцидента, во время начала бытвы в Энд были направлены несколько Варденов, которые успели попортить жизнь нескольким игрокам. Благо они были своевременно дезинтегрированы с помощью админских команд.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic6.jpg"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic6-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic6-preview.webp"
   alt="Вардены на платформе"
   description="Вардены на платформе"
 />
@@ -78,7 +87,8 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Тем не менее, битва с Драконом началась и породила много очень сочных моментов и многие его атаки были очень мощными.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic7.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic7-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic7-preview.webp"
   alt="Разгар битвы с Драконом"
   description="Разгар битвы с Драконом"
 />
@@ -86,31 +96,36 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Одной из атак дракона был массовый удар молниями Энда, которые оставляли после себя фиолетовый огонь. Сами молнии не приносили большого вреда, однако некоторые игроки ловили от них дополнительную атаку, **_сильные лаги_**, которая била уже довольно больно.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic8.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic8-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic8-preview.webp"
   alt="Гром и молния!"
   description="Гром и молния!"
 />
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic9.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic9-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic9-preview.webp"
   alt="Стрелять это не мешает"
   description="Стрелять это не мешает"
 />
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic10.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic10-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic10-preview.webp"
   alt="Молнии во время приземления Дракона"
   description="Молнии во время приземления Дракона"
 />
 
 Но самой мощной атакой дракона была атака под условным названием _«ядерка»_, которая не оставляла шансов тем, кто был поблизости. если они были без тотемов.
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic11.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic11-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic11-preview.webp"
   alt="Ядерка"
   description="Ядерка"
 />
 
 Но самой мощной атакой дракона оказался краш сервера, вызыванный тем, что всем. кто находился в Энде после его убийства была выдана ачика, сервер не выдержал такого удара и ушёл в аут на непродолжительное время.
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic12.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic12-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic12-preview.webp"
   alt="За секунду до краша"
   description="За секунду до краша"
 />
@@ -119,7 +134,8 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Особо предприимчивые во время последующих битв пошли тестировать рыбалку в войде (да-да у нас такая есть), не дожидаясь конца очередной битвы.
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic13.jpg"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic13-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic13-preview.webp"
   alt="Mimino87 Рыбачит во время битвы с Драконом"
   description="Mimino87 Рыбачит во время битвы с Драконом"
 />
@@ -127,7 +143,8 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Или строить флай-машины, чтобы с комфортом добраться до дальних островов.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic14.jpg"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic14-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic14-preview.webp"
   alt="Предприимчивые игроки на флай-машине"
   description="Предприимчивые игроки на флай-машине"
 />
@@ -143,21 +160,24 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Для проведения Совета было быстро построено специальное здание-арена с трибуной в самом Надбедрочье. В дальнейшем последующие Советы будут проходить на разных площадках в разных городах и местах сервера.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic15.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic15-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic15-preview.webp"
   alt="Место проведения Совета Игроков"
   description="Место проведения Совета Игроков"
 />
 
 На Совет пришло довольно много игроков, несмотря на долгую продолжительность, он прошёл довольно конструктивно и все вопросы в целом были решены, хотя в дальнейшем и возникало довольно много споров и недовольств. Но без этого в больших сообществах, к сожалению, никак.
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic16.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic16-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic16-preview.webp"
   alt="Серый кардинал и блюститель правил сидят на Совете"
   description="Серый кардинал и блюститель правил сидят на Совете"
 />
 
 Решения, принятые на Совете были отражены в [итоговом посте](https://t.me/hardshard_newspaper/924) в канале объявлений. В этом же канале, после публикации варианта обязательного дизайна для магистральных веток, игроком <PhotoNamePlayer nickname="SeijuroAE"/> был представлен [альтернативный вариант](https://t.me/hardshard_newspaper/936) дизайна, которые были выбраны основными по итогам голосования.
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic17.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic17-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic17-preview.webp"
   alt="Во время Совета"
   description="Во время Совета"
 />
@@ -165,6 +185,7 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Помните, что Совет Игроков может созвать **каждый**, это хороший способ решения общесерверных вопросов, достаточно только подготовить программу и написать об этом пост для канала объявлений.
 
 ## II Города/Постройки
+
 ### Скайпия
 
 Самое крупное государство сервера на данный момент, которое образовалось довольно быстро в начале сезона. По словам самих жителей, сейчас государство включает в себя 15 жителей, базы которых раскиданы по обширной территории. Рассмотрим некоторые из них по отдельности:
@@ -176,7 +197,8 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 На данный момент город только развивается и его расцвет ещё впереди, но уже можно увидеть несколько интересных построек.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic18.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic18-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic18-preview.webp"
   alt="Общий вид города"
   description="Общий вид города"
 />
@@ -184,12 +206,14 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Особенно интересно смотрится парковка для счастливых гастов с упряжками всех цветов.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic19.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic19-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic19-preview.webp"
   alt="Они такие счастливые, блин класс"
   description="Они такие счастливые, блин класс"
 />
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic20.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic20-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic20-preview.webp"
   alt="Вид на главный портал города"
   description="Вид на главный портал города"
 />
@@ -201,13 +225,15 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Неподалёку от Нижней Скайпии расположилась уютная база <PhotoNamePlayer nickname="jayz1123"/> с очень красивым и проработанным домом. Будем надеяться, что Джей сможет найти время и силы для дальнейшего строительства и это место расцветёт ещё сильнее.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic21.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic21-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic21-preview.webp"
   alt="Общий вид базы"
   description="Общий вид базы"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic22.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic22-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic22-preview.webp"
   alt="Главный дом"
   description="Главный дом"
 />
@@ -216,10 +242,11 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 ### GrindFall
 
-Столица второго по численности государства сервера, которое, впрочем, имеет не меньшие амбиции чем Скайпия. Основанно оно новичком нашего сервера и по совместительству стримером ([подписывайтесь](https://www.youtube.com/@EtoGrindLive))  <PhotoNamePlayer nickname="Wolframer"/>, который собрал немаленькую группу талантливых игроков.
+Столица второго по численности государства сервера, которое, впрочем, имеет не меньшие амбиции чем Скайпия. Основанно оно новичком нашего сервера и по совместительству стримером ([подписывайтесь](https://www.youtube.com/@EtoGrindLive)) <PhotoNamePlayer nickname="Wolframer"/>, который собрал немаленькую группу талантливых игроков.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic23.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic23-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic23-preview.webp"
   alt="Общий вид города"
   description="Общий вид города"
 />
@@ -227,7 +254,8 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Город строится с упором на проработку, каждая комната, закуток, улочка и всё прочее должны иметь функционал или визуальное наполнение, строители стараются избегать пустых комнат и стараются прорабатывать каждый элемент города.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic24.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic24-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic24-preview.webp"
   alt="Вид с главной площади"
   description="Вид с главной площади"
 />
@@ -235,7 +263,8 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Ещё один принцип города — отсутствие тупиков. Каждая дверь должна вести в какую-то новую комнату так, чтобы нельзя было упереться в тупик и заблудиться. Это делает его исследование более интересным и удобным. Остаётся только удивляться тому, насколько хорошо город проработан.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic25.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic25-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic25-preview.webp"
   alt="Одна из улочек города"
   description="Одна из улочек города"
 />
@@ -243,13 +272,15 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Можно также отдельно выделить трейд-холл, который также может похвастаться своей проработанностью и красотой.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic27.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic27-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic27-preview.webp"
   alt="Спуск к трейд-холлу"
   description="Спуск к трейд-холлу"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic26.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic26-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic26-preview.webp"
   alt="Вид изнутри"
   description="Вид изнутри"
 />
@@ -327,27 +358,29 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 >
 > **_- Суд будет свершён._**
 
-
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic28.jpg"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic28-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic28-preview.webp"
   alt="Статуя Правосудия"
   description="Статуя Правосудия"
 />
 
 ### Первоисточник
 
-Легенда первого сезона <PhotoNamePlayer nickname="CelestialSorcery"/>, известный строительством Лучерны, триумфально вернулся на четвёртом сезоне и уже успел построить загадочную и завораживающую гору посреди океана. 
+Легенда первого сезона <PhotoNamePlayer nickname="CelestialSorcery"/>, известный строительством Лучерны, триумфально вернулся на четвёртом сезоне и уже успел построить загадочную и завораживающую гору посреди океана.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic29.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic29-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic29-preview.webp"
   alt="Загадочная гора посреди океана"
   description="Загадочная гора посреди океана"
 />
 
->Из загадочной горы в океане рядом со спавном льётся будто бесконечное количество воды, какие же тайны скрываются внутри неё?
+> Из загадочной горы в океане рядом со спавном льётся будто бесконечное количество воды, какие же тайны скрываются внутри неё?
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic30.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic30-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic30-preview.webp"
   alt="Чей это дом?"
   description="Чей это дом?"
 />
@@ -355,27 +388,28 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Что таит в себе этот **_Первоисточник_**? Пока предельно непонятно, он хранит ещё много тайн, которые, надеемся, будут раскрыты по мере существования сезона.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic31.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic31-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic31-preview.webp"
   alt="Вершина горы"
   description="Вершина горы"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic32.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic32-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic32-preview.webp"
   alt="Первоисточник"
   description="Первоисточник"
 />
 
 Следите за нашим [каналом объявлений](https://t.me/hardshard_newspaper/917), в котором непременно будет продолжение истории **_Первоисточника_**.
 
-
-
 ### Первая статуя «Державы Хайпа»
 
 Игроки <PhotoNamePlayer nickname="lologit"/> и <PhotoNamePlayer nickname="Barbetone"/> не изменяя себе, продолжили строить гигантские статуи и на этом сезоне. Вы возможно помните их работу с прошлого сезона _«Мыслитель Роден»_. В этот раз работа, пока что, менее масштабная, но не менее интересная. Большая статуя Ангела, о завершении строительства которой игроки объявляли в [канале объявлений](https://t.me/hardshard_newspaper/900).
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic33.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic33-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic33-preview.webp"
   alt="Статуя Державы Хайпа"
   description="Статуя Державы Хайпа"
 />
@@ -389,19 +423,22 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Город условно можно разделить на две части, нижнюю, которая находится у подножья горы в биоме джунглей и верхнюю, непосредственно на горе.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic34.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic34-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic34-preview.webp"
   alt="Общий вид нижней части города"
   description="Общий вид нижней части города"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic35.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic35-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic35-preview.webp"
   alt="Портал нижней части города"
   description="Портал нижней части города"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic36.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic36-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic36-preview.webp"
   alt="Верхняя часть города"
   description="Верхняя часть города"
 />
@@ -409,19 +446,22 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 В верхней части города находятся главные здания, Зал Советов, разного рода фермы а также клуб.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic37.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic37-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic37-preview.webp"
   alt="Вид на Зал Советов"
   description="Вид на Зал Советов"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic38.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic38-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic38-preview.webp"
   alt="Статуя дракона и крепостные стены"
   description="Статуя дракона и крепостные стены"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic39.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic39-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic39-preview.webp"
   alt="Вид на вершину горы"
   description="Вид на вершину горы"
 />
@@ -433,7 +473,8 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Знаменитая ЯМА, которая также уже была на прошлом сезоне, триумфально возвращается и на этом. Игроку <PhotoNamePlayer nickname="mulciber_"/> нужно очень много ресурсов и для этих целей он, совместно с <PhotoNamePlayer nickname="Kanamori_Arice"/>, а также некоторыми жителями Скайпии копает огромную ЯМУ.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic40.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic40-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic40-preview.webp"
   alt="ЯМА"
   description="ЯМА"
 />
@@ -441,7 +482,8 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 ЯМА обладает поистине циклопическими размерами, мало того, ещё и очень функциональная. Ручное копание активно заменяется большой и замудрённой тнт-пушкой с автоматическим сбором ресурсов.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic41.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic41-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic41-preview.webp"
   alt="ТНТ-пушка"
   description="ТНТ-пушка"
 />
@@ -451,13 +493,15 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Изюминкой ЯМЫ служит не менее циклопических размеров завод, который в перспективе захватит огромные площади вокруг самой ЯМЫ.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic42.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic42-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic42-preview.webp"
   alt="Завод при яме"
   description="Завод при яме"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic43.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic43-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic43-preview.webp"
   alt="Завод при яме"
   description="Завод при яме"
 />
@@ -465,7 +509,8 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 _**Любите ЯМУ. Копайте ЯМУ. Станьте ЯМОЙ**_
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic44.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic44-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic44-preview.webp"
   alt="Яма на уровне бедрока"
   description="Яма на уровне бедрока"
 />
@@ -477,21 +522,22 @@ _**Любите ЯМУ. Копайте ЯМУ. Станьте ЯМОЙ**_
 Тем не менее посетить Грибную Дружественную Народную Республику можно уже сейчас (а ещё там фан-клуб Мамочки и Аузера).
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic45.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic45-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic45-preview.webp"
   alt="Общий вид республики"
   description="Общий вид республики"
 />
 
->Всё началось с небольшого дома с грибами на крыше, который построили из чистой практичности — чтобы раз и навсегда решить проблему с постоянным спуском в подвал-склад. Но именно эта причудливая крыша и подсказала основную идею: чтобы остров не выглядел пустым, его решено было заселить грибами.  Маленькие грибочки-домики, стеклянный гриб-улей и даже гриб, сквозь который светил маяк, превратили функциональную базу в уютную и презентабельную Грибную Республику.
+> Всё началось с небольшого дома с грибами на крыше, который построили из чистой практичности — чтобы раз и навсегда решить проблему с постоянным спуском в подвал-склад. Но именно эта причудливая крыша и подсказала основную идею: чтобы остров не выглядел пустым, его решено было заселить грибами. Маленькие грибочки-домики, стеклянный гриб-улей и даже гриб, сквозь который светил маяк, превратили функциональную базу в уютную и презентабельную Грибную Республику.
 
->Но этот остров не такой милый, как может показаться на первый взгляд. 
+> Но этот остров не такой милый, как может показаться на первый взгляд.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic46.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic46-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic46-preview.webp"
   alt="Уютная улочка"
   description="Уютная улочка"
 />
-
 
 ### База Vi_Mel
 
@@ -500,15 +546,17 @@ _**Любите ЯМУ. Копайте ЯМУ. Станьте ЯМОЙ**_
 Чего только стоит исполинский портал в Незер, пока что первый в своём роде на сервере.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic47.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic47-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic47-preview.webp"
   alt="Портал в Надбедрочье"
   description="Портал в Надбедрочье"
 />
 
-В обычном мире рядом с порталом можно увидеть заброшенное здание, внутри которого находится набольшой магазин. 
+В обычном мире рядом с порталом можно увидеть заброшенное здание, внутри которого находится набольшой магазин.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic48.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic48-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic48-preview.webp"
   alt="Портал в овере"
   description="Портал в овере"
 />
@@ -516,7 +564,8 @@ _**Любите ЯМУ. Копайте ЯМУ. Станьте ЯМОЙ**_
 Но главной архитектурной доминантой базы является гигантская статуя, напоминающая работы <PhotoNamePlayer nickname="lologit"/> и <PhotoNamePlayer nickname="Barbetone"/> о которых речь шла ранее, но не менее масштабная и такая же завораживающая.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic49.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic49-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic49-preview.webp"
   alt="Статуя"
   description="Статуя"
 />
@@ -528,23 +577,26 @@ _**Любите ЯМУ. Копайте ЯМУ. Станьте ЯМОЙ**_
 Пикми-дача в биоме сакуры игроков <PhotoNamePlayer nickname="Notna69"/> и <PhotoNamePlayer nickname="Flammablelion"/> также нашла своё отражение и на четвёртом сезоне, но в этот раз с куда большими амбициями, которые, впрочем, пока не реализовались. На даче можно посмотреть только на уютный домик и смешной гараж для счастливых гастов.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic50.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic50-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic50-preview.webp"
   alt="Общий вид базы"
   description="Общий вид базы"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic51.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic51-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic51-preview.webp"
   alt="Пикми-гараж"
   description="Пикми-гараж"
 />
 
-### Башня Himer__Fatal
+### Башня Himer\_\_Fatal
 
 Недалеко от пикми-дачи находится башня, которую построил и продолжает строить <PhotoNamePlayer nickname="Himer__Fatal"/>, для описания которой сложно подобрать слова. Это... нечто, неописуемое и нео.. а, ладно, вы и сами всё видите. Тем не менее, строение крайне необычное. Очень интересно будет узнать во что она превратится дальше.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic52.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic52-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic52-preview.webp"
   alt="Башня"
   description="Башня"
 />
@@ -554,12 +606,14 @@ _**Любите ЯМУ. Копайте ЯМУ. Станьте ЯМОЙ**_
 Булыжниковый замок <PhotoNamePlayer nickname="x666testpub"/>, несмотря на простые ресурсы, которые используются в его строительстве, выглядит очень красиво и самобытно. По словам самого теста, этот замок должен был быть построен ещё на первом сезоне, однако те планы сбыться не смогли,
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic53.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic53-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic53-preview.webp"
   alt="Общий вид базы"
   description="Общий вид базы"
 />
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic54.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic54-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic54-preview.webp"
   alt="Замок"
   description="Замок"
 />
@@ -567,7 +621,8 @@ _**Любите ЯМУ. Копайте ЯМУ. Станьте ЯМОЙ**_
 Хорошо, что хотя бы спустя столько лет старые идеи смогли найти своё воплощение.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic55.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic55-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic55-preview.webp"
   alt="Крепостная стена"
   description="Крепостная стена"
 />
@@ -577,36 +632,40 @@ _**Любите ЯМУ. Копайте ЯМУ. Станьте ЯМОЙ**_
 По миру можно найти заводы <PhotoNamePlayer nickname="Kanamori_Arice"/>, которые сливают отходы в реки. Зачем? пока непонятно, надеемся гринпис возьмёт вопрос на проработку.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic56.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic56-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic56-preview.webp"
   alt="Завод рядом со Скайпией"
   description="Завод рядом со Скайпией"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic57.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic57-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic57-preview.webp"
   alt="Завод рядом со Спавном"
   description="Завод рядом со Спавном"
 />
-
 
 ### Торговая зона в Надбедрочье
 
 До начала полноценного строительства хаба в Надбедрочье, многие игроки успели разместить свои магазины рядом с нулевыми координатами, некоторые из которых получились очень красивыми.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic58.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic58-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic58-preview.webp"
   alt="Торговая зона до переезжа"
   description="Торговая зона до переезжа"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic59.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic59-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic59-preview.webp"
   alt="Два пикми-магазина"
   description="Два пикми-магазина"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic60.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic60-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic60-preview.webp"
   alt="Первый магазин Grindfall"
   description="Первый магазин Grindfall"
 />
@@ -614,30 +673,32 @@ _**Любите ЯМУ. Копайте ЯМУ. Станьте ЯМОЙ**_
 В дальнешйем, когда строительство хаба началось, они были перенесены за его пределы, образовался кластер магазинов на бирюзовой ветке.
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic61.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic61-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic61-preview.webp"
   alt="Торговая зона после переезда"
   description="Торговая зона после переезда"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic62.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic62-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic62-preview.webp"
   alt="Торговая зона после переезда"
   description="Торговая зона после переезда"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic63.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic63-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic63-preview.webp"
   alt="Второй магазин Grindfall"
   description="Второй магазин Grindfall"
 />
 
 <ImageZoom
-  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic64.png"
+  src="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic64-full.webp"
+  srcThumb="/img/reports/season-4/report-1-dec-2025-jan-2026/rep1-pic64-preview.webp"
   alt="Магазин Кроличья нора"
   description="Магазин Кроличья нора"
 />
-
-
 
 В этом отчёте показаны далеко не все базы и будущие города. Сезону только месяц и многое ещё впереди. Например, уже начато строительство легендарной таверны «Пьяный Крипер» от не менее легендарного <PhotoNamePlayer nickname="KerkSweet"/>, но она пока на уровне фундамента, скорее всего в следующем отчёте мы уже сможем её увидеть вместе с интересными постройками других игроков, которые пока только начинают свой путь.
 
