@@ -10,6 +10,7 @@ slug: /reports
 
     <ul>
       <li><a href="/docs/report-1-dec-jan-2026">HardShard | IV сезон | Отчёт за декабрь – январь 2026 (№1)</a></li>
+      <li><a href="/docs/report-2-feb-apr-2026">HardShard | IV сезон | Отчёт за февраль – апрель 2026 (№2)</a></li>
     </ul>
   </div>
 
