@@ -3,8 +3,8 @@ const fs = require("fs-extra");
 const path = require("path");
 const glob = require("glob");
 
-const INPUT_DIR = "./static/img/reports/season-4/report-1-dec-2025-jan-2026";
-const OUTPUT_DIR = "./static/img/optimized/reports/season-4/report-1-dec-2025-jan-2026";
+const INPUT_DIR = "./static/img/reports/season-4/report-2-feb-apr-2026";
+const OUTPUT_DIR = "./static/img/optimized/reports/season-4/report-2-feb-apr-2026";
 
 const PREVIEW_WIDTH = 800;
 const FULL_WIDTH = 1800;
