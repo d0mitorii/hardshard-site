@@ -124,15 +124,15 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 <ImageZoom
   src="/img/reports/season-4/report-2-feb-apr-2026/rep2-pic10-full.webp"
   srcThumb="/img/reports/season-4/report-2-feb-apr-2026/rep2-pic10-preview.webp"
-  alt="Потуги Флама в акапеллу на открытом микрофоне"
-  description="Потуги Флама в акапеллу на открытом микрофоне"
+  alt="Потуги Флама в а капелла на открытом микрофоне"
+  description="Потуги Флама в а капелла на открытом микрофоне"
 />
 
 <ImageZoom
   src="/img/reports/season-4/report-2-feb-apr-2026/rep2-pic11-full.webp"
   srcThumb="/img/reports/season-4/report-2-feb-apr-2026/rep2-pic11-preview.webp"
-  alt="Raial_Tennaney завершает вечер"
-  description="Raial_Tennaney завершает вечер"
+  alt="Raial_Tennaney играет на укулеле"
+  description="Raial_Tennaney играет на укулеле"
 />
 
 Несмотря на то, что выбранная локация сильно отличалась атмосферой от всех прошлых, в которых проходили предыдущие творческие вечера, своей темнотой, размером и в целом нахождением полностью под землёй, вечер прошёл очень хорошо. Наши ребята показали новые грани своих талантов, а также традицией заинтересовалось много новичков третьего и четвёртого сезона. Посмотреть полную запись Творческого вечера вы можете на нашем YouTube-канале.
@@ -199,7 +199,7 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
   src="/img/reports/season-4/report-2-feb-apr-2026/rep2-pic17-full.webp"
   srcThumb="/img/reports/season-4/report-2-feb-apr-2026/rep2-pic17-preview.webp"
   alt="Облагороженные дорожки"
-  description="Облагороженные дорожк"
+  description="Облагороженные дорожки"
 />
 
 Вишенкой на торте обновлённой Нижней является корабль, пришвартовавшийся у берегов города (не последний корабль в этом отчёте, кстати)
@@ -342,7 +342,7 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
   description="Интерьер кафе"
 />
 
-За ним виднеется декоративное здание с проработанным фасадом от <PhotoNamePlayer nickname="BlessedWithLuck"/>.
+За ним виднеется декоративное здание с проработанным фасадом от <PhotoNamePlayer nickname="ClockworkJerzy"/>.
 
 <ImageZoom
   src="/img/reports/season-4/report-2-feb-apr-2026/rep2-pic34-full.webp"
@@ -351,7 +351,7 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
   description="Вид на здание"
 />
 
-Далее в направлении трейдхолла находится спуск в кафе «Метроидвания», также построенное <PhotoNamePlayer nickname="BlessedWithLuck"/>, в котором проходил упомянутый ранее пятый Творческий вечер. Кафе расположено полностью под землёй и занимает помещение ранее заброшенной станции метро.
+Далее в направлении трейдхолла находится спуск в кафе «Метроидвания», построенное <PhotoNamePlayer nickname="BlessedWithLuck"/>, в котором проходил упомянутый ранее пятый Творческий вечер. Кафе расположено полностью под землёй и занимает помещение ранее заброшенной станции метро.
 
 <ImageZoom
   src="/img/reports/season-4/report-2-feb-apr-2026/rep2-pic35-full.webp"
@@ -835,8 +835,8 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 <ImageZoom
   src="/img/reports/season-4/report-2-feb-apr-2026/rep2-pic88-full.webp"
   srcThumb="/img/reports/season-4/report-2-feb-apr-2026/rep2-pic88-preview.webp"
-  alt="Феома... чего-то"
-  description="Феома... чего-то"
+  alt="Ферма... чего-то"
+  description="Ферма... чего-то"
 />
 
 А ещё тут можно найти красивый арт Труськи из аниме "Труська, Чулка и пресвятой Подвяз".
