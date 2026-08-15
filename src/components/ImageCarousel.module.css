@@ -1,0 +1,82 @@
+.carouselWrapper {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.track {
+  display: flex;
+}
+
+.slide {
+  flex-shrink: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.image {
+  max-width: 100%;
+  cursor: zoom-in;
+  user-select: none;
+}
+
+.arrowButton {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base) !important;
+  box-shadow: var(--ifm-global-shadow-lw);
+  transition: opacity 0.2s ease, background-color 0.2s ease;
+}
+
+.arrowButton:hover {
+  background: var(--ifm-color-emphasis-200);
+}
+
+.arrowButtonHidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.arrowButtonLeft {
+  left: 8px;
+}
+
+.arrowButtonRight {
+  right: 8px;
+}
+
+.description {
+  margin-top: 0.5rem;
+}
+
+.dotsContainer {
+  display: flex;
+  justify-content: center;
+  gap: 0.4rem;
+  margin-top: 0.5rem;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  cursor: pointer;
+  background: var(--ifm-color-emphasis-300);
+  transition: background 0.2s ease;
+}
+
+.dotActive {
+  background: var(--ifm-color-primary);
+}

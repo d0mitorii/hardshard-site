@@ -35,6 +35,12 @@ import { CardSection, Card } from "@site/src/components/CardComponent"
     to="/docs/mechanics/more-food"
   /> -->
   <Card 
+    title="Мечта ремесленника"
+    description="Множество новых механик для строителей, которые вам точно понравятся!"
+    preview="/img/mechanics/craftsman's-dream/craftsman's-dream-logo-full.webp"
+    to="/docs/mechanics/craftsman's-dream"
+  />
+  <Card 
     title="Ветры Энда"
     description="Обновление Энда? ну практически... Усложнённый дракон, стили для элитр, хорусовое око и другое."
     preview="/img/mechanics/winds_of_end/winds_of_end_logo.jpg"
