@@ -1,0 +1,9 @@
+.container {
+  background-color: var(--ifm-background-color);
+}
+
+.container iframe {
+  color-scheme: light;
+  background-color: var(--ifm-background-color) !important;
+  border: none;
+}

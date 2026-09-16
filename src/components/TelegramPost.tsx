@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import { useColorMode } from "@docusaurus/theme-common";
+import styles from "./TelegramPost.module.css";
 
 type TelegramPostProps = {
   channel: string;
@@ -22,13 +23,13 @@ const TelegramPost: React.FC<TelegramPostProps> = ({
     containerRef.current.innerHTML = "";
 
     const script = document.createElement("script");
-    script.src = "https://telegram.org/js/telegram-widget.js?22";
+    script.src = "https://telegram.org/js/telegram-widget.js";
     script.async = true;
 
     script.setAttribute("data-telegram-post", `${channel}/${postId}`);
     script.setAttribute(
       "data-width",
-      typeof width === "number" ? `${width}` : width
+      typeof width === "number" ? `${width}` : width,
     );
     script.setAttribute("data-userpic", "true");
 
@@ -40,7 +41,7 @@ const TelegramPost: React.FC<TelegramPostProps> = ({
     containerRef.current.appendChild(script);
   }, [channel, postId, width, colorMode]); // <-- реагирует на смену темы
 
-  return <div ref={containerRef} />;
+  return <div ref={containerRef} className={styles.container} />;
 };
 
 export default TelegramPost;
