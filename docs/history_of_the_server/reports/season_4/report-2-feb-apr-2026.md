@@ -945,7 +945,10 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Iphone 17 Pro Black Titanium 1 TB от <PhotoNamePlayer nickname="mippulya"/>.
 
-К сожалению, копии арта на сервере поломались, а оригинал был снесён, если найдётся скрин, он будет приложен после обновления отчёта.
+<ImageZoom
+  src="/img/reports/season-4/report-2-feb-apr-2026/rep2-pic102-full.webp"
+  srcThumb="/img/reports/season-4/report-2-feb-apr-2026/rep2-pic102-preview.webp"
+/>
 
 Хорнет от <PhotoNamePlayer nickname="Mimino87"/>.
 
