@@ -30,13 +30,13 @@ function HomepageHeader() {
         </div>
         <Heading as="h1" className={styles.hero__title_custom}>
           <img
-            src="/img/hardshard-logo-full-valentines-style.png"
+            src="/img/hardshard-logo-full-simple.png"
             alt="HardShard Logo"
             draggable="false"
             className={styles.heroLogo}
           />
         </Heading>
-        <div className="row margin-top--lg">
+        <div className="row margin-top--xl">
           <div className="col col--8 col--offset-2">
             <p className="hero__subtitle">{siteConfig.tagline}</p>
           </div>
@@ -69,7 +69,7 @@ export default function Home(): JSX.Element {
   return (
     <>
       <video autoPlay muted loop playsInline className={styles.backgroundMedia}>
-        <source src="/videos/backgound-valentine-day.webm" type="video/mp4" />
+        <source src="/videos/background-HalloweenLampLoop.webm" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       <div className={styles.backgroundOverlayBottom}></div>

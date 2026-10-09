@@ -775,37 +775,228 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Верхняя Скайпия начинает приобретать свой финальный вид. До розового кристалла теперь можно добраться по каскаду летающих островов.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic57-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic57-preview.webp"
+  alt="Верхняя Скайпия. Западные острова"
+  description="Верхняя Скайпия. Западные острова"
+/>
+
 Композиция островов ещё выстраивается, но уже имеет интересный вид.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic58-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic58-preview.webp"
+  alt="Верхняя Скайпия. Восточные острова"
+  description="Верхняя Скайпия. Восточные острова"
+/>
+
 А также был перенесён остров, который, кажется, точь-в-точь такой же, как в третьем сезоне.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic59-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic59-preview.webp"
+  alt="Примечательный остров, похожий на такой же с третьего сезона"
+  description="Примечательный остров, похожий на такой же с третьего сезона"
+/>
 
 #### Нижняя Скайпия
 
 Нижний город перестал быть вечной стройкой и был практически полностью застроен. Все здания теперь на своём месте и выполняют задуманную функцию, будь то фермы, трейдхоллы или склады.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic60-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic60-preview.webp"
+  alt="Нижняя Скайпия"
+  description="Нижняя Скайпия"
+/>
+
 К плавающим уточкам присоединились крутой иглобрюх с сигаретой (осуждаем курение) и КРУТАЯ креветка.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic61-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic61-preview.webp"
+  alt="КРУТО"
+  description="КРУТО"
+/>
+
 Хи-хи, Хацунэ Мику и Касане Тето.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic62-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic62-preview.webp", 
+      alt: "Тётя груша", 
+      description: "Тётя груша"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic63-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic63-preview.webp", 
+      alt: "Мику мику бииим", 
+      description: "Мику мику бииим"
+      },
+  ]}
+/>
 
 #### Замок Sollzi
 
 Удивительно, но <PhotoNamePlayer nickname="Sollzi"/> не перестал играть и даже продолжил строить свой замок: у него появились новые внешние стены и несколько башен, а также пара домов, используемых как трейдхолл.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic64-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic64-preview.webp", 
+      alt: "Обновлённый замок Солзи", 
+      description: "Обновлённый замок Солзи"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic65-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic65-preview.webp", 
+      alt: "Обновлённый замок Солзи", 
+      description: "Обновлённый замок Солзи"
+      },
+  ]}
+/>
+
 #### Постройка Relaontionhwa
 
 Нельзя также не заметить «слона» в комнате: <PhotoNamePlayer nickname="Relaontionhwa"/> наконец достроила свой магнум-опус, и выглядит он действительно завораживающе.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic66-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic66-preview.webp", 
+      alt: "Дворец на горе", 
+      description: "Дворец на горе"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic66-2-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic66-2-preview.webp", 
+      alt: "Дворец на горе", 
+      description: "Дворец на горе"
+      },
+  ]}
+/>
+
 Дворцовый ансамбль, занимающий всю гору, имеет множество этажей, каждый из которых обладает своим функционалом.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic67-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic67-preview.webp", 
+      alt: "Плавильня", 
+      description: "Плавильня"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic68-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic68-preview.webp", 
+      alt: "Ферма для пропитания", 
+      description: "Ферма для пропитания"
+      },
+  ]}
+/>
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic69-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic69-preview.webp", 
+      alt: "Лестница на верхние этажи", 
+      description: "Лестница на верхние этажи"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic71-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic71-preview.webp", 
+      alt: "Коллекция плакатов с Морганой", 
+      description: "Коллекция плакатов с Морганой"
+      },
+  ]}
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic70-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic70-preview.webp"
+  alt="Библиотека"
+  description="Библиотека"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic72-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic72-preview.webp"
+  alt="Тронный зал"
+  description="Тронный зал"
+/>
 
 Внутри башни расположен целый крытый зоопарк с множеством биомов, внутри которых воспроизведена привычная для их обитателей среда.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic73-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic73-preview.webp", 
+      alt: "Болото и аквариум", 
+      description: "Болото и аквариум"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic74-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic74-preview.webp", 
+      alt: "Пустыня", 
+      description: "Пустыня"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic75-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic75-preview.webp", 
+      alt: "Адский биом и ламоверки", 
+      description: "Адский биом и ламоверки"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic76-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic76-preview.webp", 
+      alt: "Зимние мишки и козлы", 
+      description: "Зимние мишки и козлы"
+      },
+  ]}
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic77-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic77-preview.webp"
+  alt="Обиталище панд и нюхняшей"
+  description="Обиталище панд и нюхняшей"
+/>
+
 У подножья можно также обнаружить вход в импровизированную пещеру.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic78-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic78-preview.webp"
+  alt="Пещера у подножья"
+  description="Пещера у подножья"
+/>
 
 #### ПВП-Арена
 
 Отдельно стоит рассмотреть ПВП-арену, на которой происходил описанный выше ивент. К ней ведёт отдельный портал в Надбедрочье, оформленный в соответствующем стиле.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic79-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic79-preview.webp"
+  alt="Портал к арене"
+  description="Портал к арене"
+/>
+
 Сама арена представляет собой стандартную, хоть и красивую постройку, хорошо отвечающую функциональным требованиям. Имеет просторные трибуны и большое поле для битвы.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic80-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic80-preview.webp"
+  alt="Арена с высоты"
+  description="Арена с высоты"
+/>
 
 По заявлению самих строителей, арена является общественной, и **любой игрок** может использовать её для проведения своих ивентов или товарищеских турниров.
 
@@ -815,7 +1006,41 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Игрок <PhotoNamePlayer nickname="lokit"/> не изменяет своим традициям и вместе с <PhotoNamePlayer nickname="Hille_l"/> построил несколько интересных зданий, которые доверху забиты механизмами. Аккурат рядом с ПВП-ареной расположился дом с часами, который в реальном времени показывает текущий день в игре и динамически его обновляет.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic81-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic81-preview.webp", 
+      alt: "Завод с часовым механизмом", 
+      description: "Завод с часовым механизмом"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic82-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic82-preview.webp", 
+      alt: "Завод с часовым механизмом", 
+      description: "Завод с часовым механизмом"
+      },
+  ]}
+/>
+
 На горе близ Верхней Скайпии можно обнаружить башню, которая является домом Локита; внутри неё есть секретный (уже не особо) подвал, вход в который скрывает механизм.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic83-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic83-preview.webp", 
+      alt: "Башня Локита", 
+      description: "Башня Локита"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic84-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic84-preview.webp", 
+      alt: "Аквариум в секретном подвале (больше не покажу)", 
+      description: "Аквариум в секретном подвале (больше не покажу)"
+      },
+  ]}
+/>
 
 ### GrindFall
 
@@ -1064,13 +1289,27 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Желаем каждому строить такие домики новичков в первые часы игры!
 
+### Остров Lilit_22
+
+Милая база посреди океана, приятные домики, мостики и морской бриз, что ещё нужно для счастливой жизни?
+
 ### Деревня Сноучестер
 
 Небольшая зимняя деревня на краю известного на данный момент мира, где поселились <PhotoNamePlayer nickname="KidAmnesiacc"/> и <PhotoNamePlayer nickname="now33bs"/>. Несколько уютненьких домов, зимняя прохлада и бриз метели в лицо — чего ещё нужно для умиротворённой жизни на границе цивилизации?
 
+### Приватная территория компании Сикоры
+
+Территория являющаяся на данный момент базой игрока <PhotoNamePlayer nickname="SikoraPNNN"/> (изначально игроков было больше, но остальные по тем или иным причинам прекратили свою деятельность, вероятно, временно). Из примечательного хочется показать строящуюся ЯМУ, не такую классную как у Мульцибера с Арисолм, но тоже многообещающую.
+
+Но самое главное это здание Фуфелшмерц Пакость Инкорпорейтед, вот это уже реально уровень.
+
 ### База DK5H
 
 Личная база <PhotoNamePlayer nickname="DK5H"/> тоже поражает воображение: исполинский стимпанк-завод с расположенным на нём двуногим роботом смотрится действительно свежо и интересно.
+
+### Село ch3rkv
+
+Небольшая база рядом с территорией компании Сикоры, выполненная в азиатском стиле. Несмотря на то. что на сервере довольно многие игроки выбирают такой вид архитектуры за основу в своих проектах, каждый из них чем-то уникально выделяетя, так и база <PhotoNamePlayer nickname="ch3rkv"/> не похожа на другие города и поселения в азиатском стиле.
 
 ### Корабль в Энде Kanamori_Arice
 
