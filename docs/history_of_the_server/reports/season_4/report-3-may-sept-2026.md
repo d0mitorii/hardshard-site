@@ -1545,31 +1545,256 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Город выполнен в основном в азиатском стиле и, как понятно из названия, славит лис и всё, что с ними связано. Уже у парадного портала можно увидеть первую статую лисы, которая охраняет остров.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic139-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic139-preview.webp"
+  alt="Парадный портал"
+  description="Парадный портал"
+/>
+
 Парадный портал расположен посреди озера, от него ведёт дорожка по импровизированным лилиям с небольшим паркуром, через арку прямо к двум величественным статуям самураев, встречающих жителей и гостей города.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic140-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic140-preview.webp", 
+      alt: "Дорога к городу", 
+      description: "Дорога к городу"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic141-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic141-preview.webp", 
+      alt: "Исполины-самураи", 
+      description: "Исполины-самураи"
+      },
+  ]}
+/>
 
 Справа от них расположилась небольшая ферма пшеницы с развесистой сакурой. А в лесу неподалёку спрятался реликт бывшей цивилизации — грозный шагоход AT-ST из Звёздных войн.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic142-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic142-preview.webp"
+  alt="Небольшое поле с сакурой"
+  description="Небольшое поле с сакурой"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic143-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic143-preview.webp"
+  alt="AT-ST"
+  description="AT-ST"
+/>
+
 Чуть дальше расположился дом <PhotoNamePlayer nickname="Fitifong228"/> внутри исполинской повозки в азиатском стиле. Дом внутри пока не обустроен, но снаружи уже впечатляет.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic144-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic144-preview.webp", 
+      alt: "Телега-дом", 
+      description: "Телега-дом"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic145-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic145-preview.webp", 
+      alt: "Телега-дом", 
+      description: "Телега-дом"
+      },
+  ]}
+/>
 
 Дальше через весь город проложена дорога, по которой можно пройти в его остальную часть. Идя по ней, можно увидеть с виду малопримечательное здание, но в его подвале находится мап-арт-галерея, причём некоторые экспонаты, выставленные здесь, не найти в галерее в Гриндфоле. Цените.
 
-На другой стороне реки стоят дома игроков <PhotoNamePlayer nickname="DanjikDan"/> и <PhotoNamePlayer nickname="Maksonhik_"/>: дом второго совсем небольшой и непримечательный, тогда как DanjikDan отстроил себе полноценный особняк с блекджеком, мерчем по «Сонику» и «Человеку-пауку» — уважаемо.
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic146-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic146-preview.webp", 
+      alt: "Мап-арт галерея", 
+      description: "Мап-арт галерея"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic147-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic147-preview.webp", 
+      alt: "Мап-арт галерея", 
+      description: "Мап-арт галерея"
+      },
+  ]}
+/>
+
+На другой стороне реки стоят дома игроков <PhotoNamePlayer nickname="DanjikDan"/> и <PhotoNamePlayer nickname="Maksonhik_"/>: дом второго совсем небольшой и непримечательный, тогда как DanjikDan отстроил себе полноценный особняк с блекджеком, мерчем по «Бетмену» и «Человеку-пауку» — уважаемо.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic148-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic148-preview.webp"
+  alt="Дома Maksonhik_ и DanjikDan"
+  description="Дома Maksonhik_ и DanjikDan"
+/>
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic149-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic149-preview.webp", 
+      alt: "Личный бар", 
+      description: "Личный бар"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic150-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic150-preview.webp", 
+      alt: "Комната жениха", 
+      description: "Комната жениха"
+      },
+  ]}
+/>
 
 Дальше по дороге в южной части города находится загон с лисами, где они разводятся, а затем выпускаются на волю.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic151-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic151-preview.webp"
+  alt="Загон с лисами"
+  description="Загон с лисами"
+/>
+
 На пригорке за старым порталом в город расположено первое здание города — небольшая, но уютная чайная с прудом и милой статуей лисы.
 
-Ещё южнее чайного домика гордо красуется фан-клуб Мамочки, пока что недостроенный, но, уверен, скоро точно будет.
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic152-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic152-preview.webp", 
+      alt: "Не ведитесь если зовут пить чай", 
+      description: "Не ведитесь если зовут пить чай"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic153-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic153-preview.webp", 
+      alt: "Тотемная лиса", 
+      description: "Тотемная лиса"
+      },
+  ]}
+/>
+
+Ещё южнее чайного домика гордо красуется фан-клуб Мамочки, внутри которого проводятся чайные церемонии.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic154-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic154-preview.webp", 
+      alt: "Фан-клуб Мамочки", 
+      description: "Фан-клуб Мамочки"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic155-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic155-preview.webp", 
+      alt: "Чайноя церемонесть", 
+      description: "Чайноя церемонесть"
+      },
+  ]}
+/>
 
 Охраняет фан-клуб спящая рядом лиса, которая по совместительству является домом игрока <PhotoNamePlayer nickname="Ivan4ban"/>.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic156-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic156-preview.webp"
+  alt="Лисодом"
+  description="Лисодом"
+/>
+
 Прямо за домом <PhotoNamePlayer nickname="DanjikDan"/> из земли вылезает большой и грозный Хранитель, охраняющий загон со «скалковым другом».
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic157-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic157-preview.webp"
+  alt="Поиграл с дружком. Проиграл"
+  description="Поиграл с дружком. Проиграл"
+/>
+
+Во время написания отчёта за скалковым другом был построен величественный дракон.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic158-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic158-preview.webp"
+  alt="Дракоша"
+  description="Дракоша"
+/>
 
 Если вы очень сильно испугались скалкового друга, можно убежать от него в другую сторону и спрятаться в таинственной пещере внутри горы, где вас точно защитит статуя лисы.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic159-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic159-preview.webp", 
+      alt: "Вход в пещеру", 
+      description: "Вход в пещеру"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic160-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic160-preview.webp", 
+      alt: "Ещё статуя лисы", 
+      description: "Ещё статуя лисы"
+      },
+  ]}
+/>
+
 А прямо за ним находится секретный (уже не очень) проход дальше вглубь пещеры, где расположено сердце всего Фокстауна — картофельное ядро и спящий лис (живой), охраняющий весь город.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic161-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic161-preview.webp", 
+      alt: "Картофельное ядро", 
+      description: "Картофельное ядро"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic162-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic162-preview.webp", 
+      alt: "Главный лис-защитник", 
+      description: "Главный лис-защитник"
+      },
+  ]}
+/>
+
 Наиболее масштабными постройками города можно назвать склад внутри горы и башню, в которую из него можно попасть.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic163-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic163-preview.webp", 
+      alt: "Склад", 
+      description: "Склад"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic164-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic164-preview.webp", 
+      alt: "Центральный холл с лифтами", 
+      description: "Центральный холл с лифтами"
+      },
+  ]}
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic165-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic165-preview.webp"
+  alt="Лисиная табалапка"
+  description="Лисиная табалапка"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic166-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic166-preview.webp"
+  alt="Башня"
+  description="Башня"
+/>
 
 Город продолжает активно развиваться: уже сейчас подготовлено место под строительство новых зданий, которые мы увидим в следующих отчётах.
 
@@ -1581,19 +1806,102 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Началось всё с дома самого Ghoul3kaneki, построенного на снежной горе, недалеко от Дачи Нотны и Флама, а затем город начал разрастаться на весь остров к югу и западу.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic167-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic167-preview.webp"
+  alt="Главный район новиграда"
+  description="Главный район новиграда"
+/>
+
 Сам город не имеет чётко выраженной стилистики, каждый житель строил так, как считал нужным, из-за чего он выглядит довольно хаотичным; тем не менее центральная часть города, построенная в основном <PhotoNamePlayer nickname="mrowmina"/>, выглядит вполне красиво.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic168-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic168-preview.webp"
+  alt="Беседка построенная mrowmina"
+  description="Беседка построенная mrowmina"
+/>
 
 В этой же части города расположился первый дом <PhotoNamePlayer nickname="AleksGamer_666"/> и дома игроков <PhotoNamePlayer nickname="Nagrule"/> и <PhotoNamePlayer nickname="NopN2309"/>.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic169-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic169-preview.webp"
+  alt="Дома AleksGamer_666 и Nagrule"
+  description="Дома AleksGamer_666 и Nagrule"
+/>
+
 Дальше на запад от центрального района начинается условный японский квартал, застроенный сакурами, пагодами и домами в азиатском стиле.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic170-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic170-preview.webp", 
+      alt: "Японский квартал города", 
+      description: "Японский квартал города"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic171-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic171-preview.webp", 
+      alt: "Японский квартал города", 
+      description: "Японский квартал города"
+      },
+  ]}
+/>
 
 Здесь же можно найти спуск в подземный бар, стилизованный под бары из игры Cyberpunk 2077.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic172-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic172-preview.webp"
+  alt="Кибербар"
+  description="Кибербар"
+/>
+
 Севернее, посреди небольшого леса, <PhotoNamePlayer nickname="Rocket_Opp"/> (нынче Lunai_Sere) построила коллективный дом-колодец, в котором помимо неё жило ещё несколько человек.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic173-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic173-preview.webp", 
+      alt: "Любимый дружбодом", 
+      description: "Любимый дружбодом"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic174-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic174-preview.webp", 
+      alt: "Любимый дружбодом", 
+      description: "Любимый дружбодом"
+      },
+  ]}
+/>
 
 Также нельзя не заметить тун-тун сахурчика в комнате... Его построила <PhotoNamePlayer nickname="Dashkova"/>, знайте героев в лицо.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic175-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic175-preview.webp"
+  alt="Трипл Ти"
+  description="Трипл Ти"
+/>
+
 На самом юго-востоке острова находится последний район города, который, пожалуй, является самым единообразным по стилю, за счёт чего смотрится довольно неплохо и органично внутри себя, хоть и, как и многое в городе, стоит недостроенным, возможно, навсегда.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic176-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic176-preview.webp"
+  alt="Красивые цветочки"
+  description="Красивые цветочки"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic177-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic177-preview.webp"
+  alt="Беседка"
+  description="Беседка"
+/>
 
 После перманентного бана основателя город фактически умер, и игроки, которым формально перешло право владения, им не занимаются, так как территория огромная, сумасбродная, и в одиночку тянуть её не имеет смысла. Тем не менее посетить его разок может быть довольно забавно: пара интересных построек в городе всё же есть.
 
@@ -1601,15 +1909,91 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 После смерти Новиграда mrowmina переселилась на базу игрока <PhotoNamePlayer nickname="derak"/> и навела там порядок, построив очень красивый портал в Надбедрочье, а также начав строительство наземной части базы, от которой на данный момент есть только фасад.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic178-2-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic178-2-preview.webp"
+  alt="Портал на базу Мины и Дерака"
+  description="Портал на базу Мины и Дерака"
+/>
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic178-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic178-preview.webp", 
+      alt:"Общий вид базы", 
+      description: "Общий вид базы"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic179-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic179-preview.webp", 
+      alt: "Недостроенный фасад дома", 
+      description: "Недостроенный фасад дома"
+      },
+  ]}
+/>
+
 Основной же интерес представляет подземная часть базы, построенная <PhotoNamePlayer nickname="derak"/>: здесь довольно обширные пространства с целым биомом, перенесённым с поверхности.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic180-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic180-preview.webp"
+  alt="Биом под землёй"
+  description="Биом под землёй"
+/>
 
 ### Торговый город Мана
 
 Основанный <PhotoNamePlayer nickname="Lilit_22"/> и <PhotoNamePlayer nickname="NopN2309"/> город Мана изначально являлся подспорьем для магазина в Надбедрочье, внутри которого находится портал в сам город.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic181-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic181-preview.webp"
+  alt="Главная площадь города"
+  description="Главная площадь города"
+/>
+
 Так, среди первых зданий города можно выделить паб «Старый Дуб», в котором принимали заказы на варку алкоголя, большую винокурню/пивоваренный завод, а также пару административных построек вроде здания мэрии.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic182-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic182-preview.webp"
+  alt="Пивоваренный завод"
+  description="Пивоваренный завод"
+/>
+
 В другой части города расположился жилой район, в котором собраны разнообразные особняки жителей, каждый из которых по-своему красив и интересен.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic183-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic183-preview.webp", 
+      alt:"Жилые дома", 
+      description: "Жилые дома"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic184-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic184-preview.webp", 
+      alt: "Жилые дома", 
+      description: "Жилые дома"
+      },
+  ]}
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic185-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic185-preview.webp"
+  alt="Территория за жилым районом"
+  description="Территория за жилым районом"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic186-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic186-preview.webp"
+  alt="Общий вид на жилой район города"
+  description="Общий вид на жилой район города"
+/>
 
 На данный момент город пребывает в замороженном состоянии и прекратил своё развитие, так как его основательницы занялись другими проектами на сервере.
 
@@ -1639,21 +2023,115 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Собственно, весь город зародился вокруг этого самого заражённого дерева, которое сдерживает аметист, после чего к городу присоединилось много игроков, которые превратили его в полноценное поселение со своими домами и другими активностями.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic187-1-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic187-1-preview.webp"
+  alt="А.М.Е.Т.И.С.Т"
+  description="А.М.Е.Т.И.С.Т"
+/>
+
 Лично мне хочется особенно выделить шагоход AT-AT из Звёздных войн, который расположился на горе вблизи дерева. Он, конечно, никак не относится к тематике города, но как же стильно выглядит.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic187-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic187-preview.webp"
+  alt="Йоу-Йоу Звёздные Войны"
+  description="Йоу-Йоу Звёздные Войны"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic187-2-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic187-2-preview.webp"
+  alt="Реально круто"
+  description="Реально круто"
+/>
 
 Там же на горе расположились два заражённых скалком здания, в которых живут жители города.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic188-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic188-preview.webp"
+  alt="Сжечь"
+  description="Сжечь"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic189-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic189-preview.webp"
+  alt="Сжечь скалк, котиков спрятать"
+  description="Сжечь скалк, котиков спрятать"
+/>
+
 С другой стороны от дерева находятся остальные жилые дома, выполненные в фэнтезийном стиле и в цвет аметиста для лучшего сдерживания скалкового заражения.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic190-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic190-preview.webp", 
+      alt:"Жилые дома Цитадели", 
+      description: "Жилые дома Цитадели"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic191-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic191-preview.webp", 
+      alt:"Жилые дома Цитадели", 
+      description: "Жилые дома Цитадели"
+      },
+  ]}
+/>
 
 Не обошла город и статуеангеломания: что удивительно, такой статуи всё ещё ни у кого не было, и конкретно эта имеет довольно... интересные особенности.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic192-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic192-preview.webp"
+  alt="Спасибо, хорошо"
+  description="Спасибо, хорошо"
+/>
+
 В стороне от статуи летают строящиеся острова: пока что на них есть только деревья сакуры и небольшая беседка с садом. Будет интересно узнать, во что это выльется в дальнейшем.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic193-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic193-preview.webp"
+  alt="Летающие острова"
+  description="Летающие острова"
+/>
 
 Ну и самая заметная постройка города, заслонившая собой солнце на большом участке земли, — это чёрная дыра исполинских размеров, которая, думаю, не нуждается в представлении.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic194-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic194-preview.webp"
+  alt="Ну и дыра"
+  description="Ну и дыра"
+/>
+
 Вплотную к Аметистовой цитадели расположился ещё один небольшой город-поселение, принадлежащий <PhotoNamePlayer nickname="m1rt"/>, который имеет свой отдельный обустроенный портал в Надбедрочье и когда-то действительно был обособленным и самостоятельным, но сейчас фактически слился с территорией Цитадели.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic195-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic195-preview.webp"
+  alt="Портал в Надбедрочье"
+  description="Портал в Надбедрочье"
+/>
+
 В поселении все здания заражены скалком, а также имеется своё дерево, которое, впрочем, не было должным образом сдержано аметистом, вследствие чего, вероятно, город и был захвачен скалком.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic196-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic196-preview.webp"
+  alt="Заражённое дерево"
+  description="Заражённое дерево"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic197-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic197-preview.webp"
+  alt="Сжечь сжечь сжечь"
+  description="Сжечь сжечь сжечь"
+/>
 
 ### Цукиёми
 
@@ -1661,9 +2139,86 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 У города нет чёткой стилистики, однако он не выглядит сумбурно, как это было с Новиградом: хотя каждый дом выглядит по-своему, всё вместе смотрится хорошо и органично.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic198-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic198-preview.webp"
+  alt="Центральная площадь города"
+  description="Центральная площадь города"
+/>
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic199-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic199-preview.webp", 
+      alt:"Дома жителей города", 
+      description: "Дома жителей города"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic200-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic200-preview.webp", 
+      alt:"Дома жителей города", 
+      description: "Дома жителей города"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic201-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic201-preview.webp", 
+      alt:"Дома жителей города", 
+      description: "Дома жителей города"
+      },
+  ]}
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic201-1-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic201-1-preview.webp"
+  alt="Розовый остров"
+  description="Розовый остров"
+/>
+
 Можно отметить интересный ландшафтный дизайн, а также западную часть города, где выстроилась плотная застройка из домов в средневековом стиле и немного скалкового заражения, пришедшего прямиком из Аметистовой цитадели.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic202-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic202-preview.webp", 
+      alt:"Средневековый чумной город", 
+      description: "Средневековый чумной город"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic203-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic203-preview.webp", 
+      alt:"Средневековый чумной город", 
+      description: "Средневековый чумной город"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic204-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic204-preview.webp", 
+      alt:"Средневековый чумной город", 
+      description: "Средневековый чумной город"
+      },
+  ]}
+/>
+
 Что очень радует, жители города не пошли по стопам остальных и построили статую НЕ ангела (!!!), а дракона, величественного и устрашающего.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic205-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic205-preview.webp", 
+      alt:"Надеюсь он не станет новым боссом от Мурлока", 
+      description: "Надеюсь он не станет новым боссом от Мурлока"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic206-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic206-preview.webp", 
+      alt:"Надеюсь он не станет новым боссом от Мурлока", 
+      description: "Надеюсь он не станет новым боссом от Мурлока"
+      },
+  ]}
+/>
 
 ### Хаттенбург
 
@@ -1685,6 +2240,27 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Сегодня Хаттенбург представляет собой небольшой средневековый город, выросший из первых построек Шляпников. Жители города придерживаются общей стилистики в архитектуре и внешнем виде персонажей, используя одежду и элементы оформления, соответствующие средневековой тематике.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic207-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic207-preview.webp"
+  alt="Главная площадь города"
+  description="Главная площадь города"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic208-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic208-preview.webp"
+  alt="Вид на жилую застройку"
+  description="Вид на жилую застройку"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic209-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic209-preview.webp"
+  alt="Уютное средневековье"
+  description="Уютное средневековье"
+/>
+
 > Хаттенбург — город, рождённый из дружбы, построенный руками своих жителей и живущий по законам старого доброго средневековья.
 
 ### Скайвэй
@@ -1692,23 +2268,173 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Небольшой городок, неподалёку от Гриндфола, основанный игроками <PhotoNamePlayer nickname="MyxoMooP"/>, <PhotoNamePlayer nickname="Phriiii"/>, <PhotoNamePlayer nickname="Licoric33"/>, <PhotoNamePlayer nickname="MishelF"/>, <PhotoNamePlayer nickname="Gdubq"/>,
 который привлекает прежде всего высоченным небоскрёбом, построенным до максимальной высоты мира (за время написания отчёта небоскрёб успели снести).
 
-Рядом с местом, где раньше стоял небоскрёб, заложен новый котлован, вероятно, под ещё большее здание: будем надеяться, что город ещё удивит своими высотками.
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic210-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic210-preview.webp"
+  alt="Вид на город до сноса небоскрёба"
+  description="Вид на город до сноса небоскрёба"
+/>
+
+Рядом с местом, где раньше стоял небоскрёб, заложен новый котлован, на котором сейчас идёт активное строительство нового небоскрёба, больше и шире прежнего.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic211-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic211-preview.webp"
+  alt="Главная улица города"
+  description="Главная улица города"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic212-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic212-preview.webp"
+  alt="Вид на город со стройки нового небоскрёба"
+  description="Вид на город со стройки нового небоскрёба"
+/>
 
 ### ЯМА
 
 Великая ЯМА продолжает развиваться и обретает окончательное величие. Были полностью достроены стены у технических зданий, а также построен целый космодром!
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic213-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic213-preview.webp", 
+      alt:"Улетаем подальше", 
+      description: "Улетаем подальше"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic214-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic214-preview.webp", 
+      alt:"Улетаем подальше", 
+      description: "Улетаем подальше"
+      },
+  ]}
+/>
+
 Но самыми заметными новыми постройками являются две очень интересные статуи, для строительства которых было использовано большое количество алмазной руды, добытой в самой ЯМЕ.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic215-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic215-preview.webp"
+  alt="Уберите детей подальше от экранов"
+  description="Уберите детей подальше от экранов"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic216-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic216-preview.webp"
+  alt="Уберите анимешников подальше от экранов"
+  description="Уберите анимешников подальше от экранов"
+/>
 
 ### База Gangsta
 
 Ещё один интересный образчик азиатского стиля с использованием розового дерева. В этой базе от остальных сильно выделяется использование преимущественно белого цвета с розовым.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic217-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic217-preview.webp"
+  alt="Вид базы с высоты"
+  description="Вид базы с высоты"
+/>
+
 Сильнее всего среди строений выделяются большая пагода на холме, а также особняк внутри розовых (!!!) крепостных стен.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic218-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic218-preview.webp"
+  alt="Пагода"
+  description="Пагода"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic219-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic219-preview.webp"
+  alt="Особняк внутри розовых стен"
+  description="Особняк внутри розовых стен"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic220-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic220-preview.webp"
+  alt="Вид на пагоду с особняка"
+  description="Вид на пагоду с особняка"
+/>
 
 ### База Aiwai
 
 Базовый домик новичка с простым и лаконичным дизайном. Давайте полностью рассмотрим его на скриншотах.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic221-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic221-preview.webp"
+  alt="Дом новичка"
+  description="Дом новичка"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic222-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic222-preview.webp"
+  alt="Вход в дом новичка"
+  description="Вход в дом новичка"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic223-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic223-preview.webp"
+  alt="Коллекция ивентовых предметов новичка"
+  description="Коллекция ивентовых предметов новичка"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic224-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic224-preview.webp"
+  alt="Коллекция картин новичка"
+  description="Коллекция картин новичка"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic225-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic225-preview.webp"
+  alt="Мост до другой части дома новичка"
+  description="Мост до другой части дома новичка"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic226-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic226-preview.webp"
+  alt="Трон королевы базы новичка"
+  description="Трон королевы базы новичка"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic227-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic227-preview.webp"
+  alt="Обеденая зала новичка"
+  description="Обеденая зала новичка"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic228-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic228-preview.webp"
+  alt="Коллекция брони новичка"
+  description="Коллекция брони новичка"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic229-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic229-preview.webp"
+  alt="Новичок попал в кадр"
+  description="Новичок попал в кадр"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic230-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic230-preview.webp"
+  alt="База новичка с другой стороны"
+  description="База новичка с другой стороны"
+/>
 
 Желаем каждому строить такие домики новичков в первые часы игры!
 
@@ -1819,6 +2545,8 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 Который на данный момент переехал в другое место Надбедрочья и стал только лучше и краше.
 
 Очень интересным выглядит магазин <PhotoNamePlayer nickname="maxim2222225"/> в виде большого козла, внутри которого, как ни странно, можно оптом купить все виды рогов и дудеть в них.
+
+<TelegramPost channel="hardshard_newspaper" postId="993" />
 
 Там же, рядом с ним, расположился механизм, построенный <PhotoNamePlayer nickname="Viskas"/> для игры в динозаврика из Google Chrome.
 
