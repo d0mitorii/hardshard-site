@@ -1046,49 +1046,369 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Славный город Гриндфол продолжает развиваться ударными темпами. Он получил большой приток новых игроков, которые уже успели внести свой вклад в строительство города. Одним из самых заметных можно назвать новый индустриальный район, построенный игроком <PhotoNamePlayer nickname="DK5H"/> в его фирменном стимпанк-стиле.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic85-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic85-preview.webp"
+  alt="Индустриальный район Сдека"
+  description="Индустриальный район Сдека"
+/>
+
 Тут можно увидеть множество машин и автоматов, подъёмники, кран, перегонные кубы, а также многочисленных работников, созданных с помощью статуй из недавнего контентного дропа «Мечта ремесленника».
+
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic86-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic86-preview.webp", 
+      alt: "Экскаватор", 
+      description: "Экскаватор"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic87-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic87-preview.webp", 
+      alt: "Ветряк", 
+      description: "Ветряк"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic89-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic89-preview.webp", 
+      alt: "Часовая башня", 
+      description: "Часовая башня"
+      },
+  ]}
+/>
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic88-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic88-preview.webp", 
+      alt: "Работник за пианино", 
+      description: "Работник за пианино"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic90-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic90-preview.webp", 
+      alt: "Карта Гриндфола", 
+      description: "Карта Гриндфола"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic91-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic91-preview.webp", 
+      alt: "Подъёмник", 
+      description: "Подъёмник"
+      },
+  ]}
+/>
 
 На противоположном конце города был отстроен ещё один жилой район с необычным фасадом, обращённым к морю, который интересно переплетает разные здания с помощью лестниц и переходов.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic92-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic92-preview.webp", 
+      alt: "Общий вид района", 
+      description: "Общий вид района"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic93-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic93-preview.webp", 
+      alt: "Морской фасад", 
+      description: "Морской фасад"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic94-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic94-preview.webp", 
+      alt: "Стеклянное здание", 
+      description: "Стеклянное здание"
+      },
+  ]}
+/>
+
 Недалеко от нового района новичком <PhotoNamePlayer nickname="AleksGamer_666"/> была построена Статуя Свободы вместе с искусственным островом, на котором она расположена. Учитывая, что стиль города косит под американское арт-деко, постройка выглядит очень уместно.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic95-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic95-preview.webp"
+  alt="Господи, благослави Гриндфол"
+  description="Господи, благослави Гриндфол"
+/>
 
 Другие новички начали «колонизировать» земли по другую сторону заливов и рек внутри города: например, игрок <PhotoNamePlayer nickname="margoni"/> построил небольшую обсерваторию на противоположном берегу реки от нового района города.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic96-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic96-preview.webp"
+  alt="Обсерватория Маргони"
+  description="Обсерватория Маргони"
+/>
+
 Там же недалеко расположились мини-базы <PhotoNamePlayer nickname="D4RKS1D2"/>, <PhotoNamePlayer nickname="foptop5675"/> и упомянутого выше АлексГеймера.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic97-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic97-preview.webp", 
+      alt: "Базы новичков", 
+      description: "Базы новичков"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic98-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic98-preview.webp", 
+      alt: "Базы новичков", 
+      description: "Базы новичков"
+      },
+  ]}
+/>
 
 Более заметным можно назвать дом <PhotoNamePlayer nickname="Aiwai"/>, который имеет очень высокую внешнюю и внутреннюю проработку, что в дальнейшем ещё будет заметно на её личной базе.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic99-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic99-preview.webp", 
+      alt: "База Айви", 
+      description: "База Айви"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic100-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic100-preview.webp", 
+      alt: "База Айви", 
+      description: "База Айви"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic101-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic101-preview.webp", 
+      alt: "База Айви", 
+      description: "База Айви"
+      },
+  ]}
+/>
+
 Мини-улица зданий <PhotoNamePlayer nickname="ClockworkJerzy"/> тоже обзавелась парой новых построек.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic102-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic102-preview.webp", 
+      alt: "Улица ClockworkJerzy", 
+      description: "Улица ClockworkJerzy"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic103-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic103-preview.webp", 
+      alt: "Улица ClockworkJerzy", 
+      description: "Улица ClockworkJerzy"
+      },
+  ]}
+/>
 
 А радиотелескоп наконец обзавёлся мостом и дорогой к нему от основного острова.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic104-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic104-preview.webp"
+  alt="Мост до радиотелескопа"
+  description="Мост до радиотелескопа"
+/>
+
 А ещё в лесах рядом с ним затесался сиреноголовый.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic105-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic105-preview.webp"
+  alt="АААаааАА"
+  description="АААаааААаааА"
+/>
 
 На горе свою небольшую стройку ведёт <PhotoNamePlayer nickname="Vilpat"/>: пока построено немного, но это честная работа.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic106-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic106-preview.webp"
+  alt="Ферма Vilpat"
+  description="Ферма Vilpat"
+/>
+
 Очень сильно разрослась система канализаций и приросла целым новым «районом», если можно так сказать. Он очень разноцветный, и даже зная, что здесь можно посмотреть, в нём очень легко заблудиться, но если смотреть внимательнее, можно найти несколько интересных построек, например, мини-игру на двоих, в которой необходимо угадать последовательность цветов, которые выставил соперник.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic107-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic107-preview.webp"
+  alt="Вход в комнату с мини игрой"
+  description="Вход в комнату с мини игрой"
+/>
 
 Ещё тут можно найти секретный бар.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic108-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic108-preview.webp"
+  alt="Бар"
+  description="Бар"
+/>
+
 Выйти на небольшую киберпанк-улицу.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic109-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic109-preview.webp", 
+      alt: "Киберпанк", 
+      description: "Киберпанк"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic110-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic110-preview.webp", 
+      alt: "Тут можно установить себе интересный имплант", 
+      description: "Тут можно установить себе интересный имплант"
+      },
+  ]}
+/>
 
 А также найти целый приватный (уже не очень) караоке-клуб с VIP-комнатами, сценой и баром.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic111-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic111-preview.webp", 
+      alt: "Зал со сценой", 
+      description: "Зал со сценой"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic112-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic112-preview.webp", 
+      alt: "Бар", 
+      description: "Бар"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic113-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic113-preview.webp", 
+      alt: "VIP-комната", 
+      description: "VIP-комната"
+      },
+  ]}
+/>
+
+
 Помимо этого в самих канализационных трубах появилось несколько ответвлений поменьше, которые ведут в пещеру, секретный (уже не очень) магазин и подземную парковку.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic114-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic114-preview.webp", 
+      alt: "Выход к пещере", 
+      description: "Выход к пещере"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic115-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic115-preview.webp", 
+      alt: "Секретный магазин", 
+      description: "Секретный магазин"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic116-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic116-preview.webp", 
+      alt: "Трубы пробили стену на парковке", 
+      description: "Трубы пробили стену на парковке"
+      },
+  ]}
+/>
 
 На подземной парковке, кстати, припарковался сам Молния Маквин.
 
-Наконец-то была открыта экспозиция музея ивентовых предметов, причём не только в здании, которое было показано ещё в прошлом отчёте.
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic117-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic117-preview.webp"
+  alt="Кчау"
+  description="Кчау"
+/>
+
+Наконец-то была открыта экспозиция музея ивентовых предметов в здании, которое было показано ещё в прошлом отчёте.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic118-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic118-preview.webp"
+  alt="Постройки с ивента Морганы в музее"
+  description="Постройки с ивента Морганы в музее"
+/>
 
 Помещение в подножье Статуи Правосудия обрело функционал, и в нём разместился собственный суд города.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic119-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic119-preview.webp", 
+      alt: "Суд у подножья Статуи Правосудия", 
+      description: "Суд у подножья Статуи Правосудия"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic120-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic120-preview.webp", 
+      alt: "Суд у подножья Статуи Правосудия", 
+      description: "Суд у подножья Статуи Правосудия"
+      },
+  ]}
+/>
+
+
 В непосредственной близости от города также расположен ещё один мини-городок, построенный игроком <PhotoNamePlayer nickname="PRO338765"/>; он пока не является полноценной частью Гриндфола, но находится настолько близко к нему, что будет упомянут в этом разделе.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic121-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic121-preview.webp"
+  alt="Город PRO338765"
+  description="Город PRO338765"
+/>
+
 Последней заметной постройкой города является зловещее здание тюрьмы, построенное игроками <PhotoNamePlayer nickname="FairFish"/>, <PhotoNamePlayer nickname="Fitifong228"/> и <PhotoNamePlayer nickname="Lumeeen"/> — вероятно, именно в неё будут отправляться осуждённые новым судом Гриндфола.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic122-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic122-preview.webp", 
+      alt: "Страшность", 
+      description: "Страшность"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic123-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic123-preview.webp", 
+      alt: "Страшность", 
+      description: "Страшность"
+      },
+  ]}
+/>
 
 #### Вино-град
 
 Вплотную к территории Гриндфола расположился новый город с каламбурным названием «Вино-град», основанный <PhotoNamePlayer nickname="_Sekio_"/>. Пока что тут не очень много всего — главная площадь, маяк и портал, но город развивается и в дальнейшем будет расширяться.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic124-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic124-preview.webp", 
+      alt: "Вино-град", 
+      description: "Вино-град"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic125-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic125-preview.webp", 
+      alt: "Вино-град", 
+      description: "Вино-град"
+      },
+  ]}
+/>
 
 ### Кораллон
 
@@ -1098,19 +1418,122 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Начинается всё с красивейшего портала в Надбедрочье, на котором можно увидеть небольшой Первоисточник.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic126-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic126-preview.webp", 
+      alt: "Портал в Надбедрочье в Кораллон", 
+      description: "Портал в Надбедрочье в Кораллон"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic127-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic127-preview.webp", 
+      alt: "Портал в Надбедрочье в Кораллон", 
+      description: "Портал в Надбедрочье в Кораллон"
+      },
+  ]}
+/>
+
 На вершине горы появился вход в Кораллон — прямо под водой.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic128-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic128-preview.webp"
+  alt="Вход в Кораллон"
+  description="Вход в Кораллон"
+/>
 
 Необычную морскую архитектуру, которой практически никогда не было на нашем сервере, рассматривать безумно интересно; начать можно с главного этажа, с которого можно выйти к тронному залу.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic129-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic129-preview.webp", 
+      alt: "Тронный зал", 
+      description: "Тронный зал"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic130-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic130-preview.webp", 
+      alt: "Тронный зал", 
+      description: "Тронный зал"
+      },
+  ]}
+/>
+
 Есть место, которое можно использовать для собраний; с учётом того, что оно полностью под водой, это было бы действительно интересно.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic131-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic131-preview.webp", 
+      alt: "Место для собраний", 
+      description: "Место для собраний"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic132-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic132-preview.webp", 
+      alt: "Место для собраний", 
+      description: "Место для собраний"
+      },
+  ]}
+/>
 
 Ниже главного этажа спуск идёт ещё дальше и расширяется вплоть до самого основания горы.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic133-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic133-preview.webp"
+  alt="Спуск к основанию Кораллона"
+  description="Спуск к основанию Кораллона"
+/>
+
 Здесь же находится и сам Первоисточник.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic134-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic134-preview.webp"
+  alt="Первоисточник"
+  description="Первоисточник"
+/>
 
 > _В каком же плачевном состоянии находится Первоисточник… можно ли это изменить?_
 
 Снаружи подводной башни находится помещение исполинских размеров, полностью покрытое коралловыми рифами; на стене можно увидеть флаг Кораллона.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic135-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic135-preview.webp"
+  alt="Выход во внутреннее море"
+  description="Выход во внутреннее море"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic136-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic136-preview.webp"
+  alt="Флаг Кораллона"
+  description="Флаг Кораллона"
+/>
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic137-full.webp",
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic137-preview.webp", 
+      alt: "Коралловые рифы", 
+      description: "Коралловые рифы"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic138-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic138-preview.webp", 
+      alt: "Коралловые рифы", 
+      description: "Коралловые рифы"
+      },
+  ]}
+/>
 
 Лор Кораллона обширный и раскрывается по мере существования сервера, уверен, мы увидим ещё много интересного.
 
