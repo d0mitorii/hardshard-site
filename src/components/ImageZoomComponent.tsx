@@ -47,6 +47,7 @@ export function ImageZoom(props: ImageZoomProps) {
           style={{
             maxHeight: props.maxHeight || "100%",
             cursor: "zoom-in",
+            zIndex: 2,
           }}
         />
       </div>

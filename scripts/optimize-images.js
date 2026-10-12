@@ -3,8 +3,9 @@ const fs = require("fs-extra");
 const path = require("path");
 const glob = require("glob");
 
-const INPUT_DIR = "./static/img/mechanics/craftsman's-dream";
-const OUTPUT_DIR = "./static/img/mechanics/craftsman's-dream";
+const INPUT_DIR = "./static/img/reports/season-4/report-3-may-sept-2026/";
+const OUTPUT_DIR = "./static/img/reports/season-4/report-3-may-sept-2026/";
+const FILE_NAME_PREFIX = "rep3";
 
 const PREVIEW_WIDTH = 800;
 const FULL_WIDTH = 1800;
@@ -33,7 +34,8 @@ async function processImage(file) {
 }
 
 async function run() {
-  const files = glob.sync(`${INPUT_DIR}/**/*.{jpg,jpeg,png}`);
+  const fileNamePattern = FILE_NAME_PREFIX ? `${FILE_NAME_PREFIX}*` : "*";
+  const files = glob.sync(`${INPUT_DIR}/**/${fileNamePattern}.{jpg,jpeg,png}`);
 
   for (const file of files) {
     await processImage(file);

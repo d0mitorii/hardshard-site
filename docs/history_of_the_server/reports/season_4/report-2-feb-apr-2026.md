@@ -790,7 +790,7 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 ### Small ЯМgg
 
-Помимо строительства в славном городе GrindFall, <PhotoNamePlayer nickname="BlessedWithLuck"/> ещё имеет личный проект под названием Small ЯМgg, на данный момент представляющий из себя ~~ЯМУ~~ небольшую яму, в которой впоследствии что-то будет, но пока проект находится на глубокой стадии строительства.
+Помимо строительства в славном городе GrindFall, <PhotoNamePlayer nickname="BlessedWithLuck"/> ещё имеет личный проект под названием Small ЯМgg, на данный момент представляющий из себя ~~ЯМУ~~ небольшую яму, в которой впоследствии что-то будет, но пока проект находится на ранней стадии строительства.
 
 <ImageZoom
   src="/img/reports/season-4/report-2-feb-apr-2026/rep2-pic84-full.webp"
@@ -945,7 +945,10 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Iphone 17 Pro Black Titanium 1 TB от <PhotoNamePlayer nickname="mippulya"/>.
 
-К сожалению, копии арта на сервере поломались, а оригинал был снесён, если найдётся скрин, он будет приложен после обновления отчёта.
+<ImageZoom
+  src="/img/reports/season-4/report-2-feb-apr-2026/rep2-pic102-full.webp"
+  srcThumb="/img/reports/season-4/report-2-feb-apr-2026/rep2-pic102-preview.webp"
+/>
 
 Хорнет от <PhotoNamePlayer nickname="Mimino87"/>.
 
