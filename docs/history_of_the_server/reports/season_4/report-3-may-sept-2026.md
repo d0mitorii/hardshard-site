@@ -2442,37 +2442,210 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Милая база посреди океана, приятные домики, мостики и морской бриз, что ещё нужно для счастливой жизни?
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic231-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic231-preview.webp", 
+      alt:"Общий вид базы", 
+      description: "Общий вид базы"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic232-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic232-preview.webp", 
+      alt:"Склад и трейдхолл", 
+      description: "Склад и трейдхолл"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic233-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic233-preview.webp", 
+      alt:"Жилой дом", 
+      description: "Жилой дом"
+      },
+  ]}
+/>
+
 ### Деревня Сноучестер
 
-Небольшая зимняя деревня на краю известного на данный момент мира, где поселились <PhotoNamePlayer nickname="KidAmnesiacc"/> и <PhotoNamePlayer nickname="now33bs"/>. Несколько уютненьких домов, зимняя прохлада и бриз метели в лицо — чего ещё нужно для умиротворённой жизни на границе цивилизации?
+Небольшая зимняя деревня на краю известного на данный момент мира, где поселились <PhotoNamePlayer nickname="KidAmnesiacc"/> и <PhotoNamePlayer nickname="now33bs"/>. Несколько уютненьких домов, зимняя прохлада и бриз метели в лицо — чего ещё нужно для умиротворённой жизни на границе цивилизации, если вам не нравится жизнь в океане?
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic234-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic234-preview.webp"
+  alt="Приветливая виселица"
+  description="Приветливая виселица"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic235-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic235-preview.webp"
+  alt="Деревня без газа"
+  description="Деревня без газа"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic236-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic236-preview.webp"
+  alt="Можно топить конями"
+  description="Можно топить конями"
+/>
+
 
 ### Приватная территория компании Сикоры
 
 Территория являющаяся на данный момент базой игрока <PhotoNamePlayer nickname="SikoraPNNN"/> (изначально игроков было больше, но остальные по тем или иным причинам прекратили свою деятельность, вероятно, временно). Из примечательного хочется показать строящуюся ЯМУ, не такую классную как у Мульцибера с Арисолм, но тоже многообещающую.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic237-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic237-preview.webp"
+  alt="будущая ЯМА"
+  description="будущая ЯМА"
+/>
+
 Но самое главное это здание Фуфелшмерц Пакость Инкорпорейтед, вот это уже реально уровень.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic238-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic238-preview.webp"
+  alt="Всем трепещать"
+  description="Всем трепещать"
+/>
 
 ### База DK5H
 
 Личная база <PhotoNamePlayer nickname="DK5H"/> тоже поражает воображение: исполинский стимпанк-завод с расположенным на нём двуногим роботом смотрится действительно свежо и интересно.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic239-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic239-preview.webp"
+  alt="Портал в Дкшендию"
+  description="Портал в Дкшендию"
+/>
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic240-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic240-preview.webp", 
+      alt:"Паровой завод", 
+      description: "Паровой завод"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic242-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic242-preview.webp", 
+      alt:"Паровой завод", 
+      description: "Паровой завод"
+      },
+  ]}
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic241-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic241-preview.webp"
+  alt="Курочки захотелось"
+  description="Курочки захотелось"
+/>
+
 ### Село ch3rkv
 
 Небольшая база рядом с территорией компании Сикоры, выполненная в азиатском стиле. Несмотря на то. что на сервере довольно многие игроки выбирают такой вид архитектуры за основу в своих проектах, каждый из них чем-то уникально выделяетя, так и база <PhotoNamePlayer nickname="ch3rkv"/> не похожа на другие города и поселения в азиатском стиле.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic243-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic243-preview.webp"
+  alt="Портал в село"
+  description="Портал в село"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic244-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic244-preview.webp"
+  alt="Вид на село сверху"
+  description="Вид на село сверху"
+/>
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic245-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic245-preview.webp", 
+      alt:"Прекрасные домики эпохи Готторё", 
+      description: "Прекрасные домики эпохи Готторё"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic246-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic246-preview.webp", 
+      alt:"Прекрасные домики эпохи Готторё", 
+      description: "Прекрасные домики эпохи Готторё"
+      },
+  ]}
+/>
+
 
 ### Корабль в Энде Kanamori_Arice
 
 Любовь <PhotoNamePlayer nickname="Kanamori_Arice"/> к гигантским постройкам поражает воображение, вот и люди, увидевшие исполинский корабль из игры Helldivers в Энде, офигели — давайте поофигеваем и мы.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic247-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic247-preview.webp", 
+      alt:"Товарищ майор, я не жук", 
+      description: "Товарищ майор, я не жук"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic248-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic248-preview.webp", 
+      alt:"Товарищ майор, я не жук", 
+      description: "Товарищ майор, я не жук"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic249-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic249-preview.webp", 
+      alt:"Товарищ майор, я не жук", 
+      description: "Товарищ майор, я не жук"
+      },
+  ]}
+/>
+
 ### Бекрумс
 
 Игрок <PhotoNamePlayer nickname="maxim2222225"/> не изменяет себе в безумности своих построек: во время активной фазы игры на сервере он построил целый Бекрумс, жаль, без чернокожего мужчины в странной одежде пирата.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic250-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic250-preview.webp"
+  alt="ААаааа"
+  description="ААаааа"
+/>
+
 Как и в любом бекрумсе, это не просто жёлтые стены и люминесцентные лампы, тут можно найти и немножечко чертовщины, например, распятого медного голема.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic251-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic251-preview.webp"
+  alt="За что его так..."
+  description="За что его так..."
+/>
 
 Или целую комнату охранника из Фнафа.
 
-В общем, место обязательное к посещению, найти его можно недалеко от портала в Гриндфол (в Бекрумс просто так не попасть, надо немного самому его поискать).
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic252-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic252-preview.webp"
+  alt="Мишка Фреде тут тоже есть?"
+  description="Мишка Фреде тут тоже есть?"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic253-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic253-preview.webp"
+  alt="Что? Блок чак-чака?"
+  description="Что? Блок чак-чака?"
+/>
+
+В общем, место обязательное к посещению, тут ещё много комнат, которые намеренно не показаны, чтобы у вас было больше мотивации сюда прийти, найти его можно недалеко от портала в Гриндфол (в Бекрумс просто так не попасть, надо немного самому его поискать).
 
 ### Храм Культа Второго пришествия Морганы
 
@@ -2482,33 +2655,164 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Готический храм культистов Второго пришествия Морганы является первой и, надеемся, не последней постройкой культа, призванной подготовить мир к скорейшему возвращению Богини Морганы. Он уже успел стать локацией для свадьбы <PhotoNamePlayer nickname="Wolframer"/> и <PhotoNamePlayer nickname="Raial_Tennaney"/>, а также частью квеста по поиску кота Рофланыча, о которых было рассказано выше.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic254-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic254-preview.webp"
+  alt="Чувствуете?"
+  description="Чувствуете?"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic255-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic255-preview.webp"
+  alt="Защитники храма"
+  description="Защитники храма"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic256-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic256-preview.webp"
+  alt="Внутреннее убранство храма"
+  description="Внутреннее убранство храма"
+/>
+
 Каждый уверовавший в Богиню Моргану может прийти в этот храм и прочувствовать её присутствие рядом с собой.
 
 ### База BlueAxolotl228
 
 На самом юге сервера, у границы мира расположилась база игроков <PhotoNamePlayer nickname="BlueAxolotl228"/> и <PhotoNamePlayer nickname="NightFive43"/>. На поверхности не так много всего: лучший дизайн портала в истории в виде воткнутого меча, храм и мельница.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic257-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic257-preview.webp"
+  alt="Великий меч-потал"
+  description="Великий меч-потал"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic258-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic258-preview.webp"
+  alt="Верхняя часть базы"
+  description="Верхняя часть базы"
+/>
+
 Самое интересное же расположилось под землёй, вход туда поначалу найти не так сложно. Тут можно увидеть очень красиво обустроенную мшистую пещеру, тропинки в которой ведут к дому самого Аксолотля.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic259-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic259-preview.webp"
+  alt="Подземная часть базы"
+  description="Подземная часть базы"
+/>
+
 Из самого примечательного внутри нельзя не показать зачаровальню в аметистах, расположенную посреди полутёмной комнаты, где не видно стен, из-за чего создаётся очень красивый эффект непроглядной тьмы.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic260-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic260-preview.webp", 
+      alt:"Аметист от скалка?", 
+      description: "Аметист от скалка?"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic261-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic261-preview.webp", 
+      alt:"Чупакабрик", 
+      description: "Чупакабрик"
+      },
+  ]}
+/>
 
 ### База 36thguardian
 
 Величественная пирамида, построенная посреди пустыни. Сказать про неё много не получится, но и не упомянуть её в этом отчёте нельзя.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic262-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic262-preview.webp"
+  alt="Чья это гробница?"
+  description="Чья это гробница?"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic263-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic263-preview.webp"
+  alt="Внутреннее убранство пирамиды"
+  description="Внутреннее убранство пирамиды"
+/>
+
 ### Small ЯМgg
 
 Личный проект <PhotoNamePlayer nickname="BlessedWithLuck"/> продолжил своё развитие: яма была выкопана до конца и начала обретать вид (по крайней мере, в части, которая ближе к земле). Всё ещё непонятно, что тут будет, но выглядит интересно и красиво.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic264-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic264-preview.webp"
+  alt="Уже не очень смолл ямг"
+  description="Уже не очень смолл ямг"
+/>
 
 ### Замок x666testpub
 
 Булыжниковый замок <PhotoNamePlayer nickname="x666testpub"/> был полностью снесён, и место под его строительство очень сильно расширилось. Тест играет не очень часто и пока успел только возвести крепостные стены и заложить несколько зданий внутри них.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic265-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic265-preview.webp", 
+      alt:"Новый замок Паба", 
+      description: "Новый замок Паба"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic266-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic266-preview.webp", 
+      alt:"Новый замок Паба", 
+      description: "Новый замок Паба"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic267-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic267-preview.webp", 
+      alt:"Новый замок Паба", 
+      description: "Новый замок Паба"
+      },
+  ]}
+/>
+
 ### Главный остров Энда
 
 Силами <PhotoNamePlayer nickname="mamochkaa"/> и <PhotoNamePlayer nickname="_AUZER_"/> главный остров Энда и общественная ферма эндерменов стали красивыми и теперь радуют глаз, а не просто выполняют свою практическую функцию.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic268-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic268-preview.webp"
+  alt="Обновлённый главный остров Энда"
+  description="Обновлённый главный остров Энда"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic269-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic269-preview.webp"
+  alt="Обновлёная ферма эндерменов"
+  description="Обновлёная ферма эндерменов"
+/>
+
 Также игроки <PhotoNamePlayer nickname="Skywoker02"/>, <PhotoNamePlayer nickname="GoldMagic1"/> и <PhotoNamePlayer nickname="Niderroin"/> занялись оформлением общественного портала как в Надбедрочье, так и непосредственно в крепости.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic270-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic270-preview.webp"
+  alt="Обновлённый портал в Энд"
+  description="Обновлённый портал в Энд"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic271-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic271-preview.webp"
+  alt="Портал к порталу в Энд в Надбедрочье"
+  description="Портал к порталу в Энд в Надбедрочье"
+/>
 
 ### Прочие постройки новичков
 
@@ -2518,17 +2822,82 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Рядом со спавном, аккурат за пятисотой координатой, расположился летающий остров, ставший базой игрока <PhotoNamePlayer nickname="oneliriti"/> — удивительная постройка, с которой весь спавн виден как на ладони, при не самой большой дальности прорисовки. Жаль, что она пока не достроена.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic272-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic272-preview.webp"
+  alt="Вид на остров"
+  description="Вид на остров"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic273-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic273-preview.webp"
+  alt="Бар на острове"
+  description="Бар на острове"
+/>
+
 #### Старая база Gangsta и Lilit_22
 
 До того, как эти игроки разбрелись по своим городам и проектам, у них была временная маленькая база рядом со спавном, тоже аккурат за пятисотой координатой, — просто и со вкусом.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic274-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic274-preview.webp"
+  alt="Старая база Lilit_22"
+  description="Старая база Lilit_22"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic275-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic275-preview.webp"
+  alt="Мост между базами"
+  description="Мост между базами"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic276-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic276-preview.webp"
+  alt="Старый дом Gangsta"
+  description="Старый дом Gangsta"
+/>
 
 #### Пучье Жорно
 
 Статую Хорнет из Hollow Knight: Silksong вообще никак нельзя пройти мимо.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic277-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic277-preview.webp"
+  alt="Pug Bussy"
+  description="Pug Bussy"
+/>
+
 #### База неизвестного игрока
 
 Во время путешествия по серверу была обнаружена очень уютная база в виде порта на берегу одного из океанов. К сожалению, ник игрока, который её построил, не сохранился, и даже выхода в Надбедрочье отсюда нет, но сохранить это место хотя бы в таком виде очень уж хочется.
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic278-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic278-preview.webp", 
+      alt:"Супер уютный причал неизвестного новичка", 
+      description: "Супер уютный причал неизвестного новичка"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic279-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic279-preview.webp", 
+      alt:"Супер уютный причал неизвестного новичка", 
+      description: "Супер уютный причал неизвестного новичка"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic280-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic280-preview.webp", 
+      alt:"Супер уютный причал неизвестного новичка", 
+      description: "Супер уютный причал неизвестного новичка"
+      },
+  ]}
+/>
 
 ### Магазины и интересные постройки Надбедрочья
 
@@ -2544,38 +2913,160 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 Который на данный момент переехал в другое место Надбедрочья и стал только лучше и краше.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic280-1-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic280-1-preview.webp"
+  alt="Новый магазин Айви"
+  description="Новый магазин Айви"
+/>
+
 Очень интересным выглядит магазин <PhotoNamePlayer nickname="maxim2222225"/> в виде большого козла, внутри которого, как ни странно, можно оптом купить все виды рогов и дудеть в них.
 
 <TelegramPost channel="hardshard_newspaper" postId="993" />
 
 Там же, рядом с ним, расположился механизм, построенный <PhotoNamePlayer nickname="Viskas"/> для игры в динозаврика из Google Chrome.
 
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic281-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic281-preview.webp", 
+      alt:"Динозаврик", 
+      description: "Динозаврик"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic282-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic282-preview.webp", 
+      alt:"Динозаврик", 
+      description: "Динозаврик"
+      },
+  ]}
+/>
+
 Между жёлтой веткой Надбедрочья и поворотом на базу Химера <PhotoNamePlayer nickname="BlessedWithLuck"/> построил… беседку? Наверное, это беседка, да, довольно уютненько.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic283-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic283-preview.webp"
+  alt="беседочка при гастах"
+  description="беседочка при гастах"
+/>
+
 А над хабом <PhotoNamePlayer nickname="Kanamori_Arice"/> построил множество летающих шаров, которые хорошо дополняют композицию хаба, но, кажется, не были задуманы изначально, правда, они не заспавнпруфлены, и там появляются гасты…
+
+<ImageCarousel
+  images={[
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic284-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic284-preview.webp", 
+      alt:"Шары над незер-хабом", 
+      description: "Шары над незер-хабом"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic285-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic285-preview.webp", 
+      alt:"Шары над незер-хабом", 
+      description: "Шары над незер-хабом"
+      },
+    { 
+      src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic286-full.webp", 
+      srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic286-preview.webp", 
+      alt:"Шары над незер-хабом", 
+      description: "Шары над незер-хабом"
+      },
+  ]}
+/>
 
 ## III Мап-арты
 
 Мап-артов в этот раз очень много, и многие из них — за авторством <PhotoNamePlayer nickname="DK5H"/>, но не им единым. Пройдёмся по каждому:
 
-Duolingo
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic287-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic287-preview.webp"
+  alt="Duolingo"
+  description="Duolingo"
+/>
 
-67
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic288-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic288-preview.webp"
+  alt="67"
+  description="67"
+/>
 
-say no
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic289-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic289-preview.webp"
+  alt="say no"
+  description="say no"
+/>
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic290-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic290-preview.webp"
+  alt="Goblin with meat"
+  description="Goblin with meat"
+/>
 
-Goblin with meat
-
-Island
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic291-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic291-preview.webp"
+  alt="Island"
+  description="Island"
+/>
 
 Professor, you have been making every black hole от <PhotoNamePlayer nickname="Mimino87"/>.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic292-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic292-preview.webp"
+  alt="Professor, you have been making every black hole от"
+  description="Professor, you have been making every black hole от"
+/>
+
 Верити от <PhotoNamePlayer nickname="Dashkova"/>.
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic293-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic293-preview.webp"
+  alt="Верити"
+  description="Верити"
+/>
 
 Three cheers for sweet revenge от <PhotoNamePlayer nickname="KidAmnesiacc"/>.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic294-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic294-preview.webp"
+  alt="Three cheers for sweet revenge"
+  description="Three cheers for sweet revenge"
+/>
+
 Три арта со скинами игроков <PhotoNamePlayer nickname="Fitifong228"/>, <PhotoNamePlayer nickname="Maksonhik_"/> и <PhotoNamePlayer nickname="Quad_0"/> от <PhotoNamePlayer nickname="Ivan4ban"/>.
 
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic295-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic295-preview.webp"
+  alt="Fitifong228"
+  description="Fitifong228"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic296-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic296-preview.webp"
+  alt="Maksonhik_"
+  description="Maksonhik_"
+/>
+
+<ImageZoom
+  src="/img/reports/season-4/report-3-may-sept-2026/rep3-pic297-full.webp"
+  srcThumb="/img/reports/season-4/report-3-may-sept-2026/rep3-pic297-preview.webp"
+  alt="Quad_0"
+  description="Quad_0"
+/>
+
 _Следующие отчёты будут выходить **раз в два-три месяца**, чтобы охватывать больше контента и не быть слишком частыми._
+
+Спасибо вам большое, что прочитали этот отчёт! А также большое спасибо, что создаёте контент, которым можно его наполнять, хоть его писать и было очень мучительно, но результат того стоит.
 
 **С уважением, Администрация HardShard.**
