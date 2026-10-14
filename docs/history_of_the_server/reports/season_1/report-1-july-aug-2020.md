@@ -13,7 +13,11 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 # MainSMP | I сезон | Отчёт за июль – август 2020
 
-Автор: DrKolbasa, бывший администратор MainSMP.
+:::secondary авторство
+
+Автор: <PhotoNamePlayer nickname="DrKolbasa"/>, бывший администратор MainSMP.
+
+:::
 
 Что ж, примерно месяц с момента создания MainSMP прошёл, пора уже своеобразный отчёт. Приступим! 
 

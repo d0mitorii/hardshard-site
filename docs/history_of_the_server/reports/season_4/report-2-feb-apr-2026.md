@@ -14,6 +14,12 @@ import VideoEmbed from '@site/src/components/VideoEmbed';
 
 # HardShard | IV сезон | Отчёт за февраль – апрель 2026
 
+:::secondary авторство
+
+Автор: <PhotoNamePlayer nickname="Flammablelion"/>, комьюнити-менеджер проекта.
+
+:::
+
 :::info примечание
 
 _Чтобы попасть на сервер HardShard, вам нужно заполнить эту [анкету](https://docs.google.com/forms/d/e/1FAIpQLSd439lToKD3iWyeyhokr8FDmnviJtvespjAiwM_0_tl2tLbHw/viewform)._

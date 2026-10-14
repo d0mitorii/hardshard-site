@@ -13,7 +13,11 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 # MainSMP | I сезон | Отчёт за май-июнь 2021 (№11)
 
-Автор: Zakallenko, бывший администратор MainSMP.
+:::secondary авторство
+
+Автор: <PhotoNamePlayer nickname="Zakallenko"/>, бывший администратор MainSMP.
+
+:::
 
 Миновала середина июня, а это значит, что свежий и сочный как _арбуз_ отчёт готов. Опоздал _слегка,_но лучше ведь поздно, чем никогда, верно?
 

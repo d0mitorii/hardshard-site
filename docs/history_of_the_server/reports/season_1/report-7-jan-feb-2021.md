@@ -13,7 +13,11 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 # MainSMP | I сезон | Отчёт за декабрь-январь 2021 (№7)
 
-Автор: DrKolbasa, бывший администратор MainSMP.
+:::secondary авторство
+
+Автор: <PhotoNamePlayer nickname="DrKolbasa"/>, бывший администратор MainSMP.
+
+:::
 
 Как быстро летит время! Я, как и многие другие люди, до сих пор путаю номер года, а у нас уже февраль! Что-же, тогда значит пора сделать очередной отчёт нашего сервера!
 

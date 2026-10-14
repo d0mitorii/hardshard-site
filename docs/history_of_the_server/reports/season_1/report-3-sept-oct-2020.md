@@ -13,7 +13,11 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 # MainSMP | I сезон | Отчёт за сентябрь – октябрь 2020
 
-Автор: DrKolbasa, бывший администратор MainSMP.
+:::secondary авторство
+
+Автор: <PhotoNamePlayer nickname="DrKolbasa"/>, бывший администратор MainSMP.
+
+:::
 
 Уже так быстро прошёл третий месяц? Ну что же, пора посмотреть, что произошло на сервере за этот период!
 

@@ -13,7 +13,11 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 # MainSMP | I сезон | Отчёт за ноябрь-декабрь 2020 (№5)
 
-Автор: DrKolbasa, бывший администратор MainSMP.
+:::secondary авторство
+
+Автор: <PhotoNamePlayer nickname="DrKolbasa"/>, бывший администратор MainSMP.
+
+:::
 
 Всех с наступающим новым годом! В последнем отчёте этого года мы подведём итоги не только этого месяца, но и всего полугодия, в котором просуществовал сервер. Что-же, приступим!
 
