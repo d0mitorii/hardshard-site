@@ -49,6 +49,12 @@
   pointer-events: none;
 }
 
+:global(body.medium-zoom--opened) .arrowButton {
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+}
+
 .arrowButtonLeft {
   left: 8px;
 }

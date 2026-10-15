@@ -13,8 +13,12 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 # MainSMP | I сезон | Отчёт за июнь-июль 2021 (№12)
 
-Автор: Zakallenko, бывший администратор MainSMP. Редактор: Atheist, игрок MainSMP.
+:::secondary авторство
 
+Автор: <PhotoNamePlayer nickname="Zakallenko"/>, бывший администратор MainSMP.
+Редактор: <PhotoNamePlayer nickname="Erfarenort"/>, игрок MainSMP.
+
+:::
 
 Наконец, юбилейный, 12-й отчёт. Полтора месяца минуло с прошло**_г_**о, а всё потому, что мы решили перенести отчёты на первые числа месяца, ведь так будет намного логичнее. Тем не менее, отчёт готов, приготовьте чай, возьмите ломтик _вкусного тыквенного пирога_ и можете читать.
 
