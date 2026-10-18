@@ -16,4 +16,4 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 Уведомляем, что данный Устав является наивысшим актом Вольного города, практически не налагающим ограничений на деятельность Губернатора Вольного города Анрими-Эссива. Устав направлен на решение ряда проблем, возникших на прошлых сезонах, а также на обеспечение независимости, безопасности и нейтралитета Вольного города. Настоятельно рекомендуем ознакомиться с текстом документа.
 
-Благодарим за составление правил: <PhotoNamePlayer nickname="Kemerfund"/> <PhotoNamePlayer nickname="EastRane"/> <PhotoNamePlayer nickname="yantar1k"/>
+Благодарим за составление правил: <PhotoNamePlayer nickname="Kemerfund"/> <PhotoNamePlayer nickname="EastRane" skinFile="/img/skins/EastRane.png"/> <PhotoNamePlayer nickname="yantar1k"/>

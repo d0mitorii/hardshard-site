@@ -15,7 +15,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 :::secondary авторство
 
-Автор: <PhotoNamePlayer nickname="DrKolbasa"/>, бывший администратор MainSMP.
+Автор: <PhotoNamePlayer skin="01b4b5c3-7fa2-4d1e-a2b6-276d7a2e1752" nickname="DrKolbasa"/>, бывший администратор MainSMP.
 
 :::
 
@@ -129,7 +129,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
   description="Карта путей до различных локаций. Сделана Flammablelion'ом"
 />
 
-З*а скриншоты спасибо <PhotoNamePlayer nickname="rydyk777"/>, <PhotoNamePlayer nickname="Flammablelion"/>, <PhotoNamePlayer nickname="Gohtar"/>, <PhotoNamePlayer nickname="Kemerfund"/> и <PhotoNamePlayer nickname="CelestialSorcery"/>*
+З*а скриншоты спасибо <PhotoNamePlayer nickname="rydyk777"/>, <PhotoNamePlayer nickname="Flammablelion"/>, <PhotoNamePlayer nickname="Gohtar" skinFile="/img/skins/Gohtar.png"/>, <PhotoNamePlayer nickname="Kemerfund"/> и <PhotoNamePlayer nickname="CelestialSorcery"/>*
 
 ### Заключение
 

@@ -1,7 +1,55 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
+
+const SkinHeadCanvas = ({ src, alt, onError }) => {
+  const canvasRef = useRef<HTMLCanvasElement>(null);
+
+  useEffect(() => {
+    const canvas = canvasRef.current;
+    if (!canvas) return;
+    const ctx = canvas.getContext("2d");
+    if (!ctx) return;
+
+    let cancelled = false;
+    const img = new Image();
+    img.onload = () => {
+      if (cancelled) return;
+      ctx.imageSmoothingEnabled = false;
+      ctx.clearRect(0, 0, 8, 8);
+      ctx.drawImage(img, 8, 8, 8, 8, 0, 0, 8, 8);   // лицо
+      ctx.drawImage(img, 40, 8, 8, 8, 0, 0, 8, 8);  // второй слой (шапка)
+    };
+    img.onerror = () => !cancelled && onError?.();
+    img.src = src;
+
+    return () => {
+      cancelled = true;
+    };
+  }, [src]);
+
+  return (
+    <canvas
+      ref={canvasRef}
+      width={8}
+      height={8}
+      role="img"
+      aria-label={alt}
+      style={{
+        verticalAlign: "top",
+        width: "1.75rem",
+        height: "1.75rem",
+        imageRendering: "pixelated",
+      }}
+    />
+  );
+};
 
 export const PhotoNamePlayer = (props) => {
-  const url = `https://mc-heads.net/avatar/${props.skin ? props.skin : props.nickname}`;
+  const [fileFailed, setFileFailed] = useState(false);
+
+  const remoteUrl = `https://mc-heads.net/avatar/${props.skin ? props.skin : props.nickname}`;
+  const useFile = props.skinFile && !fileFailed;
+  const alt = `Голова игрока ${props.nickname}`;
+
   return (
     <span
       className="padding--xs pills__item"
@@ -21,16 +69,24 @@ export const PhotoNamePlayer = (props) => {
           overflow: "hidden",
         }}
       >
-        <img
-          src={url}
-          alt={`Голова игрока ${props.nickname}`}
-          style={{
-            verticalAlign: "top",
-            width: "1.75rem",
-            alignItems: "center",
-            justifyContent: "center",
-          }}
-        />
+        {useFile ? (
+          <SkinHeadCanvas
+            src={props.skinFile}
+            alt={alt}
+            onError={() => setFileFailed(true)}
+          />
+        ) : (
+          <img
+            src={remoteUrl}
+            alt={alt}
+            style={{
+              verticalAlign: "top",
+              width: "1.75rem",
+              alignItems: "center",
+              justifyContent: "center",
+            }}
+          />
+        )}
       </span>
       {
         props.nickname && `\u00A0${props.nickname}`

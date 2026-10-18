@@ -46,8 +46,8 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
     { 
       src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic1-full.webp", 
       srcThumb: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic1-preview.webp", 
-      alt: "Скеио стриптизит", 
-      description: "Скеио стриптизит"
+      alt: "Секио стриптизит", 
+      description: "Секио стриптизит"
       },
     { 
       src: "/img/reports/season-4/report-3-may-sept-2026/rep3-pic2-full.webp", 

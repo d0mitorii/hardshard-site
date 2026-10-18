@@ -25,4 +25,4 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 Оценивать ваши скины будут:
 - [<PhotoNamePlayer nickname="Kanamori_Arice"/>](https://t.me/KanamoriArice)
 - [<PhotoNamePlayer nickname="mamochkaa"/>](https://t.me/avokneruyt)
-- [<PhotoNamePlayer nickname="EastRane"/>](https://t.me/eastrane).
+- [<PhotoNamePlayer nickname="EastRane" skinFile="/img/skins/EastRane.png"/>](https://t.me/eastrane).
