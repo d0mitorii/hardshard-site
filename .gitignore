@@ -13,6 +13,7 @@
 emailjs.ts
 
 # Misc
+/scripts/
 .DS_Store
 .env.local
 .env.development.local
