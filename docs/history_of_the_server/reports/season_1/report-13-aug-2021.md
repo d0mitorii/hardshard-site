@@ -13,6 +13,13 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 # MainSMP | I сезон | Отчёт за август 2021 (№13)
 
+:::secondary авторство
+
+Автор: <PhotoNamePlayer nickname="Zakallenko"/>, бывший администратор MainSMP.\
+Редактор: <PhotoNamePlayer nickname="Erfarenort"/>, игрок MainSMP.
+
+:::
+
 Этот отчёт должен был выйти 3 сентября, чтобы я мог вставить мем про календарь, но что-то пошло не так. Тем не менее 13-й отчёт за 13-й месяц жизни сервера.
 
 :::info примечание

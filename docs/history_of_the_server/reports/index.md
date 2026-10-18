@@ -13,6 +13,7 @@ slug: /reports
       <li><a href="/docs/report-2-feb-apr-2026">HardShard | IV сезон | Отчёт за февраль – апрель 2026 (№2)</a></li>
       <li><a href="/docs/report-3-may-sept-2026">HardShard | IV сезон | Отчёт за май – сентябрь 2026 (№3)</a></li>
     </ul>
+
   </div>
 
 </div>
@@ -36,26 +37,27 @@ slug: /reports
       <li><a href="/docs/report-13-aug-2021">MainSMP | I сезон | Отчёт за август 2021 (№13)</a></li>
       <li>Первый сезон MainSMP: подведение итогов</li>
     </ul>
+
   </div>
 
   <div className="col col--6">
     <h2>Второй сезон</h2>
 
     <ul>
-      <li>Второй сезон MainSMP</li>
-      <li>MainSMP | II сезон | Отчёт за декабрь 2021 – январь 2022</li>
-      <li>MainSMP | II сезон | Отчёт за январь – март 2022</li>
-      <li>MainSMP | II сезон | Отчёт за апрель 2022</li>
-      <li>MainSMP | II сезон | Отчёт за май 2022</li>
-      <li>MainSMP | II сезон | Отчёт за июнь – июль 2022</li>
-      <li>MainSMP | II сезон | Отчёт за август – ноябрь 2022</li>
-      <li>MainSMP | II сезон | Отчёт за декабрь 2022 – апрель 2023</li>
+      <li><a href="/docs/report-0-jan-2021"> Второй сезон MainSMP </a></li>
+      <li><a href="/docs/report-1-dec-jan-2022"> MainSMP | II сезон | Отчёт за декабрь 2021 – январь 2022 (№1)</a></li>
+      <li>MainSMP | II сезон | Отчёт за январь – март 2022 (№2)</li>
+      <li>MainSMP | II сезон | Отчёт за апрель 2022 (№3)</li>
+      <li>MainSMP | II сезон | Отчёт за май 2022 (№4)</li>
+      <li>MainSMP | II сезон | Отчёт за июнь – июль 2022 (№5)</li>
+      <li>MainSMP | II сезон | Отчёт за август – ноябрь 2022 (№6)</li>
+      <li>MainSMP | II сезон | Отчёт за декабрь 2022 – апрель 2023 (№7)</li>
     </ul>
 
     <h3>Extra</h3>
     <ul>
       <li>Второй сезон MainSMP: подведение итогов (1-е апреля)</li>
     </ul>
+
   </div>
 </div>
-

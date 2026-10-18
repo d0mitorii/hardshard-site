@@ -20,7 +20,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 :::info примечание
 
-_Чтобы попасть на сервер HardShard, вам нужно заполнить эту [анкету](https://docs.google.com/forms/d/e/1FAIpQLSd439lToKD3iWyeyhokr8FDmnviJtvespjAiwM_0_tl2tLbHw/viewform)._
+_Чтобы попасть на сервер HardShard, вам нужно заполнить эту [анкету](https://docs.google.com/forms/d/e/1FAIpQLSd439lToKD3iWyeyhokr8FDmnviJtvespjAiwM_0_tl2tLbHw/viewform) или воспользоваться ботом [@HardShardFormBot](https://t.me/HardShardFormBot)._
 
 :::
 

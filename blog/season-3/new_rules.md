@@ -16,4 +16,4 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 Новые Правила представляют собой совершенно новый иной уровень проработки поведения участников Сообщества, поэтому настоятельно рекомендуем изучить их, чтобы избежать проблем.
 
-Благодарим за составление правил: <PhotoNamePlayer nickname="Kemerfund"/> <PhotoNamePlayer nickname="EastRane"/> <PhotoNamePlayer nickname="yantar1k"/>
+Благодарим за составление правил: <PhotoNamePlayer nickname="Kemerfund"/> <PhotoNamePlayer nickname="EastRane" skinFile="/img/skins/EastRane.png"/> <PhotoNamePlayer nickname="yantar1k"/>

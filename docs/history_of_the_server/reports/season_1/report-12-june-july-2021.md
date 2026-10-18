@@ -15,7 +15,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 :::secondary авторство
 
-Автор: <PhotoNamePlayer nickname="Zakallenko"/>, бывший администратор MainSMP.
+Автор: <PhotoNamePlayer nickname="Zakallenko"/>, бывший администратор MainSMP.\
 Редактор: <PhotoNamePlayer nickname="Erfarenort"/>, игрок MainSMP.
 
 :::
@@ -160,7 +160,7 @@ _Обновлённая карта надбедрочного Хайперлуп
   description="Виды на город"
 />
 
-Камчатка выходит из тени, и <PhotoNamePlayer nickname="Gohtar"/> решается-таки показать, что там строится. Как он сам говорит – начало положено. Деревня постепенно обрастает новыми постройками и фермами.
+Камчатка выходит из тени, и <PhotoNamePlayer nickname="Gohtar" skinFile="/img/skins/Gohtar.png"/> решается-таки показать, что там строится. Как он сам говорит – начало положено. Деревня постепенно обрастает новыми постройками и фермами.
 
 <ImageZoom
   src="/img/reports/season-1/report-12-june-july-2021/rep12-pic17.jpg"
