@@ -15,7 +15,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 :::secondary авторство
 
-Автор: <PhotoNamePlayer skin="01b4b5c3-7fa2-4d1e-a2b6-276d7a2e1752" nickname="DrKolbasa"/>, бывший администратор MainSMP.
+Автор: <PhotoNamePlayer skin="01b4b5c3-7fa2-4d1e-a2b6-276d7a2e1752" nickname="DrKolbasa"/>, бывший главный администратор MainSMP.
 
 :::
 
@@ -62,7 +62,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
   description="Карта от Flammablelion"
 />
 
-Вторым из событий, которые прошли в этом месяце, стал [крестовый поход на Лучерну](https://www.youtube.com/watch?v=Ze64rD9oMew&t=3s). Шрекит и Лучерна имели очень негативные отношения к друг другу, но после того, как <PhotoNamePlayer nickname="CelestialSorcery"/>, король Лучерны, сломал святую табличку Фромгейта, то начались полноценные боевые действия. Монтаж атаки и более подробную историю вы можете посмотреть выше в видео от <PhotoNamePlayer nickname="Zakallenko"/>.
+Вторым из событий, которые прошли в этом месяце, стал [крестовый поход на Лучерну](https://www.youtube.com/watch?v=Ze64rD9oMew&t=3s). Шрекит и Лучерна имели очень негативные отношения к друг другу, но после того, как <PhotoNamePlayer nickname="CelestialSorcery"/>, король Лучерны, сломал святую табличку Фромгейта, то начались полноценные боевые действия. Монтаж атаки и более подробную историю вы можете посмотреть выше в видео от <PhotoNamePlayer nickname="Derepaw"/>.
 
 <ImageZoom
   src="/img/reports/season-1/report-9-mar-apr-2021/rep9-pic6.jpg"

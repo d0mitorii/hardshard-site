@@ -15,8 +15,8 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 :::secondary авторство
 
-Автор: <PhotoNamePlayer nickname="Zakallenko"/>, бывший администратор MainSMP.\
-Редактор: <PhotoNamePlayer nickname="Erfarenort"/>, игрок MainSMP.
+Автор: <PhotoNamePlayer nickname="Derepaw"/>, бывший главный администратор MainSMP.\
+Редактор: <PhotoNamePlayer nickname="Erfarenort"/>, бывший модератор MainSMP..
 
 :::
 

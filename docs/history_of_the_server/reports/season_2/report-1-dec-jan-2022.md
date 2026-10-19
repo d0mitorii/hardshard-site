@@ -16,7 +16,7 @@ import TelegramPost from '@site/src/components/TelegramPost';
 :::secondary авторство
 
 Автор: <PhotoNamePlayer nickname="Flammablelion"/>, комьюнити-менеджер проекта.\
-Редактор: <PhotoNamePlayer nickname="Erfarenort"/>, бывший администратор MainSMP.
+Редактор: <PhotoNamePlayer nickname="Erfarenort"/>, бывший модератор MainSMP.
 
 :::
 

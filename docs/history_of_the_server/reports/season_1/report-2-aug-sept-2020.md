@@ -15,7 +15,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 :::secondary авторство
 
-Автор: <PhotoNamePlayer skin="01b4b5c3-7fa2-4d1e-a2b6-276d7a2e1752" nickname="DrKolbasa"/>, бывший администратор MainSMP.
+Автор: <PhotoNamePlayer skin="01b4b5c3-7fa2-4d1e-a2b6-276d7a2e1752" nickname="DrKolbasa"/>, бывший главный администратор MainSMP
 
 :::
 
@@ -82,7 +82,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 Кстати, помните в прошлом [посте](/docs/report-1-july-aug-2020) Нижний Фромград? Вот как он выглядит сейчас:
 
 <ImageZoom
-  src="/img/reports/season-1/season-1/report-2-aug-sept-2020/rep2-pic9-nizhnij-hab-nezera.png"
+  src="/img/reports/season-1/report-2-aug-sept-2020/rep2-pic9-nizhnij-hab-nezera.png"
   alt="Скриншот № 4 Оквуд Холла возле Фромграда"
 />
 

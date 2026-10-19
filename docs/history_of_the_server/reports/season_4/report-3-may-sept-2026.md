@@ -203,7 +203,7 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
     <tr>
       <td rowspan="3">Адвокат</td>
-      <td><PhotoNamePlayer nickname="Aiwai" /></td>
+      <td><PhotoNamePlayer nickname="Aiwai" skinFile="/img/skins/Aiwai.png" /></td>
     </tr>
     <tr>
       <td><PhotoNamePlayer nickname="genkaTOP" /></td>
@@ -268,7 +268,7 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
       <td>43%</td>
     </tr>
     <tr>
-      <td><PhotoNamePlayer nickname="Aiwai" /></td>
+      <td><PhotoNamePlayer nickname="Aiwai" skinFile="/img/skins/Aiwai.png" /></td>
       <td>42%</td>
     </tr>
     <tr>
@@ -1170,7 +1170,7 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
   ]}
 />
 
-Более заметным можно назвать дом <PhotoNamePlayer nickname="Aiwai"/>, который имеет очень высокую внешнюю и внутреннюю проработку, что в дальнейшем ещё будет заметно на её личной базе.
+Более заметным можно назвать дом <PhotoNamePlayer nickname="Aiwai" skinFile="/img/skins/Aiwai.png"/>, который имеет очень высокую внешнюю и внутреннюю проработку, что в дальнейшем ещё будет заметно на её личной базе.
 
 <ImageCarousel
   images={[
@@ -2370,7 +2370,7 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 ### Wild Side
 
-Территория является собственностью игроков <PhotoNamePlayer nickname="Aiwai"/>, <PhotoNamePlayer nickname="mulciber_"/> и <PhotoNamePlayer nickname="Lelyaa"/>. 
+Территория является собственностью игроков <PhotoNamePlayer nickname="Aiwai" skinFile="/img/skins/Aiwai.png"/>, <PhotoNamePlayer nickname="mulciber_"/> и <PhotoNamePlayer nickname="Lelyaa"/>. 
 
 Базовый домик новичка с простым и лаконичным дизайном, построенный <PhotoNamePlayer nickname="Lelyaa"/>. Давайте полностью рассмотрим его на скриншотах.
 
@@ -2915,7 +2915,7 @@ _Чтобы попасть на сервер HardShard, вам нужно зап
 
 <TelegramPost channel="hardshard_newspaper" postId="974" />
 
-Или старый магазин <PhotoNamePlayer nickname="Aiwai"/>.
+Или старый магазин <PhotoNamePlayer nickname="Aiwai" skinFile="/img/skins/Aiwai.png"/>.
 
 <TelegramPost channel="hardshard_newspaper" postId="968" />
 
