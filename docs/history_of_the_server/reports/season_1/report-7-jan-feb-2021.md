@@ -15,7 +15,7 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 
 :::secondary авторство
 
-Автор: <PhotoNamePlayer skin="01b4b5c3-7fa2-4d1e-a2b6-276d7a2e1752" nickname="DrKolbasa"/>, бывший администратор MainSMP.
+Автор: <PhotoNamePlayer skin="01b4b5c3-7fa2-4d1e-a2b6-276d7a2e1752" nickname="DrKolbasa"/>, бывший главный администратор MainSMP
 
 :::
 

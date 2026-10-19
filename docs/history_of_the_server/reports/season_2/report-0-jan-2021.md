@@ -50,57 +50,57 @@ import { PhotoNamePlayer } from "@site/src/components/PhotoNamePlayer"
 **Галерея построек с первого сезона**
 
 <ImageZoom
-  src="/img/reports/season-2/report-1-may-jan-2021/rep0-pic1-full.webp"
-  srcThumb="/img/reports/season-2/report-1-may-jan-2021/rep0-pic1-preview.webp"
+  src="/img/reports/season-2/report-0-jan-2021/rep0-pic1-full.webp"
+  srcThumb="/img/reports/season-2/report-0-jan-2021/rep0-pic1-preview.webp"
   alt="Статуя Игорю Фромгейту"
   description="Статуя Игорю Фромгейту"
 />
 
 <ImageZoom
-  src="/img/reports/season-2/report-1-may-jan-2021/rep0-pic2-full.webp"
-  srcThumb="/img/reports/season-2/report-1-may-jan-2021/rep0-pic2-preview.webp"
+  src="/img/reports/season-2/report-0-jan-2021/rep0-pic2-full.webp"
+  srcThumb="/img/reports/season-2/report-0-jan-2021/rep0-pic2-preview.webp"
   alt="Главный собор Фромгетианства (вид изнутри)"
   description="Главный собор Фромгетианства (вид изнутри)"
 />
 
 <ImageZoom
-  src="/img/reports/season-2/report-1-may-jan-2021/rep0-pic3-full.webp"
-  srcThumb="/img/reports/season-2/report-1-may-jan-2021/rep0-pic3-preview.webp"
+  src="/img/reports/season-2/report-0-jan-2021/rep0-pic3-full.webp"
+  srcThumb="/img/reports/season-2/report-0-jan-2021/rep0-pic3-preview.webp"
   alt="Лучерна (город-государство CelestialSorsery)"
   description="Лучерна (город-государство CelestialSorsery)"
 />
 
 <ImageZoom
-  src="/img/reports/season-2/report-1-may-jan-2021/rep0-pic4-full.webp"
-  srcThumb="/img/reports/season-2/report-1-may-jan-2021/rep0-pic4-preview.webp"
+  src="/img/reports/season-2/report-0-jan-2021/rep0-pic4-full.webp"
+  srcThumb="/img/reports/season-2/report-0-jan-2021/rep0-pic4-preview.webp"
   alt="Новогодняя деревня. Город Далёкоград"
   description="Новогодняя деревня. Город Далёкоград"
 />
 
 <ImageZoom
-  src="/img/reports/season-2/report-1-may-jan-2021/rep0-pic5-full.webp"
-  srcThumb="/img/reports/season-2/report-1-may-jan-2021/rep0-pic5-preview.webp"
+  src="/img/reports/season-2/report-0-jan-2021/rep0-pic5-full.webp"
+  srcThumb="/img/reports/season-2/report-0-jan-2021/rep0-pic5-preview.webp"
   alt="Шрекитовилль"
   description="Шрекитовилль"
 />
 
 <ImageZoom
-  src="/img/reports/season-2/report-1-may-jan-2021/rep0-pic6-full.webp"
-  srcThumb="/img/reports/season-2/report-1-may-jan-2021/rep0-pic6-preview.webp"
+  src="/img/reports/season-2/report-0-jan-2021/rep0-pic6-full.webp"
+  srcThumb="/img/reports/season-2/report-0-jan-2021/rep0-pic6-preview.webp"
   alt="Golden Mesa City"
   description="Golden Mesa City"
 />
 
 <ImageZoom
-  src="/img/reports/season-2/report-1-may-jan-2021/rep0-pic7-full.webp"
-  srcThumb="/img/reports/season-2/report-1-may-jan-2021/rep0-pic7-preview.webp"
+  src="/img/reports/season-2/report-0-jan-2021/rep0-pic7-full.webp"
+  srcThumb="/img/reports/season-2/report-0-jan-2021/rep0-pic7-preview.webp"
   alt="Дженней"
   description="Дженней"
 />
 
 <ImageZoom
-  src="/img/reports/season-2/report-1-may-jan-2021/rep0-pic8-full.webp"
-  srcThumb="/img/reports/season-2/report-1-may-jan-2021/rep0-pic8-preview.webp"
+  src="/img/reports/season-2/report-0-jan-2021/rep0-pic8-full.webp"
+  srcThumb="/img/reports/season-2/report-0-jan-2021/rep0-pic8-preview.webp"
   alt="Новый «Старый» Фромград во время бета ивента (Minecraft Beta 1.7)"
   description="Новый «Старый» Фромград во время бета ивента (Minecraft Beta 1.7)"
 />
