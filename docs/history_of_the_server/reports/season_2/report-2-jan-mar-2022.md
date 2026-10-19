@@ -1,8 +1,8 @@
 ---
 title: Отчёт № 2. Прогресс за январь – март 2022
-description: Отчёт № 2. Сезон 2.
+description: Второй отчёт второго сезона MainSMP.
 slug: /report-2-jan-mar-2022
-authors: [Flammablelion]
+authors: [Vi_Mel, Erfarenort]
 tags: [Report, Season 2]
 date: 2022-04-04
 ---

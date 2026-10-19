@@ -2,7 +2,7 @@
 title: Второй сезон MainSMP. подведение итогов (1-е апреля)
 description: Второй сезон MainSMP. подведение итогов (1-е апреля)
 slug: /report-extra-apr-2023
-authors: [Flammablelion]
+authors: [Flammablelion, EastRane]
 tags: [Report, Season 2]
 date: 2023-04-01
 ---
