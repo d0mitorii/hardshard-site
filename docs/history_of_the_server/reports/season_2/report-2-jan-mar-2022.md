@@ -15,7 +15,7 @@ import VideoEmbed from '@site/src/components/VideoEmbed';
 
 :::secondary авторство
 
-Автор: <PhotoNamePlayer nickname="Derepaw"/>, бывшмй главный администратор MainSMP.\
+Автор: <PhotoNamePlayer nickname="Vi_Mel"/>, игрок MainSMP.\
 Редактор: <PhotoNamePlayer nickname="Erfarenort"/>, бывший модератор MainSMP..
 
 :::
