@@ -47,7 +47,7 @@ slug: /reports
       <li><a href="/docs/report-0-jan-2021"> Второй сезон MainSMP </a></li>
       <li><a href="/docs/report-1-dec-jan-2022"> MainSMP | II сезон | Отчёт за декабрь 2021 – январь 2022 (№1)</a></li>
       <li><a href="/docs/report-2-jan-mar-2022"> MainSMP | II сезон | Отчёт за январь – март 2022 (№2) </a></li>
-      <li>MainSMP | II сезон | Отчёт за апрель 2022 (№3)</li>
+      <li><a href="/docs/report-3-apr-2022"> MainSMP | II сезон | Отчёт за апрель 2022 (№3) </a></li>
       <li>MainSMP | II сезон | Отчёт за май 2022 (№4)</li>
       <li>MainSMP | II сезон | Отчёт за июнь – июль 2022 (№5)</li>
       <li>MainSMP | II сезон | Отчёт за август – ноябрь 2022 (№6)</li>

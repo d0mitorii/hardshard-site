@@ -207,129 +207,82 @@ window.dispatchEvent(new Event("rule-collapse:collapse-all"))
 Нарушение установленного запрета наказывается срочной блокировкой на срок **не менее одних суток**.
 :::
 
-<strong id="2.1.3">2.</strong> Любой игрок вправе обратиться к Администрации HardShard с запросом о допустимости использования той или иной модификации.
+<strong id="2.1.3">3.</strong> Любой игрок вправе обратиться к Администрации HardShard с запросом о допустимости использования той или иной модификации.
 
 Любой игрок вправе обратиться к Администрации HardShard с запросом о внесении мода (модов) в список исключений, определенный примечанием к настоящему пункту. При направлении запроса игрок обязан предоставить полную информацию о моде, его функциях и возможных влияниях на игровой процесс.
 
-:::info Примечание
+<details>
+<summary>Примечание:</summary>
 
 1. Допускаются установка и использование следующих дополнений к игре:
-
-   1. **Общедопустимые модификации:**
-
-      а) оптимизацию игры (Sodium, Sodium Extra (отключение тумана в лаве запрещено), Starlight и подобные);
-
-      б) модификации на кастомизацию (Essential и подобные);
-
-      в) модификации на дополнение игрового меню (Resourcify, In-Game Account Switcher и подобные);
-
-      г) Litematica (и дополнения);
-
-      д) Roughly Enough Items (и подобные);
-
-      е) Stendhal (и подобные);
-
-      ё) TieFix, MiniHUD (и подобные);
-
-      ж) Xaero’s Minimap (Fair-play Edition);
-
-      з) Xaero’s World Map;
-
-      и) Item Scroller;
-
-      й) Autoclicker (by TaXiaoQi);
-
-      к) Lightweight Inventory Sorting;
-
-      л) Nemo’s Inventory Sorting;
-
-      м) Mouse Tweaks;
-
-      н) WTHIT;
-
-      о) AppleSkin;
-
-      п) Dynamic FPS;
-
-      р) Shulker Box Tooltip;
-
-      с) Beautified Chat;
-
-      т) Farsight;
-
-      у) Controlling;
-
-      ф) Do a Barrel Roll;
-
-      х) Notebook;
-
-      ц) Spyglass Astronomy;
-
-      ч) Voxy;
-
-      ш) Bobby;
-
-      щ) Distant Horizons;
-
-      ы) Macro Keybinds (исключительно для автоматизации отдельных команд в чате, например, входа по команде или отправки личного сообщения конкретному игроку);
-
-      э) Anti Tool Break;
-
-      ю) подсветка руд допускается как при помощи ресурспаков, так и шейдеров.
+   1. **Общедопустимые модификации:** \
+      а) оптимизацию игры (Sodium, Sodium Extra (отключение тумана в лаве запрещено), Starlight и подобные); \
+      б) модификации на кастомизацию (Essential и подобные); \
+      в) модификации на дополнение игрового меню (Resourcify, In-Game Account Switcher и подобные); \
+      г) Litematica (и дополнения); \
+      д) Roughly Enough Items (и подобные); \
+      е) Stendhal (и подобные); \
+      ё) TieFix, MiniHUD (и подобные); \
+      ж) Xaero’s Minimap (Fair-play Edition); \
+      з) Xaero’s World Map;\
+      и) Item Scroller; \
+      й) Autoclicker (by TaXiaoQi); \
+      к) Lightweight Inventory Sorting; \
+      л) Nemo’s Inventory Sorting; \
+      м) Mouse Tweaks; \
+      н) WTHIT; \
+      о) AppleSkin; \
+      п) Dynamic FPS; \
+      р) Shulker Box Tooltip; \
+      с) Beautified Chat; \
+      т) Farsight; \
+      у) Controlling; \
+      ф) Do a Barrel Roll; \
+      х) Notebook; \
+      ц) Spyglass Astronomy; \
+      ч) Voxy; \
+      ш) Bobby; \
+      щ) Distant Horizons; \
+      ы) Macro Keybinds (исключительно для автоматизации отдельных команд в чате, например, входа по команде или отправки личного сообщения конкретному игроку); \
+      э) Anti Tool Break; \
+      ю) подсветка руд допускается как при помощи ресурспаков, так и шейдеров; \
+      я) ScrollWalk. 
 
    2. **Модификации, допускаемые с ограниченным использованием:**
 
-      а) ReplayMod, Flashback (использование в соответствии с описанием, составленным разработчиком модификации);
-
-      б) SmartBlockPlacement (использование исключительно при строительстве);
-
-      в) Boat Item View (использование запрещено на ивентах);
-
+      а) ReplayMod, Flashback (использование в соответствии с описанием, составленным разработчиком модификации); \
+      б) SmartBlockPlacement (использование исключительно при строительстве); \
+      в) Boat Item View (использование запрещено на ивентах); \
       г) Isometric Renders (и подобные) (использование в соответствии с описанием, составленным разработчиком модификации).
 
    3. **Лаунчеры Mojo Launcher и Amethyst, позволяющие посещать проект с мобильного устройства.**
 
    4. **Рекомендованные лаунчеры:**
 
-      а) оригинальный (официальный) лаунчер Minecraft;
-
-      б) TLauncher;
-
-      в) TL Legacy;
-
-      г) MultiMC;
-
-      д) PolyMC;
-
-      е) Prism Launcher;
-
-      ё) лаунчер Modrinth;
-
+      а) оригинальный (официальный) лаунчер Minecraft;  \
+      б) TLauncher; \
+      в) TL Legacy; \
+      г) MultiMC; \
+      д) PolyMC; \
+      е) Prism Launcher; \
+      ё) лаунчер Modrinth; \
       ж) лаунчеры, направленные на оптимизацию игры, — Lunar Client и Badlion Client (при условии использования только тех функций, которые допускаются настоящим пунктом).
 
    Все иные лаунчеры признаются **нерекомендованными**. Их использование является основанием для проверки со стороны Администрации Сообщества.
 
 2. **Не допускается использование следующих модификаций:**
 
-   а) Inventory Profiles Next;
-
-   б) Inventory Profiles;
-
-   в) InvMove;
-
-   г) Inventory HUD;
-
-   д) JourneyMap;
-
-   е) Bridging;
-
-   ё) Camera Utils;
-
-   ж) ItemsSwapper;
-
+   а) Inventory Profiles Next; \
+   б) Inventory Profiles; \
+   в) InvMove;\
+   г) Inventory HUD; \
+   д) JourneyMap; \
+   е) Bridging; \
+   ё) Camera Utils; \
+   ж) ItemsSwapper; \
    з) ChestTracker.
 
-:::
+</details>
 
 </RuleCollapse>
 
@@ -580,7 +533,7 @@ window.dispatchEvent(new Event("rule-collapse:collapse-all"))
 
 </RuleCollapse>
 
-<RuleCollapse id="2.8" title="2.8. Специальный статус центрального Незер-хаба и Центрального острова Энда">
+<RuleCollapse id="2.8" title="2.8. Специальный статус центрального Незер-хаба, а также Центрального острова и некоторых структур Энда">
 
 <strong id="2.8.1">1.</strong> Центральный Незер-хаб относится к юрисдикции города Астреи. На территории центрального Незер-хаба действует специальный статус, применяемый в отношении города Астреи на основании пункта 2.7 настоящих Правил с учётом местной специфики.
 
